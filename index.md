@@ -15,7 +15,7 @@ We are researching and developing distributed system technology and artificial i
 By utilizing Cloud Platform Technology, which has been researched and developed for over 10 years, we are currently focusing on the development of “Intelligent Fog Computing (IFC)” technology, which is the core of the 4th Industrial Revolution and 5G technology. In particular, we are researching intelligent IoT gateway development suitable for “Intelligent Assistant for Silver” and “Digital Twin System for Urban Air Mobility” application fields, automatic construction of a safe, stable and scalable fog computing server system, and intelligent operation management technology.
 
 ### Artificial Intelligence Technology 
-AlphaGo's core technologies, Deep Learning and Deep Reinforcement Learning, are being developed in the form of Distributed Multi-Agent System. In particular, we focus on the natural language processing fields such as Question Answering, Question Generation, Auto Knowledge Construction as well as distributed intelligent fields such as Distributed Multi-Agent Cooperative and Competitive Systems, Real-time Multi-Object Tracking Systems, etc.
+AlphaGo's core technologies, Deep Learning and Deep Reinforcement Learning, are being developed in the form of Distributed Multi-Agent System. In particular, we focus on distributed intelligent fields such as Distributed Multi-Agent Cooperative and Competitive Systems, Real-time Multi-Object Tracking Systems,  as well as natural language processing fields such as Question Answering, Question Generation, Auto Knowledge Construction, etc.
 
 ### Core Research Focus
 * Automatic construction and intelligent operation management technology of intelligent fog computing platforms (IaaS, PaaS, SaaS, FaaS)
