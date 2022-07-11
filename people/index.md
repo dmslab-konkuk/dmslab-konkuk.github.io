@@ -45,7 +45,7 @@ title: People
 * WonKyung Choi
 * Hoeun Lee
 * KyungWon Yoo
-
+* [SeongMin Park](./SeongMinPark)
 
 <br/>
 
