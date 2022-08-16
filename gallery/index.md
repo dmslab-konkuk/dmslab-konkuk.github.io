@@ -20,8 +20,7 @@ title: Gallery
 ![alt_text](../assets/img/gallery/20210601_2.jpg)
 
 ## 2013 
-
-###vanderbilt
+### vanderbilt
 ![alt_text](../assets/img/gallery/dms1.png)
 
 
