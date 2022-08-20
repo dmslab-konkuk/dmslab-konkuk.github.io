@@ -4,21 +4,22 @@ title: Project
 ---
 
 # In progress
-### [Key Research Institute, 대학중점연구소] 
+### [Key Research Institute (대학중점연구소)] 
 - Research on artificial intelligence digital twin technology for smart urban air mobility
 - Ministry of Education, 2020.6.1.~2029.5.31
 
-### [**, 중견연구자] 
+### [Midcareer Researcher Grant (중견연구자)] 
 - Research on artificial intelligence digital twin technology for smart urban air mobility
--  Ministry of Education, 2021.9.1.~2026.8.31
+- Ministry of Education, 2021.9.1.~2026.8.31
 
-### [Institute for Information & communication Technology Planning & evaluation, IITP]
+### [Professional Education Project (전문인력양성사업)]
 - Training experts in future automobile R&D experts
 - Ministry of Trade, Industry and Energy, 2022.3.1.~2027.2.28.
 
-###  (자문과제)
--ㅇㄹ
--
+### [Bio-Medical Core Technology Development Project (원천기술개발사업) / Consulting Project]
+- Development of objective diagnosis and the clinical pathway of Traditional Korean Medicines for Damjeok Syndrome
+- Ministry of Science and ICT, 2022.7.1.~2026.12.31.
+
 
 # Completed
 - Training experts in future automobile R&D experts(IITP), Ministry of Trade, Industry and Energy, 2017.3.1.~2022.2.28.
