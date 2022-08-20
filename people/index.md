@@ -4,51 +4,51 @@ title: People
 ---
 
 <br/>
-
 ### Directory, Professor
 * [Prof. Dugki Min, Ph.D](./DugkiMin)
 
-
 ### Research Professor
-
 * [Prof. K. Vishnu Kumar, Ph.D](./VishnuKumar)
 * [Prof. Tuan Anh Nguyen, Ph.D](./AnhNT)
 
-
 ### Ph.D Course
-
-* Paul Kim
 * Jueying Li
 * [DamSub Lim](./DamsubLim)
-* Jun Oh
+* Paul Kim
 * Woojun Yoo
-
+* Jun Oh
 
 ### M.S Course
-
-* Nang Lung Auag(A)
-* [Geunyeong Go](./GeunyeongGo)
-* Ina Jang
-* [Sangwoo Jeon](./SangwooJeon)
-* Hyeon-gyu Jeong 
-* [Hyungeun Jo](./HyunGeunJo)
-* Lu kai
 * Minhwan Kim
+* [Sangwoo Jeon](./SangwooJeon)
+* [WonJune Seo](./SeoWonJune)
+* Ina Jang
+* Lu kai
 * Chuhong Kim
+* [Geunyeong Go](./GeunyeongGo)
+* 정태민
+* 조문충
+* Hyeon-gyu Jeong
 * Ikjin Kwon
 * Fengyi Jin
-* [WonJune Seo](./SeoWonJune)
-* Seungjin Yu
+* Nang Lung Auag(A)
 
 ### B.S Course
-
-* WonKyung Choi
+* 김민환
+* 김형규
+* 진항우
+* 우창석
+* 남승협
+* 조현서
+* 강신규
 * Hoeun Lee
-* KyungWon Yoo
 * [SeongMin Park](./SeongMinPark)
-
+* 박상윤
+* 손소영
+* 정민지
+* 이예빈
+* 권순재
 <br/>
-
 
 ### Alumni, Ph.D
 * Sasi Don
@@ -64,4 +64,15 @@ title: People
 * Seon-yeop Lee 
 * Sang-hyuk Lee  
 * Yashin Oh 
+* Seungjin Yu
+
+### Alumni, Undergraduate Researcher 
+* WonKyung Choi
+* KyungWon Yoo
+* 주재빈
+* 이성윤
+* 서형상
+* 장준서
+* 류창현
+
 
