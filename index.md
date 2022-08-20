@@ -1,3 +1,12 @@
+---
+layout: page
+title: Konkuk Univ DMS LAB
+subtitle: Distributed Multimedia Laboratory, Konkuk
+cover-img: /assets/img/server.jpeg
+---
+
+<br/>
+
 ## Introduction to DMS Research Group
 The DMS research group is currently concentrating on research and development related to Smart Mobility Systems and Bio-Medical/Healthcare intelligent Services based on distributed system technology and deep learning-based artificial intelligence technology.
 (DMS 연구그룹은 현재 분산시스템 기술과 딥러닝 기반 인공지능 기술을 기반으로 스마트 모빌리티 시스템 및 바이오 메디컬/헬스케어 지능 서비스 관련 연구개발에 집중하고 있다).
