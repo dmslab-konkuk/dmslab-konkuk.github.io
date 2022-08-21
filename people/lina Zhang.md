@@ -8,7 +8,7 @@ title: Lina Zhang
 
 # Lina 
 
-![alt_text](/)
+
 #Research 
 * Received the MS degree in Computer,Information&Communication Engineering
 
