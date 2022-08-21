@@ -22,12 +22,11 @@ title: People
 * Minhwan Kim
 * [Sangwoo Jeon](./SangwooJeon)
 * [WonJune Seo](./SeoWonJune)
-* Ina Jang
+* [Lina Zhang](./LinaZhang)
 * [Lu Kai](./Lukai)
 * Chuhong Kim
 * [Geunyeong Go](./GeunyeongGo)
 * 정태민
-* 조문충
 * Hyeon-gyu Jeong
 * Ikjin Kwon
 * Fengyi Jin
