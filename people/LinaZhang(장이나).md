@@ -3,7 +3,7 @@ layout: default
 title: Lina Zhang
 ---
 
-# Lina 
+# Lina (장이나)
 
 
 #Research 
