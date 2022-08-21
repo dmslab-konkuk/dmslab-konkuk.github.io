@@ -22,7 +22,7 @@ title: People
 * Minhwan Kim
 * [Sangwoo Jeon](./SangwooJeon)
 * [WonJune Seo](./SeoWonJune)
-* [Lina Zhang](./LinaZhang)
+* [LinaZhang(장이나)](./LinaZhang)
 * [Lu Kai](./Lukai)
 * Chuhong Kim
 * [Geunyeong Go](./GeunyeongGo)
