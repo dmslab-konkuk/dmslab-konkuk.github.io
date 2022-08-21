@@ -4,7 +4,7 @@ title: Lina Zhang
 ---
 
 ### Lina (장이나)
-![alt_text](./lina.jpg)
+![alt_text](./LinaZhang(장이나).png)
 
 #Research 
 * Received the MS degree in Computer,Information&Communication Engineering
