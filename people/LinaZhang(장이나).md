@@ -3,8 +3,8 @@ layout: default
 title: Lina Zhang
 ---
 
-# Lina (장이나)
-
+### Lina (장이나)
+![alt_text](./lina.jpg)
 
 #Research 
 * Received the MS degree in Computer,Information&Communication Engineering
