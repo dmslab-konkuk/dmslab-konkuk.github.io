@@ -35,7 +35,7 @@ title: People
 
 ### B.S Course
 * [Minwhoan Kim](./MinwhoanKim)
-* 김형규
+* [Hyungkyu Kim](./kimhyungkyu/hkkim)
 * 진항우
 * 우창석
 * 남승협
