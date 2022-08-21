@@ -7,10 +7,12 @@ title: Damsub Lim
 ![alt_text](../assets/img/profile_dslim.png)
 
 
-### Research
+### Research Interests
 
 - Fog Computing 
 - SDN Network
 
 ### Contact
 Lab : Room 1207, New Engineering Building
+
+### Related Links
