@@ -34,7 +34,7 @@ title: People
 * Nang Lung Auag(A)
 
 ### B.S Course
-* 김민환
+* [Minwhoan Kim](./MinwhoanKim)
 * 김형규
 * 진항우
 * 우창석
