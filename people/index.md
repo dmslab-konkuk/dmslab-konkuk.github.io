@@ -23,7 +23,7 @@ title: People
 * [Sangwoo Jeon](./SangwooJeon)
 * [WonJune Seo](./SeoWonJune)
 * Ina Jang
-* Lu kai
+* [Lu Kai](./LuKai)
 * Chuhong Kim
 * [Geunyeong Go](./GeunyeongGo)
 * 정태민
