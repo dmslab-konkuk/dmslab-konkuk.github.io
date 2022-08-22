@@ -43,7 +43,7 @@ title: People
 * Hoeun Lee
 * [SeongMin Park](./SeongMinPark)
 * 박상윤
-* 손소영
+* [Soyeong Sohn](./SoyeongSohn)
 * 정민지
 * 이예빈
 * 권순재
