@@ -9,5 +9,5 @@ Studying Natural Language Processing
 
 
 ### Contact
-contact : thdud6265@gmail.com
+email : thdud6265@gmail.com
 
