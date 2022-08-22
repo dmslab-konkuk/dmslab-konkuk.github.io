@@ -26,7 +26,7 @@ title: People
 * [Lu Kai](./Lukai)
 * Chuhong Kim
 * [Geunyeong Go](./GeunyeongGo)
-* 정태민
+* [Tae-min Joung](./TaeminJung)
 * Hyeon-gyu Jeong
 * Ikjin Kwon
 * Fengyi Jin
