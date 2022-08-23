@@ -7,7 +7,7 @@ title: Sunjae Kwon
 <img src="../assets/img/profile_SunajeKwon.png" alt="Sunjae" width="200"/>
 ### Research Interests
 - Cloud/Fog/Edge Computing
-- Teraform / Openstack
+- Terraform / Openstack
 - Auto Provisioning
 - UAM(Urban Air Mobility) Digtal Twin Environment
 - Software Defined Network / Software Defined LAN
