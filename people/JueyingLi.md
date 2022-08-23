@@ -4,7 +4,7 @@ title: Jueying Li
 ---
 
 ## Jueying Li (이각영)
-![alt_text](../assets/img/profile_JueyingLi.png)
+![alt_text](../assets/img/profile_JueyingLi.jpg)
 
 ### Research Interests
 - Cloud/Fog/Edge Computing
@@ -15,7 +15,7 @@ title: Jueying Li
 
 ### Contact Info
 Lab : Room 1207, New Engineering Building
-email: 
+email: lijueying1108@konkuk.ac.kr
 
 ### Related Links
 
