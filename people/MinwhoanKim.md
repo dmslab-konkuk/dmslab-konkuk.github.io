@@ -4,7 +4,7 @@ title: Minwhoan Kim
 ---
 
 ## Minwhoan Kim
-![MinwhoanKim](../assets/img/profile_mwhkim.png)
+![MinwhoanKim](../assets/img/profile_mwhkim.png){: width="245" height="329"}
 
 ### About
 * Name: Eugene Minwhoan Kim
