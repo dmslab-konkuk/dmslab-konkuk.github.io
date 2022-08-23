@@ -4,7 +4,7 @@ title: Sunjae Kwon
 ---
 
 ## Sunjae Kwon ( 권 순재 )
-![alt_text](../assets/img/profile_SunajeKwon.png){:  width="20%"}
+![alt_text](../assets/img/profile_SunajeKwon.png){: width="20%"}
 
 ### Research Interests
 - Cloud/Fog/Edge Computing
