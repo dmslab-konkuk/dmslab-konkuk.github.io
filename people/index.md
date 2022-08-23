@@ -12,7 +12,7 @@ title: People
 * [Prof. Tuan Anh Nguyen, Ph.D](./AnhNT)
 
 ### Ph.D Course
-* Jueying Li
+* [Jueying Li](./JueyingLi)
 * [DamSub Lim](./DamsubLim)
 * Paul Kim
 * Woojun Yoo
@@ -35,7 +35,7 @@ title: People
 ### B.S Course
 * [Minwhoan Kim](./MinwhoanKim)
 * [Hyungkyu Kim](./kimhyungkyu/hkkim)
-* 진항우
+* [JinHang Yu](./JinHangYu)
 * 우창석
 * 남승협
 * 조현서
