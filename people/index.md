@@ -39,7 +39,7 @@ title: People
 * 우창석
 * 남승협
 * 조현서
-* 강신규
+* [Sinkyu Kang](./SinkyuKang)
 * Hoeun Lee
 * [SeongMin Park](./SeongMinPark)
 * 박상윤
