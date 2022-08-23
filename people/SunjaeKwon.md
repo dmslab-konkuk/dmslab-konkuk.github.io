@@ -4,7 +4,7 @@ title: Sunjae Kwon
 ---
 
 ## Sunjae Kwon ( 권 순재 )
-![alt_text](../assets/img/profile_SunjaeKwon.png)
+![alt_text](../assets/img/profile_SunajeKwon.png)
 
 ### Research Interests
 - Cloud/Fog/Edge Computing
@@ -15,6 +15,7 @@ title: Sunjae Kwon
 
 ### Contact Info
 Lab : Room 1207, New Engineering Building
+
 email: ksun4131@gmail.com
 
 ### Related Links
