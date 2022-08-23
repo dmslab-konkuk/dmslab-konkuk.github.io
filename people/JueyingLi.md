@@ -4,7 +4,7 @@ title: Jueying Li
 ---
 
 ## Jueying Li (이각영)
-![alt_text](../assets/img/profile_JueyingLi.jpg)
+![alt_text](../assets/img/profile_JueyingLi.png)
 
 ### Research Interests
 - Cloud/Fog/Edge Computing
