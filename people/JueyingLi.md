@@ -14,8 +14,8 @@ title: Jueying Li
 - Union Mount
 
 ### Contact Info
-Lab : Room 1207, New Engineering Building
-email: lijueying1108@konkuk.ac.kr
+- Lab : Room 1207, New Engineering Building
+- email: lijueying1108@konkuk.ac.kr
 
 ### Related Links
 
