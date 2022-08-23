@@ -46,7 +46,7 @@ title: People
 * [Soyeong Sohn](./SoyeongSohn)
 * 정민지
 * 이예빈
-* 권순재
+* [Sunjae Kwon](./SunjaeKwon)
 <br/>
 
 ### [Alumni](./Alumni)
