@@ -6,11 +6,6 @@ title: Minwhoan Kim
 ## Minwhoan Kim
 ![MinwhoanKim](../assets/img/profile_mwhkim.png)
 
-### About
-* Name: Eugene Minwhoan Kim
-* Degree: Bachelor of Computer Science
-* Contact : dev.whoan@gmail.com
-
 ### Research Interests 
 * Cloud/Fog Computing
 * Container Deployments
