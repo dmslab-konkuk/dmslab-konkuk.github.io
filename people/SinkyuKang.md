@@ -4,6 +4,7 @@ title: Sinkyu Kang
 ---
 
 ## Sinkyu Kang (강신규)
+![profile_skkang](https://user-images.githubusercontent.com/56228085/186414857-1da92abb-4725-480b-a095-74a8f735d35d.jpg)
 
 
 ### Research Interests 
