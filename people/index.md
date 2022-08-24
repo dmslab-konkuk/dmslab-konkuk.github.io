@@ -36,9 +36,9 @@ title: People
 * [Minwhoan Kim](./MinwhoanKim)
 * [Hyungkyu Kim](./kimhyungkyu/hkkim)
 * [JinHang Yu](./JinHangYu)
-* 우창석
+* [ChangSeok Woo](./ChangSeokWoo)
 * 남승협
-* [Sinkyu Kang](./SinkyuKang)
+* 조현서
 * [Sinkyu Kang](./SinkyuKang)
 * Hoeun Lee
 * [SeongMin Park](./SeongMinPark)
