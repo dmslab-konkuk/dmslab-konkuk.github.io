@@ -30,7 +30,6 @@ title: Alumni
 * Gwanghyok Yoo (유광혁, 2000)
 * KyoungJae You (유경재, 2000)
 * HeungKi Kim (김흥기, 2000)
-
 * DongWook Han (한동욱, 2000)
 * BongJo Kim (김봉조, 2001)
 * JungHeon Yoo (유정헌, 2002)
