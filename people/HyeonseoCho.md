@@ -4,18 +4,18 @@ title: Minwhoan Kim
 ---
 
 ## Hyeonseo Cho (조현서)
-![MinwhoanKim](../assets/img/profile_mwhkim.png)
+![HyeonseoCho](../assets/img/profile_chs)
 
 ### Research Interests 
-* Cloud/Fog Computing
-* Container Deployments
-* Container Based Distributed Smart Infrastructure
+* Deep Learning
+* Reinforcement Learning
+* Statistical Learning
+* Control Algorithm 
 
 ### Contact Info
 * Lab: 1207, New Engineering Building
-* Email : dev.whoan@gmail.com 
+* Email : whgustj33@konkuk.ac.kr
 
 ### Related Links
-* [Github](https://github.com/dev-whoan)
-* [LinkedIn](https://www.linkedin.com/in/eugene-minwhoan-kim-23b355213/)
-* [Blog](https://dev-whoan.xyz)
+* [Github](https://github.com/hyeonse0)
+* [Blog]()
