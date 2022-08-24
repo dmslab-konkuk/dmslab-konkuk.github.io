@@ -16,7 +16,7 @@ title: Qiuhong Jin
 ### Contact
 
 - Lab : Room 1207, New Engineering Building
-- Email:jqhinno@konkuk.ac.kr
-- Mobile: 
+- Email: jqhinno@konkuk.ac.kr
+
 
 ### Related Links
