@@ -8,6 +8,7 @@ title: Sinkyu Kang
 
 
 ### Research Interests 
+* Deep Learning
 * Reinforcement Learning
 * Robot Programming (ROS2)
 * Computer Vision
