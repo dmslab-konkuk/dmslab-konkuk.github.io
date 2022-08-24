@@ -38,7 +38,7 @@ title: People
 * [JinHang Yu](./JinHangYu)
 * 우창석
 * 남승협
-* [Sinkyu Kang](./SinkyuKang)
+* [Hyeonseo Cho](./HyeonseoCho)
 * [Sinkyu Kang](./SinkyuKang)
 * Hoeun Lee
 * [SeongMin Park](./SeongMinPark)
