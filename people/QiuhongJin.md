@@ -14,8 +14,9 @@ title: Qiuhong Jin
 - Object Detection
 
 ### Contact
-Lab : Room 1207, New Engineering Building
-Email:jqhinno@konkuk.ac.kr
-Mobile: 
+
+- Lab : Room 1207, New Engineering Building
+- Email:jqhinno@konkuk.ac.kr
+- Mobile: 
 
 ### Related Links
