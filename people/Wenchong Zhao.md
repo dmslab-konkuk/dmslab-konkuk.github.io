@@ -1,12 +1,13 @@
 ---
 layout: default
-title: Wenchong Zhao
+title: WenchongZhao
 ---
 
 
+![alt_text](./profile-zhaowc_small.jpg)
 ### Research
 - Computer Vision
-- Big Data
+- Activity Recognition
 
 ### Contact
 Lab : Room 1207, New Engineering Building
