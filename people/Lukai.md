@@ -8,14 +8,13 @@ title: Damsub Lim
 
 
 ### Research Interests
+* Computer Vision
+* Deep Learning
+* Pose Recognition
 
-- Computer Vision
-- Deep Learning
-- Pose Recognition
-
-### Contact
-Lab : Room 1207, New Engineering Building
-Email:
-Mobile: 
+### Contact Info
+Lab: 1207, New Engineering Building
+Email: otkabsol@konkuk.ac.kr
 
 ### Related Links
+* 
