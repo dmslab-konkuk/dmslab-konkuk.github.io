@@ -24,22 +24,22 @@ title: People
 * [Wenchong Zhao](./WenchongZhao)
 * [Qiuhong Jin](./QiuhongJin)
 * [Geunyeong Go](./GeunyeongGo)
-* [Tae-min Joung](./TaeminJung)
+* [Tae-min Jung](./TaeminJung)
 
 ### B.S Course
 * [Minwhoan Kim](./MinwhoanKim)
 * [Hyungkyu Kim](./HyoungKyuKim)
 * [JinHang Yu](./JinHangYu)
 * [ChangSeok Woo](./ChangSeokWoo)
-* [SeungHyeob Nam](./SeungHyeonbName)
+* [SeungHyeob Nam](./SeungHyeobName)
 * [Hyeonseo Cho](./HyeonseoCho)
 * [Sinkyu Kang](./SinkyuKang)
-* [Hoeun Lee](./HoeunLee)
+* [Hoeun Lee](./HoEunLee)
 * [SeongMin Park](./SeongMinPark)
-* [SangYoon Park](./SangyoonPark)
+* [SangYoon Park](./SangYoonPark)
 * [Soyeong Sohn](./SoyeongSohn)
 * [MinJi Jeong](./MinjiJeong)
-* [YeBin Lee](./YebinLee)
+* [YeBin Lee](./YeBinLee)
 * [Sunjae Kwon](./SunjaeKwon)
 <br/>
 
