@@ -16,7 +16,7 @@ title: People
 * [DamSub Lim](./DamsubLim)
 
 ### M.S Course
-* [Minhwan Kim] (./MinhwanKim)
+* [Minhwan Kim](./MinhwanKim)
 * [Sangwoo Jeon](./SangwooJeon)
 * [WonJune Seo](./SeoWonJune)
 * [LinaZhang](./LinaZhang)
