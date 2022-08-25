@@ -4,7 +4,7 @@ title: Minwhoan Kim
 ---
 
 ## Hyeonseo Cho (조현서)
-![HyeonseoCho](../assets/img/profile_hyeonseocho.png)
+![HyeonseoCho](../assets/img/profile_hyeonseocho.jpg)
 
 ### Research Interests 
 * Deep Learning
