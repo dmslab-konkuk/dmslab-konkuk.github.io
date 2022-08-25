@@ -8,15 +8,13 @@ title: Qiuhong Jin
 
 
 ### Research Interests
+* Computer Vision
+* Deep Learning
+* Object Detection
 
-- Computer Vision
-- Deep Learning
-- Object Detection
-
-### Contact
-
-- Lab : Room 1207, New Engineering Building
-- Email: jqhinno@konkuk.ac.kr
+### Contact Info
+* Lab : Room 1207, New Engineering Building
+* Email: jqhinno@konkuk.ac.kr
 
 
 ### Related Links
