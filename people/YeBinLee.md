@@ -1,10 +1,10 @@
 ---
 layout: default
-title: YeBin Lee
+title: YeBeen Lee
 ---
 
-## YeBin Lee (이예빈)
-![profile](../assets/img/profile_yebinlee.png)
+## YeBeen Lee (이예빈)
+![profile](../assets/img/profile_yebeenlee.png)
 
 ### Research Interests
 * Deep Learning
@@ -16,4 +16,4 @@ title: YeBin Lee
 * Email : dldpqls29@konkuk.ac.kr
 
 ### Related Links
-*
+* 
