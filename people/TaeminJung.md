@@ -8,12 +8,12 @@ title: Tae-min Jung
 
 
 ### Research Interests
-- Natural Language Processin
-- 
+* Deep Learning
+* Natural Language Processing
 
-### Contact
-Lab : Room 1207, New Engineering Building
-Email:
-Mobile: 
+### Contact Info
+* Lab : Room 1207, New Engineering Building
+* Email: lute71@konkuk.ac.kr
 
 ### Related Links
+*
