@@ -4,7 +4,7 @@ title: SeongMin Park
 ---
 
 ## SeongMin Park (박성민)
-![profile](../assets/img/SeongMinPark.jpeg)
+<img src="../assets/img/SeongMinPark.jpeg" width="90" height="110px" title="profile"/>
 
 ### Research Interests
 * Natural Language Processing
