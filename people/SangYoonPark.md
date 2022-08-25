@@ -13,7 +13,7 @@ title: SangYoon Park
 
 ### Contact Info
 * Lab: 1207, New Engineering Building
-* Email:
+* Email: yoonni0908@konkuk.ac.kr
 
 ### Related Links 
 * [Github](https://github.com/yoonni0908)
