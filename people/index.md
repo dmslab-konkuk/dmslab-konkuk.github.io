@@ -31,7 +31,7 @@ title: People
 * [Hyungkyu Kim](./HyoungKyuKim)
 * [JinHang Yu](./JinHangYu)
 * [ChangSeok Woo](./ChangSeokWoo)
-* [SeungHyeob Nam](./SeungHyeobName)
+* [SeungHyeob Nam](./SeungHyeobNam)
 * [Hyeonseo Cho](./HyeonseoCho)
 * [Sinkyu Kang](./SinkyuKang)
 * [Hoeun Lee](./HoEunLee)
