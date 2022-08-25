@@ -8,14 +8,14 @@ title: JinHang Yu
 
 ### Research Interests
 - Cloud/Fog/Edge Computing
-- Meter
+- Matter
 - Smart Gateway
 - Auto Onboarding
 - Deep Learning
 
 ### Contact Info
 Lab : Room 1207, New Engineering Building
-email: 
+email: jhy727498@163.com, starloving@konkuk.ac.kr
 
 ### Related Links
-
+* [Github](https://github.com/starloving)
