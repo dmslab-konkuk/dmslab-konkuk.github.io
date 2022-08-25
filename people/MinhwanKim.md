@@ -13,7 +13,7 @@ title: Minhwan Kim
 
 ### Contact Info
 * Lab: 1207, New Engineering Building
-* Email : mail@nerd.kim
+* Email : mail@nerd.kim, anakkim0@konkuk.ac.kr
 
 ### Related Links
 *
