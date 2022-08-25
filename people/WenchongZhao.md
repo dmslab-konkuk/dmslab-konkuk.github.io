@@ -12,7 +12,7 @@ title: WenchongZhao
 
 ### Contact Info
 * Lab: Room 1207, New Engineering Building
-* Email: zhaowenchong0819@naver.com, zhaowenchong0819@konkuk.ac.k
+* Email: zwc0819@naver.com, zhaowenchong0819@konkuk.ac.kr
 
 ### Related Links
 * [Github](https://github.com/zwc819konkuk)
