@@ -2,17 +2,19 @@
 layout: default
 title: SeongMin Park
 ---
-<img width="95px" height="120px" src="./SeongMinPark.jpeg"></img>
 
-### SeongMin Park
+## SeongMin Park (박성민)
+![profile](../assets/img/SeongMinPark.jpeg.png)
 
-Studying Natural Language Processing
+### Research Interests
+* Natural Language Processing
+* HayStack
+* Opendomain QA
+* KeyBERT Retriever
 
-- Finding best Retriever for Opendomain QA
-- Open-book QA in Bible
+### Contact Info
+* Lab: 1207, New Engineering Building
+* Email : <holy.people@kakao.com>
 
-contact : <holy.people@kakao.com>
-
-
-
+### Related Links
 * [github](https://github.com/HolyPeople)
