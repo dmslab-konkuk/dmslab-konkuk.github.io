@@ -10,6 +10,7 @@ title: Minwhoan Kim
 * Cloud/Fog Computing
 * Container Deployments
 * Container Based Distributed Smart Infrastructure
+* Decentralized System, Blockchain, Smart Consensus
 
 ### Contact Info
 * Lab: 1207, New Engineering Building
