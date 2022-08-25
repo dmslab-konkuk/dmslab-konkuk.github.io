@@ -14,12 +14,9 @@ title: People
 ### Ph.D Course
 * [Jueying Li](./JueyingLi)
 * [DamSub Lim](./DamsubLim)
-* Paul Kim
-* Woojun Yoo
-* Jun Oh
 
 ### M.S Course
-* Minhwan Kim
+* [Minhwan Kim] (./MinhwanKim)
 * [Sangwoo Jeon](./SangwooJeon)
 * [WonJune Seo](./SeoWonJune)
 * [LinaZhang](./LinaZhang)
@@ -28,25 +25,21 @@ title: People
 * [Qiuhong Jin](./QiuhongJin)
 * [Geunyeong Go](./GeunyeongGo)
 * [Tae-min Joung](./TaeminJung)
-* Hyeon-gyu Jeong
-* Ikjin Kwon
-* Fengyi Jin
-* Nang Lung Auag(A)
 
 ### B.S Course
 * [Minwhoan Kim](./MinwhoanKim)
 * [Hyungkyu Kim](./kimhyungkyu/hkkim)
 * [JinHang Yu](./JinHangYu)
 * [ChangSeok Woo](./ChangSeokWoo)
-* 남승협
+* [SeungHyeob Nam](./SeungHyeonbName)
 * [Hyeonseo Cho](./HyeonseoCho)
 * [Sinkyu Kang](./SinkyuKang)
-* Hoeun Lee
+* [Hoeun Lee](./HoeunLee)
 * [SeongMin Park](./SeongMinPark)
-* 박상윤
+* [SangYoon Park](./SangyoonPark)
 * [Soyeong Sohn](./SoyeongSohn)
-* 정민지
-* 이예빈
+* [MinJi Jeong](./MinjiJeong)
+* [YeBin Lee](./YebinLee)
 * [Sunjae Kwon](./SunjaeKwon)
 <br/>
 
