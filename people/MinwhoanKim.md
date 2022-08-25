@@ -14,7 +14,7 @@ title: Minwhoan Kim
 
 ### Contact Info
 * Lab: 1207, New Engineering Building
-* Email : dev.whoan@gmail.com 
+* Email : dev.whoan@gmail.com, ralsghks@konkuk.ac.kr
 
 ### Related Links
 * [Github](https://github.com/dev-whoan)
