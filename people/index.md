@@ -24,6 +24,7 @@ title: People
 * [WonJune Seo](./SeoWonJune)
 * [LinaZhang](./LinaZhang)
 * [Lu Kai](./Lukai)
+* [Wenchong Zhao](./WenchongZhao)
 * [Qiuhong Jin](./QiuhongJin)
 * [Geunyeong Go](./GeunyeongGo)
 * [Tae-min Joung](./TaeminJung)
