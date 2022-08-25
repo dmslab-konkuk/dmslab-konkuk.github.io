@@ -16,4 +16,4 @@ title: SangYoon Park
 * Email:
 
 ### Related Links 
-* [Github](https://github.com/yoonni0908/dmslab-konkuk.github.io)
+* [Github](https://github.com/yoonni0908)
