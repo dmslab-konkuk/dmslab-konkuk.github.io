@@ -1,11 +1,10 @@
 ---
 layout: default
-title: Damsub Lim
+title: Lu Kai
 ---
 
-## Lu Kai (임담섭)
+## Lu Kai (루카이)
 ![alt_text](../assets/img/profile_LuKai.png)
-
 
 ### Research Interests
 * Computer Vision
