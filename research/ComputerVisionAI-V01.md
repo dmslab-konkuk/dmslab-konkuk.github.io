@@ -12,8 +12,10 @@ title: Research
 	- Action Recognition to recognize the user's motion,
 	- Pose Estimation to perform the user's exercise assistance role.
 ![alt_text](../research/cvfolder/architecture.jpg)
- 
-## Face and Emotion Recognition (장이나)
+
+<br/>
+
+# Face and Emotion Recognition (장이나)
 그림 1
 
 ### Thesis Title: Multi-task Emotion Recognition Based on Context-aware and Attention Module(장이나)
@@ -25,6 +27,8 @@ title: Research
 		- Multitask Emotion Recognition with Incomplete Labels
   		- Deep-Emotion: Facial Expression Recognition Using Attentional Convolutional Network
 	- Spatial Transformer Networks
+
+<br/>
 
 ## Pose and Activity Recognition(루카이)
 ![alt_text](../research/cvfolder/AiPE_architecture.jpg)
@@ -39,6 +43,7 @@ title: Research
 		- Masked Autoencoders Are Scalable Vision Learners
 	- Vision Transformer
 
+<br/>
 
 ## Research Results
 - [Master Thesis] 장이나 석사논문 Multi-task Emotion Recognition Based on Context-aware and Attention Module,2022.06
