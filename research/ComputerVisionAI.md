@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Research
 ---
 
 # Research on Deep Learning-based Computer Vision
