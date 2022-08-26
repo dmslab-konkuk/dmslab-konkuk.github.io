@@ -15,7 +15,8 @@ title: Research
 ## Cloud Computing System Area
 <br/>
 
-## Depedability and Security Area
+## [Depedability and Security Area](./DependabilitySecurity.md))
+
 <br/>
 
 ## Deep Reinforcement Learning AI Area
@@ -41,5 +42,6 @@ title: Research
 <br/>
 
 
-## Digital Twin Area
+## [Digital Twin Area](./DigitalTwin.md)
+
 <br/>
