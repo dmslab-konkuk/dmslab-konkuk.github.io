@@ -15,7 +15,7 @@ title: Research
 ## Cloud Computing System Area
 <br/>
 
-## Depedability Area
+## Depedability and Security Area
 <br/>
 
 ## Deep Reinforcement Learning AI Area
