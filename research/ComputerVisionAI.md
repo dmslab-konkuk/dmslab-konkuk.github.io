@@ -39,7 +39,8 @@ title: Research
 		- Masked Autoencoders Are Scalable Vision Learners
 	- Vision Transformer
 
-#### Research Results
+
+## Research Results
 - [Master Thesis] 장이나 석사논문 Multi-task Emotion Recognition Based on Context-aware and Attention Module,2022.06
 - [Master Thesis] 루카이 석사논문
 
