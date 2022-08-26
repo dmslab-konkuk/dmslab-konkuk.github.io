@@ -16,7 +16,7 @@ Primary UC관점에서 하려는 연구를 요약 설명
 - Summary 
 #### Survey (조문충) 
 - Related Work Suvey
-
+- Activity recognition in video or picture files uses the attention mechanism to recognize more efficiently and quickly. At the same time, multiple activity recognition in a single video file, and related papers such as multi-modal recognition methods are also under investigation.
 #### Research Results
 - [Master Thesis] 장이나 석사논문 Multi-task Emotion Recognition Based on Context-aware and Attention Module,2022.06
 - [Master Thesis] 루카이 석사논문
