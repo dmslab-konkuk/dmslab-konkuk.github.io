@@ -1,6 +1,5 @@
 ---
-layout: page
-title:  
+layout: dafault
 subtitle: Computer Vision AI Area
 ---
 
