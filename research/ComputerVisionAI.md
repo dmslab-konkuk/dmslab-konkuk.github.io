@@ -4,13 +4,13 @@ title: Research
 ---
 
 # Research on Deep Learning-based Computer Vision (김형규)
-## Computer Vision is one of the latest areas of computer science that studies the part of a machine's vision
-## The DMS Vision team is working on an interactive healthcare cleaning robot system for the Silver Generation.
-- Object detection to detect people,
-- Face recognition to recognize a particular user,
-- Emotion Recognition for monitoring user emotions,
-- Action Recognition to recognize the user's motion,
-- Pose Estimation to perform the user's exercise assistance role.
+- Computer Vision is one of the latest areas of computer science that studies the part of a machine's vision
+- The DMS Vision team is working on an interactive healthcare cleaning robot system for the Silver Generation.
+	- Object detection to detect people,
+	- Face recognition to recognize a particular user,
+	- Emotion Recognition for monitoring user emotions,
+	- Action Recognition to recognize the user's motion,
+	- Pose Estimation to perform the user's exercise assistance role.
 ![alt_text](../research/cvfolder/architecture.jpg)
  
 ## Face and Emotion Recognition (장이나)
@@ -34,10 +34,10 @@ title: Research
 
 ### Survey (조문충) 
 - Related Work Suvey
-   - Activity Recognition(SOTA)
-   	- Multi-Label Activity Recognition using Activity-speciﬁc Features and Activity Correlations
-   	- Masked Autoencoders Are Scalable Vision Learners
-   - Vision Transformer
+	- Activity Recognition(SOTA)
+		- Multi-Label Activity Recognition using Activity-speciﬁc Features and Activity Correlations
+		- Masked Autoencoders Are Scalable Vision Learners
+	- Vision Transformer
 
 #### Research Results
 - [Master Thesis] 장이나 석사논문 Multi-task Emotion Recognition Based on Context-aware and Attention Module,2022.06
