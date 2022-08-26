@@ -25,10 +25,19 @@ title: Research
 ### Attention in Pose Estimation A transformer based pose estimation method
 - We propose a bottom-up human pose estimation method that combines the latest achievements in computer vision-transformer. Compared with the original version using VGG, our method uses a multi-headed self-attention mechanism to better localize the key points of the human body and connect the limbs. Even for some blurred, low-resolution images we can still perform human pose estimation, and our method achieves very good results in single and few people situations. However, in dense crowd conditions, our method does not perform human pose estimation as well as VGG, which stems from the weakness of transformer in analyzing small targets. It may also be due to the fact that we did not use the four block stack like the original swin transformer in order to reduce the computational effort and control the downsampling.
 
-### Surveies and Studies
+### Current Studies
 - Emotion Recognition(SOTA)
 	- Multitask Emotion Recognition with Incomplete Labels
 	- Deep-Emotion: Facial Expression Recognition Using Attentional Convolutional Network
+- Activity Recognition(SOTA)
+	- Multi-Label Activity Recognition using Activity-speciﬁc Features and Activity Correlations
+	- Masked Autoencoders Are Scalable Vision Learners
 - Spatial Transformer Networks
+- Vision Transformer
+
+
+## Research Results
+- [Master Thesis] 장이나 석사논문 Multi-task Emotion Recognition Based on Context-aware and Attention Module,2022.06
+- [Master Thesis] 루카이 석사논문 AiPE: Attention in Pose Estimation A transformer based pose estimation method, 2022.06
 
 
