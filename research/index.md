@@ -15,6 +15,8 @@ title: Research
 ## Cloud Computing System Area
 <br/>
 
+## Depedability Area
+<br/>
 
 ## Deep Reinforcement Learning AI Area
 <br/>
@@ -34,4 +36,9 @@ title: Research
 
 ## Natural Language Processsing AI Area
 <br/>
+
+## Deep Learning AI Area
+<br/>
+
+
 
