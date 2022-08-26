@@ -3,7 +3,12 @@ layout: page
 title: Research
 ---
 
-## Edge/Fog Computing System Area
+## [Edge/Fog Computing System Area](./EdgeFogSystem)
+- Edge Computing is a distributed computing paradigm that brings computation and data storage closer to the sources of data
+- Fog Computing is an architecture that uses edge devices to carry out a substantial amount of computation, storage and communication locally and routed over the Internet backbone
+- The DMS Edge/Fog System team is currently researching about
+        - Autonomic Provisioning Edge Cluster System
+        - Smart Gateway for onboarding IoT devices to edge cluster
 <br/>
 
 
