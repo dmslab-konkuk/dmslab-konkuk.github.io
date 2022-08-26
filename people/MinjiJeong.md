@@ -4,7 +4,7 @@ title: MinJi Jeong
 ---
 
 ## MinJi Jeonge (정민지)
-![profile](../assets/img/profile_minjijeong.png)
+![profile](../assets/img/profile_minjijeong.jpeg)
 
 ### Research Interests
 * Deep Reinforcement Learning
