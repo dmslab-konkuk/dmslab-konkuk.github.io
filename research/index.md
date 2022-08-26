@@ -15,7 +15,7 @@ title: Research
 <br/>
 
 
-##![Computer Vision AI Area](./ComputerVisionAI.md)
+## ![Computer Vision AI Area](./ComputerVisionAI.md)
 - Computer Vision is one of the latest areas of computer science that studies the part of a machine's vision
 - The DMS Vision team is working on an interactive healthcare cleaning robot system for the Silver Generation.
 	- Object detection to detect people
