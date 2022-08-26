@@ -10,7 +10,7 @@ layout: page
         - Smart Gateway for onboarding IoT devices to Edge Cluster
 <br/>
 
-![alt_text](/assets/img/edge_architecture.jpg)
+![alt_text](../assets/img/edge_architecture.jpg)
 
 ## Autonomic Provisioning Edge Cluster System
 
