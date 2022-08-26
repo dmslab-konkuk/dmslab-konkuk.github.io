@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 ---
 
 # Research on Edge/Fog Computing System
@@ -14,7 +14,7 @@ layout: page
 
 ## Autonomic Provisioning Edge Cluster System
 
-#### Container Based Distributed Smart Infrastcuture
+##### Container Based Distributed Smart Infrastcuture
 - Container deployment is the act of deploying containers to their target environment, such as a cloud or on-premises server. Containers are similar to virtual machines, but it
  has relaxed isoloation properties to share the Operating System among the applications. Therefore, containers are considered lightweight. Similar to a VM, a container has its
 own filesystem, share of CPU, memory, process space, and more.
@@ -27,7 +27,7 @@ o offload some datas to Fog / Cloud system to compute.
 
 ## Smart Gateway for onboarding IoT devices to Edge Cluster
 
-#### Title
+##### Title
 - Info
 
 
