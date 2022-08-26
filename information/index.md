@@ -1,6 +1,4 @@
 ---
-layout: post
+layout: page
 title: Information
 ---
-
-<br/>
