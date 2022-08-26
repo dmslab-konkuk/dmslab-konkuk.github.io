@@ -10,6 +10,7 @@ layout: page
         - Smart Gateway for onboarding IoT devices to Edge Cluster
 <br/>
 <img src="../assets/img/edge_architecture.png" height="350" title="edge_architecture"/>
+<br/>
 
 ## Autonomic Provisioning Edge Cluster System
 
@@ -21,6 +22,8 @@ own filesystem, share of CPU, memory, process space, and more.
 - Also Edge Cluster might require more server resources to compute a computational task which requested from edge device. Not only provisioning the server nodes but also need t
 o offload some datas to Fog / Cloud system to compute.
 - Hence, we propse a framework, Container Based Distributed Smart Infrastructure which can; be autonomic provisioned with client's requirements, reconfigure the system components dynamically, and edge devices will be onboarded to.
+
+<br/>
 
 ## Smart Gateway for onboarding IoT devices to Edge Cluster
 
