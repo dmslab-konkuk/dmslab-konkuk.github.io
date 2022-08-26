@@ -29,18 +29,18 @@ title: Research
 	
 ### Current Studies
 - Face Recognition
-	- [Large-Margin Softmax Loss for Convolutional Neural Networks](https://arxiv.org/abs/1612.02295)
-	- [SphereFace: Deep Hypersphere Embedding for Face Recognition](https://arxiv.org/abs/1704.08063)
-	- [Additive Margin Softmax for Face Verification](https://arxiv.org/abs/1801.05599)
-	- [ArcFace: Additive Angular Margin Loss for Deep Face Recognition](https://arxiv.org/abs/1801.07698)
+	- [Large-Margin Softmax Loss for Convolutional Neural Networks](https://arxiv.org/pdf/1612.02295)
+	- [SphereFace: Deep Hypersphere Embedding for Face Recognition](https://arxiv.org/pdf/1704.08063)
+	- [Additive Margin Softmax for Face Verification](https://arxiv.org/pdf/1801.05599)
+	- [ArcFace: Additive Angular Margin Loss for Deep Face Recognition](https://arxiv.org/pdf/1801.07698)
 - Emotion Recognition
-	- [Multitask Emotion Recognition with Incomplete Labels](https://arxiv.org/abs/2002.03557)
-	- [Deep-Emotion: Facial Expression Recognition Using Attentional Convolutional Network](https://arxiv.org/abs/1902.01019)
+	- [Multitask Emotion Recognition with Incomplete Labels](https://arxiv.org/pdf/2002.03557)
+	- [Deep-Emotion: Facial Expression Recognition Using Attentional Convolutional Network](https://arxiv.org/pdf/1902.01019)
 - Activity Recognition
-	- [Multi-Label Activity Recognition using Activity-speciﬁc Features and Activity Correlations](https://arxiv.org/abs/2009.07420)
-	- [Masked Autoencoders Are Scalable Vision Learners](https://arxiv.org/abs/2111.06377)
-- [Spatial Transformer Networks](https://arxiv.org/abs/1506.02025)
-- [Vision Transformer](https://arxiv.org/abs/2010.11929)
+	- [Multi-Label Activity Recognition using Activity-speciﬁc Features and Activity Correlations](https://arxiv.org/pdf/2009.07420)
+	- [Masked Autoencoders Are Scalable Vision Learners](https://arxiv.org/pdf/2111.06377)
+- [Spatial Transformer Networks](https://arxiv.org/pdf/1506.02025)
+- [Vision Transformer](https://arxiv.org/pdf/2010.11929)
 
 ## Research Results
 - [Master Thesis] Multi-task Emotion Recognition Based on Context-aware and Attention Module,2022.06
