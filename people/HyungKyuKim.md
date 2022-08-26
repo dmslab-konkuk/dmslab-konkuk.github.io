@@ -4,7 +4,7 @@ title: Hyungkyu Kim
 ---
 
 ## Hyungkyu Kim (김형규)
-![alt_text](../assets/img/profile_hkkim.jpg)
+![alt_text](../assets/img/profile_hkkim.jpeg)
 
 ### Research Interests
 * Deep Learning
