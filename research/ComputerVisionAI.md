@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research
+title: Computer Vision AI Area
 ---
 
 # Research on Deep Learning-based Computer Vision
