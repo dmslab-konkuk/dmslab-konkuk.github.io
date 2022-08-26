@@ -1,6 +1,6 @@
 ---
-layout: dafault
-subtitle: Computer Vision AI Area
+layout: post
+title: Computer Vision AI Area
 ---
 
 # Research on Deep Learning-based Computer Vision
