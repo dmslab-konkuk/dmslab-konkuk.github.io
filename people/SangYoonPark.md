@@ -9,7 +9,6 @@ title: SangYoon Park
 ### Research Interests
 * Deep Learning
 * Emotion Recognition
-* SOFA
 
 ### Contact Info
 * Lab: 1207, New Engineering Building
