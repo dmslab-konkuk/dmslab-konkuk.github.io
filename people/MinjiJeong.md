@@ -8,7 +8,7 @@ title: MinJi Jeong
 
 ### Research Interests
 * Deep Reinforcement Learning
-* Activity Recognition SOFA
+* Activity Recognition
 
 ### Contact Info
 * Lab: 1207, New Engineering Building
