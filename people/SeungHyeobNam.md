@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SeungHyeob Nam
+title: SeungHyeop Nam
 ---
 
 ## SeungHyeob Nam (남승협)
@@ -16,4 +16,4 @@ title: SeungHyeob Nam
 * Email : tomska@konkuk.ac.krm
 
 ### Related Links
-*
+* http://117.16.137.18
