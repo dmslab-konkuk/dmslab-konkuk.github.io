@@ -26,5 +26,5 @@ title: Research
 - Automatically to set up the network environment of the simulation servers cluster via network provisioning profile yaml files.
 
 <br/>
-<img src="/assets/img/VTRON _framework_architecture.png" height="350" title="VTRON_SITL_architecture"/>
+<img src="/assets/img/Cloud_Service For _SITL _Architecture.jpg" height="350" title="VTRON_SITL_architecture"/>
 <br/>
