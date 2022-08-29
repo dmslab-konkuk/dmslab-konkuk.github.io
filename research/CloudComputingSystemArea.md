@@ -19,3 +19,12 @@ title: Research
 <br/>
 <img src="/assets/img/VTRON _framework_architecture.png" height="350" title="VTRON_architecture"/>
 <br/>
+
+# Cloud Auto Provisioning For Simulation in the Loop(SITL)
+- Generating a YAML-based cloud auto provisioning cloud simulation in the loop plan to create servers cluster for the Urban Air Mobility(UAM)
+- Creating SITL virtual disk images based on unified or union mounted disk provisioning mechanisms via image provisioning profile yaml files.
+- Automatically to set up the network environment of the simulation servers cluster via network provisioning profile yaml files.
+
+<br/>
+<img src="/assets/img/VTRON _framework_architecture.png" height="350" title="VTRON_SITL_architecture"/>
+<br/>
