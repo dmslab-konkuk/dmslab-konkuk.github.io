@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SeungHyeob Nam
+title: SeungHyeop Nam
 ---
 
 ## SeungHyeob Nam (남승협)
@@ -13,7 +13,7 @@ title: SeungHyeob Nam
 
 ### Contact Info
 * Lab: 1207, New Engineering Building
-* Email : tomska@konkuk.ac.krm
+* Email : tomska@konkuk.ac.kr
 
 ### Related Links
-*
+* http://117.16.137.18
