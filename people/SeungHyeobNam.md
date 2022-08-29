@@ -8,8 +8,10 @@ title: SeungHyeop Nam
 
 ### Research Interests
 * Deep Learning
-* SLAM
 * MATLAB
+* SLAM
+* Moshing
+* DJENT
 
 ### Contact Info
 * Lab: 1207, New Engineering Building
