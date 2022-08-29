@@ -4,7 +4,7 @@ title: SeungHyeop Nam
 ---
 
 ## SeungHyeop Nam (남승협)
-![profile](../assets/img/profile_seunghyeopnam.JPEG)
+![profile](../assets/img/profile_seunghyeopnam.jpeg)
 
 ### Research Interests
 * Deep Learning
