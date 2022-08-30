@@ -8,10 +8,10 @@ title: SeungHyeop Nam
 
 ### Research Interests
 * Deep Learning
-* MATLAB
+* Deep Reinforcement Learning
+* Robot Control (ROS2)
 * SLAM
-* Moshing
-* DJENT
+* MATLAB
 
 ### Contact Info
 * Lab: 1207, New Engineering Building
