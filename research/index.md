@@ -20,7 +20,7 @@ title: Research
 - Computing systems and networks with a sophisticated composition of multi-level systems and things are inevitably prone to a chain of threats (faults, errors, and failures) which eventually causes fatal losses, such as service interruption/outage, data leak, or even human lives. 
 - Even a 1% failure rate is too high, because it causes 3.65 days of unscheduled downtime in a year which, in turn, may reduce an enormous amount of enterprise turnover. 
 - Therefore, dependability and security requirements should be taken into consideration to obtain the highest level of trustworthiness for computing infrastructures, in practice.
-- DMS Group is working on the quantification methodologies for dependability and security metrics of computing systems and networks: virtualized server systems (VSS), data center networks (DCN), software defined network (SDN), Internet of Medical Things (IoMT), Internet of Industrial Things (IoIT), unmanned aerial systems (UAS) etc.
+- DMS Group is working on the quantification methodologies for dependability and security metrics of computing systems and networks: virtualized server systems (VSS), data center networks (DCN), software defined network (SDN), Cloud-Fog-Edge Continuum (CFE), Internet of Medical Things (IoMT), Internet of Industrial Things (IoIT), unmanned aerial systems (UAS) etc.
 <br/>
 
 ## Deep Reinforcement Learning AI Area
