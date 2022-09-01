@@ -42,10 +42,6 @@ title: Research
 ## Natural Language Processsing AI Area
 <br/>
 
-## Deep Learning AI Area
-<br/>
-
-
 ## [Digital Twin Area](./DigitalTwin.md)
 
 - Digital twin (DT) is a pioneering technology and a promising game-changer in various emerging industries. 
