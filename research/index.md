@@ -15,7 +15,7 @@ title: Research
 ## [Cloud Computing System Area](./CloudComputingSystemArea.md)
 <br/>
 
-## [Depedability and Security Quantification Area](./DependabilitySecurity.md))
+## [Depedability and Security Quantification Area](./DependabilitySecurity.md)
 - Dependability and security are of five distinctive natures (along with functionality, performance, and cost) for computing and communication systems. 
 - Computing systems and networks with a sophisticated composition of multi-level systems and things are inevitably prone to a chain of threats (faults, errors, and failures) which eventually causes fatal losses, such as service interruption/outage, data leak, or even human lives. 
 - Even a 1% failure rate is too high, because it causes 3.65 days of unscheduled downtime in a year which, in turn, may reduce an enormous amount of enterprise turnover. 
