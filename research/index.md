@@ -15,7 +15,7 @@ title: Research
 ## Cloud Computing System Area
 <br/>
 
-## [Depedability and Security Area](./DependabilitySecurity.md))
+## [Depedability Area](./DependabilitySecurity.md))
 
 <br/>
 
