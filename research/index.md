@@ -51,5 +51,6 @@ title: Research
 - Digital twin (DT) is a pioneering technology and a promising game-changer in various emerging industries. 
 - The concept of DT opens a world of possibilities for fundamentally the infusion of physical-twin specific computational models which are dynamically updated into a feedback loop of data-driven analysis and decision-making. 
 - A digital twin is a set of coupled computational models that gradually transit throughout different states in its featured state-space as time goes on, in which constantly and equivalently represent the real-world structure, behaviors and surrounding context of its physical twin.
+- DMS Group is working on the development of (i) neural digital twin dynamic engines (DTDE), (ii) neural digital twin control engines (DTCE), (iii) digital twin control frame (DTCF) and (iv) digital twin cloud infrastructure (DTCI) for U*V systems.
 
 <br/>
