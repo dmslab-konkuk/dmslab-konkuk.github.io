@@ -25,13 +25,21 @@ o offload some datas to Fog / Cloud system to compute.
 
 <br/>
 
+<img src="/assets/img/smartgw_architecture.png" height="350" title="smartgw_architecture"/>
+<br/>
+
 ## Smart Gateway for onboarding IoT devices to Edge Cluster
 
-##### Title
-- Info
-
+##### Autonomic Onboarding IoT Devices to Edge Cluster
+- Smart Gateway is a gateway specifically designed for the connection of IoT devices. These gateways offer additional functionality in comparison to traditional gateways such as data aggregation and data pre-processing.
+- It can expand compatibility for consumer devices and make development easier for manufacturers. The vision of this gateway is to ensure that smart home products are simple, reliable, secure, and easy to use.
+- We investigate the research problems that are related to secure bootstrapping in IoT. We identified an important challenge in the area of secure bootstrapping and provide solutions for these problems through theoretical and practical approach. Development of newly secure bootstrapping methods where new discovered devices are separated into isolated network.
+        - Development and evaluation of two Diffie-Hellman based secure protocols
+        - CPN model design and evaluation of proposed secure protocols
+        - Wrap up proposed protocols into one system with dynamically reconfigurable framework
 
 ## Current Studies
-
+- Matter, connectivity protocol, for smart gateway onboarding system
+- K3S, container based distributed system, for container based distributed smart infrastructure
 
 ## Research Results

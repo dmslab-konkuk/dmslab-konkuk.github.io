@@ -9,8 +9,13 @@ title: Project
 - Ministry of Education, 2020.6.1.~2029.5.31
 
 ### [Midcareer Researcher Grant (중견연구자)] 
-- Research on artificial intelligence digital twin technology for smart urban air mobility
+- Intelligent MAEC Collaborative Framework (i-MeC2 Framework)
 - Ministry of Education, 2021.9.1.~2026.8.31
+- We work on challenging open problems at the intersection of deep learning, Reinforcement learning, and robotics. We develop algorithms and systems that unify bio-inspired AI concepts for low-level control and reinforcement learning to teach ground and aerial robots to perceive and interact with the physical world. The robots are utilized to do the collaborative task for disaster tolerance in Urban Smart Cities (USC). 
+
+![](../assets/img/architecture-bmac-1.jpg)
+ 
+
 
 ### [Professional Education Project (전문인력양성사업)]
 - Training experts in future automobile R&D experts
