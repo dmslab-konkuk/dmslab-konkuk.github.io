@@ -16,6 +16,4 @@ title: Sangwoo Jeon
 
 ### Related Links
 * [webpage : sangwooj.github.io](https://SangwooJ.github.io/)
-* [github](https://github.com/SangwooJ)
-* [linkedIn](https://www.linkedin.com/in/sangwoo-jeon-811978181/)
-* [blog](https://blog.naver.com/sangwoo3131)
+
