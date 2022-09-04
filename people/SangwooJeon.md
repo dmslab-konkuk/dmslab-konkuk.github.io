@@ -15,5 +15,5 @@ title: Sangwoo Jeon
 * Email : ndrw5580@gmail.com, jswp5580@konkuk.ac.kr
 
 ### Related Links
-* [webpage : sangwooj.github.io](https://SangwooJ.github.io/)
+* [Personal Webpage : sangwooj.github.io](https://SangwooJ.github.io/)
 
