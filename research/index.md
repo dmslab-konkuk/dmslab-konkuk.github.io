@@ -26,7 +26,7 @@ title: Research
 ## Deep Reinforcement Learning AI Area
 - Deep reinforcement learning combines two fundamentals of traditional reinforcement learning with deep learning.
 - Our team focus on
-	- Developing an efficient multi-agent reinforcement learning model for operating multiple UAVs and robots
+	- Developing an efficient Multi-Agent Deep Reinforcement Learning model for operating multiple UAVs and robots
 	- Distributed Deep Reinforcement Learning
 	- SILS(Software-In-the-Loop Simulation) and HILS(Hardware-In-the-Loop Simulation)of Deep Reinforcement Learning algorithms
 
