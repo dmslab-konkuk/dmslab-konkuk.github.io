@@ -24,12 +24,13 @@ title: Research
 <br/>
 
 ## Deep Reinforcement Learning AI Area
-<br/>
 - Deep reinforcement learning combines two fundamentals of traditional reinforcement learning with deep learning.
 - Our team focus on
 	- Developing an efficient multi-agent reinforcement learning model for operating multiple UAVs and robots
 	- Distributed Deep Reinforcement Learning
 	- SILS(Software-In-the-Loop Simulation) and HILS(Hardware-In-the-Loop Simulation)of Deep Reinforcement Learning algorithms
+
+<br/>
 
 ## [Computer Vision AI Area](./ComputerVisionAI.md)
 - Computer Vision is one of the latest areas of computer science that studies the part of a machine's vision
