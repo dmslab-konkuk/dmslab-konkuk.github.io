@@ -8,7 +8,7 @@ title: Project
 - Research on artificial intelligence digital twin technology for smart urban air mobility
 - Ministry of Education, 2020.6.1.~2029.5.31
 
-## [Cloud Computing System Area](./CloudComputingSystemArea.md)
+## [Midcareer Researcher Grant(중견연구자)](./CloudComputingSystemArea.md)
 <br/>
 
 ### [Midcareer Researcher Grant (중견연구자]
