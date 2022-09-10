@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dependability and Security Quantification Area
+title: Research
 ---
 
 # Research on Virtualized Servers Systems
