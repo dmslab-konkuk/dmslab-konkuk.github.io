@@ -13,11 +13,6 @@ title: Project
 - Ministry of Education, 2021.9.1.~2026.8.31
 <br/>
 
-### [Midcareer Researcher Grant (중견연구자]
-- Intelligent MAEC Collaborative Framework (i-MeC2 Framework)
-- Ministry of Education, 2021.9.1.~2026.8.31
-
-
 ### [Professional Education Project (전문인력양성사업)]
 - Training experts in future automobile R&D experts
 - Ministry of Trade, Industry and Energy, 2022.3.1.~2027.2.28.
