@@ -8,7 +8,7 @@ title: Project
 - Research on artificial intelligence digital twin technology for smart urban air mobility
 - Ministry of Education, 2020.6.1.~2029.5.31
 
-### [Midcareer Researcher Grant (중견연구자)] 
+### [Midcareer Researcher Grant (중견연구자)] (./i-MeC2 Framework.md)
 - Intelligent MAEC Collaborative Framework (i-MeC2 Framework)
 - Ministry of Education, 2021.9.1.~2026.8.31
 
