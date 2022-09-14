@@ -13,6 +13,12 @@ title: Research
 
 
 ## [Cloud Computing System Area](./CloudComputingSystemArea.md)
+- Cloud computing is the delivery of computing resources as a service.
+- Cloud computing can be rapidly provisioned and released with minimal management effort or service provider interaction.
+- Cloud Computing System team is currently researching about
+        - Autonomic Provisioning Cloud Computing System for Customization
+        - Serverless computing
+        - Reinforcementt Learning for Cloud Computing
 <br/>
 
 ## [Depedability and Security Quantification Area](./DependabilitySecurity.md)
