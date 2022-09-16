@@ -1,4 +1,7 @@
-[Bio-Medical Core Technology Development Project (원천기술개발사업) / Consulting Project]
+---
+layout: post
+title: Bio-Medical Core Technology Development Project
+---
 
 ### The development of objective diagnosis and the clinical pathway of Traditional Korean Medicines for Damjeok Syndrome
 ### Development of predictive model for diagnosis and classification of Damjeok Syndrome based on artificial intelligence
@@ -8,4 +11,5 @@
 ### Establishment of an integrated research platform that can be used by medical institutions and related research institutions
 - Development of Web-based Accessible Secure REST APIs
 
+![](./Overview-OrientalMedicine.jpg)
 
