@@ -11,5 +11,5 @@ title: Bio-Medical Core Technology Development Project
 ### Establishment of an integrated research platform that can be used by medical institutions and related research institutions
 - Development of Web-based Accessible Secure REST APIs
 
-![](./Overview-OrientalMedicine.jpg)
+![](./Overview-OrientalMedicine.png)
 
