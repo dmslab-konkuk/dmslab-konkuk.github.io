@@ -27,12 +27,14 @@ title: Prof.Dugki Min
 * Performance and Dependability Analysis
 
 ### Teaching
-* Distributed Computing and Systems (DS Concepts, Hadoop, Blockchain / In Konkuk)
-* Next Generation Distibuted Systems (Cloud, Virtualization, Docker, OpenStack, GPU / in Konkuk)
-* Open Source SW Project 1 (Deep Learning, Tensorflow, PyTorch / in Konkuk)
-* Open Source SW Project 2 (IoC Container, AOP, Spring Framework / in Konkuk)
-* Software Design Methodology (OO Analysis and Design, UML, Unified Process / in Konkuk)
-* Software Architecture (Architecture Design Methodology, Architecture Styles and Tactics / in Konkuk, in Samsung Electronics(2016-2020))
+* Distributed Computing and Systems (Distributed System Concepts, Hadoop, Blockchain)
+* Next Generation Distibuted Systems (Cloud Computing, Virtualization, Docker, OpenStack, Kubernetes, GPU)
+* Open Source SW Project 1 (Deep Learning, Tensorflow, PyTorch)
+* Open Source SW Project 2 (Deep Reinforcement Learning, PyTorch)
+* Software Design Methodology (Object-Oriented Anaysis and Design, UML, Unified Process)
+* Software Architecture (Architecture Design Methodology, Architecture Styles and Tactics, in Samsung Electronics(2016-2020))
+* Deep Reinforcement Learning Basic 
+* Advanced Deep Reinforcement Learning
 
 ### Professional Activities
 * 1995-present Full Professor, Computer Science and Engineering, College of Engineering, Konkuk University
