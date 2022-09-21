@@ -35,13 +35,14 @@ title: Prof.Dugki Min
 * Software Architecture (Architecture Design Methodology, Architecture Styles and Tactics / in Konkuk, in Samsung Electronics(2016-2020))
 
 ### Professional Activities
-* 1995-present Full Professor, Computer Science and Engineering, College of Engineering, KU
-* 2020-2021    Visiting Professor,Lecturer, Pacific States University, LA, USA
+* 1995-present Full Professor, Computer Science and Engineering, College of Engineering, Konkuk University
+* 2021-present Chairman, Department of Artificial Interlligence, Graduate School, Konkuk University
 * 2008~present Steering Committee Member, Korea Software Technology Association 
+* 2020-2021    Visiting Professor,Lecturer, Pacific States University, LA, USA
 * 2016-2020   Lecturer, Associate Architecture Course, Samsung Electronics Co.,Ltd
-* 2018-2020   Chairman, Department of Computer Science and Engineering, College of Engineering, KU
-* 2018-2020   Divisio Head, Division of Information and Computer, Graduate School of Education., KU
-* 2016-2020   Division Head, Division of IT Supervision, Graduate School of Information and Communications, KU
+* 2018-2020   Chairman, Department of Computer Science and Engineering, College of Engineering, Konkuk University
+* 2018-2020   Divisio Head, Division of Information and Computer, Graduate School of Education., Konkuk University
+* 2016-2020   Division Head, Division of IT Supervision, Graduate School of Information and Communications, Konkuk University
 * 2007~2019 Committee Member, Korea Society of IT Services
 * 2005~2019 Committee Member, Korea Society of Simulation
 * 2010-2011   Visiting Professor, Vanderbilt University, TN, USA
