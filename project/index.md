@@ -17,7 +17,7 @@ title: Project
 - Training experts in future automobile R&D experts
 - Ministry of Trade, Industry and Energy, 2022.3.1.~2027.2.28.
 
-### [Bio-Medical Core Technology Development Project (원천기술개발사업) / Consulting Project]
+### [Bio-Medical Core Technology Development Project (원천기술개발사업) / Consulting Project](./OrientalMedicine.md)
 - Development of objective diagnosis and the clinical pathway of Traditional Korean Medicines for Damjeok Syndrome
 - Ministry of Science and ICT, 2022.7.1.~2026.12.31.
 
