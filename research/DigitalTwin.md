@@ -19,12 +19,15 @@ The overall architecture of an UAM-ODT entails four fundamental modules, as show
 These two components will digitalize the vehicle's dynamics and control, ensuring that its operations in both the digital and physical worlds may be exact replicas of one another. The DTCF module is designed to provide a DT bridge connecting the vehicle's physical and DTs. This module can offer tele-operation services, fault-tolerant control, or traffic prediction and management.
 
 ![](../assets/img/DTDE.png)
+
 *(a) Neural Dynamics Engine*
 
 ![](../assets/img/DTDE_Transfer_Learning.png)
+
 *(b) Transfer Learning for Fidelity Improvement*
 
 ![](../assets/img/DTDE_Dynamics_Prediction.png)
+
 *(c) Dynamics prediction*
 
 **Fig. 2: Digital Twin Dynamics Engines (DTDE)**
@@ -39,15 +42,19 @@ Control algorithms of the real vehicle are encapsulated in the DTCE module which
 The preliminary results in Fig. 3 (d) show that our approach using deep learning based control with Lyapunov stability can guarantee a high level of robustness for operational flights (attitude stabilization) of the UAM vehicle KP-01.
 
 ![](../assets/img/Control_Robust.png)
+
 *(a) es-DNLC*
 
 ![](../assets/img/Control_Optimal.png)
+
 *(b) Tiltiing Optimization using RL*
 
 ![](../assets/img/Control_Adaptive_Optimization.png)
+
 *(c) Bayesian optimization of controller*
 
 ![](../assets/img/DTDE_Dynamics_Prediction.png)
+
 *(d) Preliminary results of deep neural Lyapunov control*
 
 **Fig. 3: Digital Twin Control Engine (DTCE)**
@@ -56,13 +63,15 @@ The preliminary results in Fig. 3 (d) show that our approach using deep learning
 It is believed that the DTDE, and DTCE can capture exactly how the physical vehicle can fly in the real space. At this time, the control in the digital space can be adopted for the real-world operations of the physical vehicle in the physical space. Tele-operations and fail-safe flights can be developed through the DTCF module in Fig. 4.  A bridge for virtual-real space connection is developed using MAVLink API to transmit and receive aerospace data between the physical-digital vehicles in asynchronous and irregular manner.
 
 ![](../assets/img/DTCF.png)
+
 **Fig. 4: Digital Twin Control Frame (DTCF)**
 
 # Digital Twin Cloud Infrastructure (DTCI)
 The above modules are for the DT development of a single UAM vehicle. To develop the UAM-ODT system for a huge number of vehicles, a cloud infrastructure is involved for the deployment of nucleus cores of **[dynamics and control]** of heterogeneous vehicles as shown in Fig. 5.
 
 ![](../assets/img/DTCI.png)
-**Fig. 4: Digital Twin Cloud Infrastructure (DTCI)**
+
+**Fig. 5: Digital Twin Cloud Infrastructure (DTCI)**
 
 # Conclusions
 This research proposes and discusses an overall engineering direction for the development of UAM vehicle digital twin system. Preliminary results prove that the approaches can clone the dynamics and control of UAM vehicles for the development of UAM-ODT.
@@ -73,5 +82,7 @@ This research was supported by Basic Science Research Program through the Nation
 # References
 
 [1] T.A. Nguyen, S.W. Jeon, A.A. Maw, D.K. Min, J.W. Lee, (2020), “Toward dependable blockchain and AI engines of digital twin systems for urban air mobility”, The Korean Society for Aeronautical & Space Sciences, 한국항공우주학회 학술발표회 초록집, 2021.07, 408-409.
+
 [2] T.A. Nguyen, J. Li, M. Jang, A.A. Maw, V. Pham, J.W Lee, (2022), “Cloud-in-the-loop simulation: A cloud-based digital twin HW/SW framework for multi-mode AI control simulation of eVTOL KADA-UAM Personal Aerial Vehicles”, The Korean Society for Aeronautical & Space Sciences, 한국항공우주학회 학술발표회 초록집, 2022.04, 138-139.
+
 [3] M. Jang, J. Hyun, T.A. Nguyen, J.W. Lee, (2022), “Attitude Stabilization of eVTOL in Hovering Mode using Neural Network based Control with Lyapunov Theorem”, The Korean Society for Aeronautical & Space Sciences, 한국항공우주학회 학술발표회 초록집, 2022.04, 322-323.
