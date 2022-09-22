@@ -16,10 +16,13 @@ These two components will digitalize the vehicle's dynamics and control, ensurin
 
 ![](../assets/img/DTDE.png)
 *(a) Neural Dynamics Engine*
+
 ![](../assets/img/DTDE_Transfer_Learning.png)
 *(b) Transfer Learning for Fidelity Improvement*
+
 ![](../assets/img/DTDE_Dynamics_Prediction.png)
 *(c) Dynamics prediction*
+
 **Fig. 2: Digital Twin Dynamics Engines (DTDE)**
 
 Without loss of generality, if the physical vehicle's dynamics and control are accurately represented in the digital space, along with the digital environment (such as cities, regions, and countries), the operations in the digital space can be successfully applied to the physical space. The UAM-ODT system as a whole runs continuously on the DTCI module to create a virtual representation of the actual UAM physical infrastructure.
@@ -30,6 +33,20 @@ To twinize the dynamics of a vehicle, we develop a deep learning based dynamics 
 # Digital Twin Control Engine (DTCE)
 Control algorithms of the real vehicle are encapsulated in the DTCE module which includes (i) robust control, es-DNLC [3], a deep neural network control with exponentially stabilizing control lyapunov functions for attitude stabilization of PAVs in Fig. 3 (a), (ii) optimal control, tilting optimization using reinforcement learning in Fig. 3 (b) to find optimal strategy for tilting scheduling during transition mode, (iii) adaptive control in Fig. 3 (c), which is to optimize control parameters using Bayesian optimization approach and Guassian processes for dynamics representation.
 The preliminary results in Fig. 3 (d) show that our approach using deep learning based control with Lyapubov stability can guarantee a high level of robustness for operational flights (attitute stabilization) of the UAM vehicle KP-01.
+
+![](../assets/img/Control_Robust.png)
+*(a) es-DNLC*
+
+![](../assets/img/Control_Optimal.png)
+*(b) Tiltiing Optimization using RL*
+
+![](../assets/img/DTDE_Dynamics_Prediction.png)
+*(c) Bayesian optimization of controller*
+
+![](../assets/img/DTDE_Dynamics_Prediction.png)
+*(d) Preliminary results of deep neural Lyapunov control*
+
+**Fig. 3: Digital Twin Control Engine (DTCE)**
 
 # Digital Twin Control Frame (DTCF)
 It is believed that the DTDE, and DTCE can capture exactly how the physical vehicle can fly in the real space. At this time, the control in the digital space can be adopted for the real-world operations of the physical vehicle in the physical space. Tele-operations and fail-safe flights can be developed through the DTCF module in Fig. 4.  A bridge for virtual-real space connection is developed using MAVLink API to transmit and receive aerospace data between the physical-digital vehicles in asynchronous and irregular manner.
