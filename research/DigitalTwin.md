@@ -53,7 +53,7 @@ The preliminary results in Fig. 3 (d) show that our approach using deep learning
 
 *(c) Bayesian optimization of controller*
 
-![](../assets/img/DTDE_Dynamics_Prediction.png)
+![](../assets/img/Preliminary_Results_DTCE.png)
 
 *(d) Preliminary results of deep neural Lyapunov control*
 
