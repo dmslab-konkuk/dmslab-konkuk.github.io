@@ -1,3 +1,4 @@
+
 # Digital Twin Requirements
 It is required to develop a vehicle digital twin (DT) for urban air mobility (UAM) which relies on an accurate, physics-based emulator to characterize the statics and dynamics of a vehicle. Because, the adoption of digital twin in operations and control of the vehicle is necessary for the UAM operational digital twin infrastructures (UAM-ODT). The issues are: (i) lack of digital twin engines for the digitalization (twinization) of dynamics and control of UAM vehicle running at the core center of UAM-ODT systems; and (ii) lack of back-end system engineering in the development of UAM vehicle DT. In that regard, our research proposes and discusses about an engineering direction for the development of UAM vehicle DT engines and systems.
 
