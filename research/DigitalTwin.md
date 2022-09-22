@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research
+title: UAM Digital Twin Technology
 ---
 
 # Digital Twin Requirements
