@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dependability and Security Quantification Technologies
+title: Research
 ---
 
 # 1. Research on Virtualized Servers Systems
