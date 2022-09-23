@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: ""
 ---
 
 # 1. Research on Virtualized Servers Systems
