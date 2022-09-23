@@ -10,3 +10,8 @@ It is important to assess availability of virtualized systems in IT business inf
 The architecture of a typical virtualized servers system (VSS) with multiple VMs is depicted in Figure 1. The VSS consists of two physical servers (also called hosts, host1 and host2). Both hosts have an identical configuration. Each host has a VMM (which is also known as hypervisor) and each host runs two VMs on its VMM. Each VM subsystem is composed of an operating system (OS) and multiple identical applications (Apps) as wanted. In this research, we disregard the involvement of OS, Apps, and workload. The hosts share a storage area network (SAN) on which the VM images or VMM source code files are stored. We will be using this system to study availability of a virtualized system. The model can be further extended in the future, but our focus is to take into account the detailed behaviors of a virtualized system, in contrast to incorporating a large scale cloud system.
 
 ![](../assets/img/DS_VSS_Architecture.png)
+
+**Figure 1: Architecture of a Virtualized Servers System (VSS)**
+
+![](../assets/img/DS_VSS_SRN_Model.png)
+
