@@ -6,6 +6,12 @@ title: Gallery
 <br/>
 
 # 2022
+### 2022년 Dr. Vishinu Kumar Good-Bye Dinner Party
+![alt_text](../assets/img/gallery/220922-DMS_Dinner-Party/1.jpg)
+![alt_text](../assets/img/gallery/220922-DMS_Dinner-Party/2.jpg)
+![alt_text](../assets/img/gallery/220922-DMS_Dinner-Party/3.jpg)
+![alt_text](../assets/img/gallery/220922-DMS_Dinner-Party/4.jpg)
+![alt_text](../assets/img/gallery/220922-DMS_Dinner-Party/5.jpg)
 
 ### 1학기 하계방학 DMS 3차 워크샵
 ![alt_text](../assets/img/gallery/220801-DMS_workshop/1.jpg)
