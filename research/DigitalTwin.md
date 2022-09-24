@@ -73,11 +73,8 @@ The above modules are for the DT development of a single UAM vehicle. To develop
 
 **Fig. 5: Digital Twin Cloud Infrastructure (DTCI)**
 
-# Conclusions
+# Remarks
 This research proposes and discusses an overall engineering direction for the development of UAM vehicle digital twin system. Preliminary results prove that the approaches can clone the dynamics and control of UAM vehicles for the development of UAM-ODT.
-
-# Acknowledgement
-This research was supported by Basic Science Research Program through the National Research Foundation of Korea(NRF) funded by the Ministry of Education(No. 2020R1A6A1A03046811).
 
 # References
 
