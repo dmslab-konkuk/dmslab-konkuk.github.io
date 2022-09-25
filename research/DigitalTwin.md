@@ -73,7 +73,7 @@ The above modules are for the DT development of a single UAM vehicle. To develop
 
 **Fig. 5: Digital Twin Cloud Infrastructure (DTCI)**
 
-![](../assets/img/CLIS.png)
+![](../assets/img/CILS.png)
 
 **Fig. 6: Cloud-in-the-loop Simulation (CLIS)**
 
