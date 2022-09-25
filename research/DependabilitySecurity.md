@@ -1,6 +1,13 @@
 ---
 layout: page
 title: "Dependability and Security"
+header-includes: |
+    \usepackage{tikz,pgfplots}
+    \usepackage{fancyhdr}
+    \pagestyle{fancy}
+    \fancyhead[CO,CE]{This is fancy}
+    \fancyfoot[CO,CE]{So is this}
+    \fancyfoot[LE,RO]{\thepage}
 ---
 
 # <span style="color:blue"> Research on Virtualized Servers Systems (VSS) </span>
@@ -63,7 +70,7 @@ For the sake of DT between the two sites, a backup server involves as an interme
 
 Based on the DTDC system architecture, we can form different system configurations depending on the operational states of the DCs and the hosts within a DC. Four system configurations for the DTDC are formed. The configuration (I) and (II) represent that the DC1/DC2 are in active/active mode whereas the configuration (III) and (IV) represent that one DC (DC1) is active and the other DC (DC2) is passive. A DC is active if at least one of its hosts is also active. And a DC is passive if both hosts are also passive in that DC. Hence, the host configuration in a DC can vary in the configurations (I, II, III or IV). 
 
-![](../assets/img/DTDC_Disaster_Tolerant_Configuration.jpg)
+![](../assets/img/DTDC_Disaster_Tolerant_Configuration.png)
 
 **Disaster-Tolerant Configuration of DTDCs**
 
@@ -92,6 +99,8 @@ Rising aggressive virus pandemics urge to conduct studies on dependability and s
 To quantify reliability, availability and security measures of a multi-level complex IoMT infrastructure, it requires a suitable hierarchical modeling and analysis framework. A number of different sub-models is organized in a hierarchical manner to form a multi-level system model in order to model heterogeneous features and integration of IoMT infrastructures while also to capture operational behaviors of bottom-most subsystems/components. The proposed hierarchical modeling and analysis framework utilises (i) the capability in generating combinatorial models in accordance with considered system architecture with simplicity and rapidity and (ii) the capability in elaborating underlying operational behaviors (states and transitions) into state-based models all together forming an overall hierarchical model of the IoMT infrastructure. In this study, we propose a hierarchical modeling and analysis framework, specifically for reliability, availability and security assessment of multi-level IoMT infrastructures. The proposed hierarchical system model encompasses three-fold heterogeneous models including (i) \ac{FT} system model ($\Psi$) in the top level to capture overall system architecture of the IoMT infrastructure consisting of different member systems, (ii) \ac{FT} subsystem models ($\Delta$) in the middle level to model subsystems' architectures in each member system and (iii) state-based models ($\Phi$) in the bottom-most level to capture operational behaviors featured by failure modes and recovery strategies of every components in each subsystem. Without loss of generality, the developed hierarchical model of an IoMT infrastructure is represented as a graph of $\{\Psi, \Delta, \Phi\}$.
 
 ![](../assets/img/IoMT_Hierarchical_Modeling_Framework.gif)
+
+***A hierarchical modeling framework***
 
 ### An Internet of Medical Things (IoMT)
 
