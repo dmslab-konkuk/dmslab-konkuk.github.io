@@ -73,6 +73,10 @@ The above modules are for the DT development of a single UAM vehicle. To develop
 
 **Fig. 5: Digital Twin Cloud Infrastructure (DTCI)**
 
+![](../assets/img/CLIS.png)
+
+**Fig. 6: Cloud-in-the-loop Simulation (CLIS)**
+
 # Remarks
 This research proposes and discusses an overall engineering direction for the development of UAM vehicle digital twin system. Preliminary results prove that the approaches can clone the dynamics and control of UAM vehicles for the development of UAM-ODT.
 

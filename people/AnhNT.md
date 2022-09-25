@@ -13,9 +13,9 @@ title: Tuan Anh Nguyen
 
 ### **Experiences**
 
-- Tuan Anh Nguyen (Ph.D.'15, M.Sc.'10, B.Eng.'08) is now an academic research assistant professor (학술연구 조교수) in computer science with specialization in Dependable, Autonomous and Intelligent Systems of Konkuk University, Seoul, South Korea.
+- Tuan Anh Nguyen (Ph.D.'15, M.Sc.'10, B.Eng.'08) is now an academic research assistant professor (학술연구 조교수) in computer science with **specialization in Dependable, Autonomous and Intelligent Systems** of Konkuk University, Seoul, South Korea.
 
-- He is now a professional member of AIAA, IEEE, IEEE Computer Society.
+- He is now a professional member of **AIAA, IEEE, IEEE Computer Society**.
 
 - Previously, he worked as a Research Assistant Professor (연구 조교수) for Office of Research, University-Industry Cooperation Foundation (건국대학교 산학협력단), Konkuk University since Mar. 2016-Feb.2020 . 
 
