@@ -3,7 +3,7 @@ layout: page
 title: "Dependability and Security"
 ---
 
-# -! Research on Virtualized Servers Systems (VSS) -!
+# <span style="color:red"> Research on Virtualized Servers Systems (VSS) </span>
 
 ### Abstract
 
@@ -32,6 +32,8 @@ The architecture of a typical virtualized servers system (VSS) with multiple VMs
 
 We have modeled and analyzed a virtualized servers system with multiple VMs via SRN. We encapsulated four VMs running on two VMMs into two hosts. We also incorporated diverse failure modes and corresponding recovery behaviors regarding hardware and software aspects including host failure, SAN failure, aging-related failure, and Mandelbugs related failure in SRN models. A variety of dependencies were taken into account in modeling as follows: (i) dependencies between a host and its hosted VMM, in turn between the VMM and its hosted VMs; (ii) interconnection dependency between SAN and VM subsystems; and (iii) marking dependency between VMs in a host. The SSA analysis showed that a frequent rejuvenation policy on VM may lower the SSA of the virtualized systems whereas that on VMM may enhance the system SSA. Based on the sensitivity analysis with respect to SSA, we showed that adopting a particular combination of rejuvenation on all VMM and VM subsystems in both hosts with the value of common interval in a specific range may help to increase system availability of the virtualized system.
 
+
+---------------------------------------
 
 # Research on Disaster Tolerant Data Centers (DTDC)
 
