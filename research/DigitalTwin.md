@@ -29,7 +29,7 @@ To twinize the dynamics of a vehicle, we develop a deep learning based dynamics 
 
 *(b) Transfer Learning for Fidelity Improvement*
 
-![](../assets/img/DTDE_Dynamics_Prediction.png)
+![](../assets/img/DTDE_Preliminary_Results.png)
 
 *(c) Dynamics prediction*
 
@@ -53,7 +53,7 @@ The preliminary results in Fig. 3 (d) show that our approach using deep learning
 
 *(c) Bayesian optimization of controller*
 
-![](../assets/img/Preliminary_Results_DTCE.png)
+![](../assets/img/DTCE_Preliminary_Results.png)
 
 *(d) Preliminary results of deep neural Lyapunov control*
 
