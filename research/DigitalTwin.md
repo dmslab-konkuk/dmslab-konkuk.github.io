@@ -75,7 +75,7 @@ The above modules are for the DT development of a single UAM vehicle. To develop
 
 ![](../assets/img/CILS.png)
 
-**Fig. 6: Cloud-in-the-loop Simulation (CLIS)**
+**Fig. 6: Cloud-in-the-loop Simulation (CILS)**
 
 # Remarks
 This research proposes and discusses an overall engineering direction for the development of UAM vehicle digital twin system. Preliminary results prove that the approaches can clone the dynamics and control of UAM vehicles for the development of UAM-ODT.
