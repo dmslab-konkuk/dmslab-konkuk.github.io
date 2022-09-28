@@ -1,6 +1,8 @@
 ---
-layout: page
-title: Dependability and Security
+layout: archive
+title: "Dependability and Security"
+permalink: /research/DS
+author_profile: true
 ---
 
 ---------------------------------------
@@ -29,16 +31,13 @@ The architecture of a typical virtualized servers system (VSS) with multiple VMs
 
 **Figure 3: SSA sensitivity analysis of VM subsystem with respect to VMM and VM clocks’ interval.**
 
-
 ### Remarks
 
 We have modeled and analyzed a virtualized servers system with multiple VMs via SRN. We encapsulated four VMs running on two VMMs into two hosts. We also incorporated diverse failure modes and corresponding recovery behaviors regarding hardware and software aspects including host failure, SAN failure, aging-related failure, and Mandelbugs related failure in SRN models. A variety of dependencies were taken into account in modeling as follows: (i) dependencies between a host and its hosted VMM, in turn between the VMM and its hosted VMs; (ii) interconnection dependency between SAN and VM subsystems; and (iii) marking dependency between VMs in a host. The SSA analysis showed that a frequent rejuvenation policy on VM may lower the SSA of the virtualized systems whereas that on VMM may enhance the system SSA. Based on the sensitivity analysis with respect to SSA, we showed that adopting a particular combination of rejuvenation on all VMM and VM subsystems in both hosts with the value of common interval in a specific range may help to increase system availability of the virtualized system.
 
-
 ---------------------------------------
 
 # <span style="color:blue"> Research on Dependability of Disaster Tolerant Data Centers (DTDC) </span>
-
 
 ### Highlights
 
@@ -53,7 +52,7 @@ Availability assessment of a data center with disaster tolerance (DT) is demandi
 
 ### Architecture
 
-A DTDC system architecture depicted comprises two Data Center (DC)s (namely, DC1 and DC2) geographically distributed at two distant sites. Each DC is composed of the same architecture consisting of two hosts, two VMs and one Network Area Storage (NAS). A host is capable of running a VM and having a number of VM vacancies for the sake of migration of VMs from the remaining host in the same DC or from the other hosts in the remaining DC. The two hosts in a DC connect to the NAS in order to store VMs images and operational data. For clarity, we list down the components of each DC as follows. DC1 consists of host 1, host 2, NAS1, VM1 and VM2 initially. Whereas, DC2 comprises host 3, host 4, NAS2, VM3 and VM4. In the DC1, host 1 runs VM1 and host 2 runs VM2 respectively. Also, host 1 and host 2 connect to NAS1. In the DC2, host 3 and host 4 connect to NAS2 and run VM3 and VM4 respectively. In order to perform FT between the two sites, the two DCs are connected via a dedicated inter-site link which is useful for time critical and high bandwidth connection. 
+A DTDC system architecture depicted comprises two Data Center (DC)s (namely, DC1 and DC2) geographically distributed at two distant sites. Each DC is composed of the same architecture consisting of two hosts, two VMs and one Network Area Storage (NAS). A host is capable of running a VM and having a number of VM vacancies for the sake of migration of VMs from the remaining host in the same DC or from the other hosts in the remaining DC. The two hosts in a DC connect to the NAS in order to store VMs images and operational data. For clarity, we list down the components of each DC as follows. DC1 consists of host 1, host 2, NAS1, VM1 and VM2 initially. Whereas, DC2 comprises host 3, host 4, NAS2, VM3 and VM4. In the DC1, host 1 runs VM1 and host 2 runs VM2 respectively. Also, host 1 and host 2 connect to NAS1. In the DC2, host 3 and host 4 connect to NAS2 and run VM3 and VM4 respectively. In order to perform FT between the two sites, the two DCs are connected via a dedicated inter-site link which is useful for time critical and high bandwidth connection.
 
 ![](../assets/img/DTDC_Architecture.jpg)
 
@@ -63,7 +62,7 @@ For the sake of DT between the two sites, a backup server involves as an interme
 
 ### Disaster-Tolerant Configuration of DTDCs
 
-Based on the DTDC system architecture, we can form different system configurations depending on the operational states of the DCs and the hosts within a DC. Four system configurations for the DTDC are formed. The configuration (I) and (II) represent that the DC1/DC2 are in active/active mode whereas the configuration (III) and (IV) represent that one DC (DC1) is active and the other DC (DC2) is passive. A DC is active if at least one of its hosts is also active. And a DC is passive if both hosts are also passive in that DC. Hence, the host configuration in a DC can vary in the configurations (I, II, III or IV). 
+Based on the DTDC system architecture, we can form different system configurations depending on the operational states of the DCs and the hosts within a DC. Four system configurations for the DTDC are formed. The configuration (I) and (II) represent that the DC1/DC2 are in active/active mode whereas the configuration (III) and (IV) represent that one DC (DC1) is active and the other DC (DC2) is passive. A DC is active if at least one of its hosts is also active. And a DC is passive if both hosts are also passive in that DC. Hence, the host configuration in a DC can vary in the configurations (I, II, III or IV).
 
 ![](../assets/img/DTDC_Disaster_Tolerant_Configuration.png)
 
@@ -77,7 +76,7 @@ In the configuration (I), both hosts in a DC at both sites are in active/active 
 
 **SRN system model of a DTDC**
 
-### Remarks 
+### Remarks
 
 This research has presented a comprehensive modeling and analysis of a DTDC. Our work studied a typical HA configuration of the DTDC consisting of two geographically distributed data centers under the active/active pair. In each data center, two hosts in active/passive pair were installed with a VM running on each one. We attempted to model the system in detail using SRN with the incorporation of fault and disaster tolerant techniques. The dependencies between components in the system architecture were also captured in a complete manner including (a) between hosts and VMs, (b) between NAS and VMs, and (c) between disastrous events and hardware subsystems (hosts and NAS). Furthermore, we took into consideration the unexpected failure events of data transmission along the network connection between the geographically distributed parts (i) between two distant data centers and (ii) between the backup server and the data centers. To study the systems characteristics and responses, the steady state analysis, downtime cost analysis and sensitivity analysis were conducted thoroughly. The steady state analyses were carried out with eight typical cases in consideration of three parameters including two imperfect coverage factors and meantime to disaster occurrence. Whereas in the sensitivity analysis, five major parameters which feature for disaster tolerant properties of the system and expose a certain influence on the system responses were selected as analysis variables. The analysis pointed out that (i) a data center can achieve a much higher availability with rather than without DT and the data centers located in an area with less disastrous events also gain higher availability; (ii) unexpected failures along the data transmission process bear a certain loss on the system availability; (iii) network speed between geographically distributed parts correlates with VM image size on impacting the system availability. Therefore, the design of the DTDC to meet industrial demands may need to consider the above parameters in an appropriate trade-off between system availability, efficiency and downtime cost, with infrastructure construction cost under the mutual agreement between customers and system owner specified in SLA documents.
 
@@ -115,9 +114,7 @@ Physical system developers' perspective focuses on detailed composition of botto
 
 - **IoMT sensors** (*ihSensor* & *iaSensor*) are usually an embedded board with an identical architecture containing a battery pack (*iBAT*), a sensing part (*iSEN*), an analog-to-digital conversion unit (*iADC*), a micro-controller unit (*iMCU*), a tiny memory part (*iMEM*) and a transceiver (*iTRx*). IoMT gateway (*iGateway*) comprises its physical hardware (*igHW*) and software (*igSW*) components.
 
-
 ![](../assets/img/IoMT_Architecture.jpg)
-
 
 ### Stochastic Models of IoMT
 
@@ -135,11 +132,9 @@ Reliability, availability, and security have been always important dependability
 
 Numerous analyses were performed in detail for the developed models of the default architecture of the considered IoMT infrastructure and the alternated architectures of case studies and scenarios, including: 1) reliability analyses; 2) SSA analyses; 3) availability sensitivity analyses wrt. impacting factors; and 4) security analyses considering the impact of attack intensities on system availability. The proposed hierarchical modeling and analysis framework along with developed hierarchical models and comprehensive analyses of a typical IoMT infrastructure presented in this work are expected: 1) to provide a novel approach toward dependability evaluation of sophisticated and multilevel architectures of IoMT infrastructures in practice and also 2) to guide system developers and practitioners either design an optimized architecture of IoMT infrastructures to obtain a proper level of QoS or to operate a practical IoMT infrastructure to provide the best operational services as possible to clients. Further works, including: 1) performance analysis under availability constraints based on hierarchical stochastic models (performability analysis) and 2) development of automated evaluation tools for different structural architectures of IoMT infrastructures can be fruitful extensions of this study to provide a multi-perspective comprehension on the CFE continuum-based IoMT infrastructure.
 
-
 ---------------------------------------
 
 # <span style="color:blue"> Research on Dependability and Security of Software-Defined Network (SDN) </span>
-
 
 ### Abstract
 
@@ -151,7 +146,7 @@ SDN is a programmable network system that can dynamically change network configu
 
 ![](../assets/img/SDN_Architecture.jpg)
 
-*** System architecture of a Software Defined Network (SDN) ***
+***System architecture of a Software Defined Network (SDN)***
 
 In order to reduce performance degradation in network systems due to MTD, we proposed a switch-over strategy offering the additional server (aka server *H2*) that has the same implementation and functions as server *H1*. A server *H1* and a replica (*H2*) deal with newly incoming requests from clients, in turn, every MTD intervals while its counterpart retains the current connections with legitimate clients and keeps processing remaining jobs in transit or in queues of servers according to predefined policies or rules. SDN controller manages *vIP* tables and adds flow entries to change *vIP* into *rIP* in the connected switches (SW2 and SW2) respectively. The key role of an SDN controller in our proposed system is to update flow tables of the connected switches according to the proposed MTD policies and renew new virtual IP addresses to a DNS server. As a control plane of an SDN system, an SDN controller is required to keep inserting or deleting flow rules in the table of each switch and update the database of a DNS server every MTD interval. It results in the increase of workload in an SDN controller of our proposed system compared to conventional systems. It leads that end-servers can communicate with the legitimate client by only using their own *rIP*. However, these clients do not realize when the MTD technique is applied until they re-resolve the IP address from DNS server again. TTL, one of DNS attributes can be used of course however, the disconnection between end-servers and clients is not resolved. Therefore, we propose a switch-over strategy in order to minimize connection loss over the network adapting MTD and evaluate in terms of performability in a quantitative manner.
 
@@ -171,4 +166,4 @@ In order to reduce performance degradation in network systems due to MTD, we pro
 
 ### Remarks
 
- In this paper, we presented comprehensive performability modelling and analysis of an SDN system adopting switch-over MTD strategies. The chosen techniques for security efficiency in the execution of MTD processes are IP shuffling and server redundancy along with switch-over mechanisms for performability assurance. The triggering MTD mechanism is the time-based approach. While, various service management policies are proposed in the execution and progressing of MTD processes to maintain an expected level of performability measures, which form seven switch-over MTD strategies including (i) DDD strategy with dropping and zero-time waiting policies (*D*) for jobs at all places, (ii) (fWDD, fWAD, fWAA) and (vWDD, vWAD, vWAA) strategies with fixed-time and variable-time waiting policies (*fW *and *vW*) for ongoing jobs in servers, respectively and corresponding accepting (*A*) and dropping (*D*) policies for jobs in servers' service queue and jobs in transit. In accordance with the considered MTD strategies in this work, we proposed different comprehensive performability SRN models and performed detailed simulations and analyses for the evaluation of performability metrics. Specifically, availability and performance metrics of the system were analysed under default parameters while sensitivity analyses of performability metrics were conducted with regard to various significant parameters including job arrival rate, service rate, MTD interval, service queue size of servers, a ratio of long/short job types. Performability metrics of interest include (i) availability and downtime minutes in a day of a physical system, and COA of services for availability analyses, and (ii) service throughput, server utilization, service response time, number of lost jobs per hour and operational cost for performance analyses. The analysis results revealed a comprehension of the impact and thus trade-offs for the implementation of MTD strategies on the performability metrics and operational behaviours of the system, particularly (i) while complete dropping policy for jobs at all places can secure security efficiency of MTD mechanisms, the policy apparently incurs negative impacts on system performance, (ii) waiting policy for the completion of processing jobs in servers in the execution of MTD strategies can help reduce the impact of dropping policy, and (iii) accepting policy for jobs in servers' service queue and jobs in transit in the network even help diminish the negative impact of the dropping policy and the execution of MTD processes on the system performance. The findings of this study can help develop a comprehensive master plan for the adoption of MTD strategies in practical networked systems for security and performability assurance.
+ In this paper, we presented comprehensive performability modelling and analysis of an SDN system adopting switch-over MTD strategies. The chosen techniques for security efficiency in the execution of MTD processes are IP shuffling and server redundancy along with switch-over mechanisms for performability assurance. The triggering MTD mechanism is the time-based approach. While, various service management policies are proposed in the execution and progressing of MTD processes to maintain an expected level of performability measures, which form seven switch-over MTD strategies including (i) DDD strategy with dropping and zero-time waiting policies (*D*) for jobs at all places, (ii) (fWDD, fWAD, fWAA) and (vWDD, vWAD, vWAA) strategies with fixed-time and variable-time waiting policies (*fW*and *vW*) for ongoing jobs in servers, respectively and corresponding accepting (*A*) and dropping (*D*) policies for jobs in servers' service queue and jobs in transit. In accordance with the considered MTD strategies in this work, we proposed different comprehensive performability SRN models and performed detailed simulations and analyses for the evaluation of performability metrics. Specifically, availability and performance metrics of the system were analysed under default parameters while sensitivity analyses of performability metrics were conducted with regard to various significant parameters including job arrival rate, service rate, MTD interval, service queue size of servers, a ratio of long/short job types. Performability metrics of interest include (i) availability and downtime minutes in a day of a physical system, and COA of services for availability analyses, and (ii) service throughput, server utilization, service response time, number of lost jobs per hour and operational cost for performance analyses. The analysis results revealed a comprehension of the impact and thus trade-offs for the implementation of MTD strategies on the performability metrics and operational behaviours of the system, particularly (i) while complete dropping policy for jobs at all places can secure security efficiency of MTD mechanisms, the policy apparently incurs negative impacts on system performance, (ii) waiting policy for the completion of processing jobs in servers in the execution of MTD strategies can help reduce the impact of dropping policy, and (iii) accepting policy for jobs in servers' service queue and jobs in transit in the network even help diminish the negative impact of the dropping policy and the execution of MTD processes on the system performance. The findings of this study can help develop a comprehensive master plan for the adoption of MTD strategies in practical networked systems for security and performability assurance.
