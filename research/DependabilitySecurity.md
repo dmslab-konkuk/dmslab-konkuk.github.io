@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Dependability and Security"
-permalink: /research/DS
+permalink: https://anhnt2407.github.io/research/DS
 author_profile: true
 ---
 
