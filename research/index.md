@@ -45,7 +45,7 @@ title: Research
 ## Natural Language Processsing AI Area
 <br/>
 
-## [Digital Twin Area](./DigitalTwin.md)
+## [Digital Twin Area](https://anhnt2407.github.io/research/DigitalTwin)
 
 - Digital twin (DT) is a pioneering technology and a promising game-changer in various emerging industries. 
 - The concept of DT opens a world of possibilities for fundamentally the infusion of physical-twin specific computational models which are dynamically updated into a feedback loop of data-driven analysis and decision-making. 
