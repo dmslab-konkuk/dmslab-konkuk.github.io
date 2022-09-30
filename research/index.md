@@ -54,7 +54,7 @@ title: Research
 
 <br/>
 
-## [Depedability and Security Quantification Area](./DependabilitySecurity.md)
+## [Dependability and Security Quantification Area](./DependabilitySecurity.md)
 
 - Dependability and security are of five distinctive natures (along with functionality, performance, and cost) for computing and communication systems.
 - Computing systems and networks with a sophisticated composition of multi-level systems and things are inevitably prone to a chain of threats (faults, errors, and failures) which eventually causes fatal losses, such as service interruption/outage, data leak, or even human lives.
