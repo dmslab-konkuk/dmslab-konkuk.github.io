@@ -28,5 +28,5 @@ Various studies are in progress in relation to AI technology based on deep learn
 
 ```
 Office: Konkuk University New Engineering Building 1207
-Email: dkmin at konkuk (Prof.Dugki Min, Ph.D) or jswp5580 at konkuk (Sangwoo Jeon in Master Course)
+Email: dkmin at konkuk.ac.kr (Prof.Dugki Min, Ph.D) or jswp5580 at konkuk.ac.kr (Sangwoo Jeon in Master Course)
 ```
