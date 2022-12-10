@@ -77,11 +77,8 @@ It is believed that the DTDE, and DTCE can capture exactly how the physical vehi
 
 # Digital Twin Cloud Infrastructure (DTCI)
 
-The above modules are for the DT development of a single UAM vehicle. To develop the UAM-ODT system for a huge number of vehicles, a cloud infrastructure is involved for the deployment of nucleus cores of **[dynamics and control]** of heterogeneous vehicles as shown in Fig. 5.
+The above modules are for the DT development of a single UAM vehicle. To develop the UAM-ODT system for a huge number of vehicles, a cloud infrastructure is involved for the deployment of nucleus cores of **[dynamics and control]** of heterogeneous vehicles/
 
-![](../assets/img/DTCI.png)
-
-**Fig. 5: Digital Twin Cloud Infrastructure (DTCI)**
 
 # Remarks
 
