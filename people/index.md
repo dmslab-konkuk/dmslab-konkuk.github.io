@@ -28,7 +28,6 @@ title: People
 
 ### B.S Course
 * [Minwhoan Kim](./MinwhoanKim)
-* [Hyungkyu Kim](./HyungKyuKim)
 * [JinHang Yu](./JinHangYu)
 * [ChangSeok Woo](./ChangSeokWoo)
 * [SeungHyeop Nam](./SeungHyeopNam)
