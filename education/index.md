@@ -1,8 +1,7 @@
 ---
 layout: page
-# title: Education
+title: Education
 
-<br/>
 # Distributed System Classes
 
 ## Distributed Systems and Computing (4-1)
