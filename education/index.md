@@ -12,9 +12,13 @@ title: Education
 - Big Data & Big Data Processing
 - Parallel Processing in Distributed Systems
 - Hadoop 2.0 Architecture and Internals
+- Map-Reduce Framework
+- YARN Fraemwork
+- Spark Framework
 - Fault Torence Distributed Systems
 - Security Issues in Distributed Systems
 - Block Chain Systems and Digital Currency
+- Etherium
 <br/>
 
 ### Next Generation Distributed Systems (4-2)
@@ -41,7 +45,7 @@ title: Education
 - Generative Adversarial Network
 - Recurrent Neural Network
 - Transformer
-- Tensorflow 2.0
+- Tensorflow 2.0 Framework
 <br/>
 
 ### Open Source Software Project 2 (3-2)
@@ -53,12 +57,6 @@ title: Education
 - Deep Q Network (DQN)
 - REINFORCE algorithm
 - Actor-Critic: A2C, A3C
-- Deep Deterministiec Policy Gradient (DDPG)
-- Twin Delayed Deep Deterministric Policy Gradient (TD3)
-- Soft Actor Critic(SAC)
-- True Region Policy Optimization (TRPO)
-- Proximal Policy Optimization (PPO)
+- Monte Calro Tree Search
+- Pytorch 2.0 Framework
 <br/>- 
-- 
-- 
-- 
