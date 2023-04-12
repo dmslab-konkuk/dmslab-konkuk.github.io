@@ -15,6 +15,7 @@ title: Education
 - Fault Torence Distributed Systems
 - Security Issues in Distributed Systems
 - Block Chain Systems and Digital Currency
+<br/>
 
 ### Next Generation Distributed Systems (4-2)
 - Cloud Computing
@@ -27,6 +28,7 @@ title: Education
 - OpenStack Cloud Operation System
 - Kubrenetes and Auto Scaling
 - DevOps and Continuous Integration and Continuous Development
+<br/>
 
 # Artificial Intelligent Classes
 
@@ -40,6 +42,7 @@ title: Education
 - Recurrent Neural Network
 - Transformer
 - Tensorflow 2.0
+<br/>
 
 ### Open Source Software Project 2 (3-2)
 - Deep Reinforcement Learning from the basic
@@ -55,7 +58,7 @@ title: Education
 - Soft Actor Critic(SAC)
 - True Region Policy Optimization (TRPO)
 - Proximal Policy Optimization (PPO)
-- 
+<br/>- 
 - 
 - 
 - 
