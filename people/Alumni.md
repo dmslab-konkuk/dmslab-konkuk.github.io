@@ -64,6 +64,7 @@ title: Alumni
 * QiuHong Jin (김추홍, 2022)
 * Fengyi Chen (진풍이, 2022)
 * Lu Kai (루카이, 2022)
+* Sangwoo Jeon (전상우, 2023)
 
 
 ### Undergraduate Researcher 
