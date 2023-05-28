@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Minwhoan Kim
+title: Hyeonseo Cho 
 ---
 
 ## Hyeonseo Cho (조현서)
