@@ -7,15 +7,13 @@ title: Minwhoan Kim
 ![HyeonseoCho](../assets/img/profile_hyeonseocho.jpg)
 
 ### Research Interests 
-* Deep Learning
 * Reinforcement Learning
-* Statistical Learning
-* Control Algorithm 
+* Deep Learning
 
 ### Contact Info
 * Lab: 1207, New Engineering Building
 * Email : whgustj33@konkuk.ac.kr
 
 ### Related Links
-* [Github](https://github.com/hyeonse0)
+* [Github](https://github.com/hyeonsio)
 * [Blog]()
