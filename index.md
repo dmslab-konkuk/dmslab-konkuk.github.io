@@ -18,7 +18,7 @@ Various studies are in progress in relation to AI technology based on deep learn
 
 ### Core Research Focus
 * Intelligent Mobility Control Technologies based on Multi-Agent Deep Reinforcement Learning and Attentions between agents
-* Human Pose, Activity, Face, Emotion Recognition algorithms based on deep learning models for computer vision
+* Human Pose, Activity, Face, Emotion Recognition models based on deep learning for computer vision
 * Open-Domain Converstational QA and Dialog systems based on Graph Knowledge and Self-Attention models
 * Multi-Modal Situation Detection and Context Regonition Servies for Healthcare Assistant
 * Automatic provisioning and intelligent operation management technologies for intelligent cloud platforms (IaaS, PaaS, SaaS, FaaS)
