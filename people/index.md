@@ -4,7 +4,7 @@ title: People
 ---
 
 <br/>
-### Directory, Professor
+### Director
 * [Prof. Dugki Min, Ph.D](./DugkiMin)
 
 ### Research Professor
