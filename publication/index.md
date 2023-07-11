@@ -8,19 +8,19 @@ title: Publication
 
 - Kaliappan, V. K., Yu, S., Soundararajan, R., Jeon, S., Min, D., & Choi, E. (2022). High-Secured Data Communication for Cloud Enabled Secure Docker Image Sharing Technique Using Blockchain-Based Homomorphic Encryption. Energies, 15(15), 5544. https://doi.org/10.3390/en15155544
 
-- Battisti, F., Silva, A., Pereira, L., Carvalho, T., Araujo, J., Choi, E., ... & Min, D. (2022). hLSTM-Aging: A Hybrid LSTM Model for Software Aging Forecast. Applied Sciences, 12(13), 6412.
+- Battisti, F., Silva, A., Pereira, L., Carvalho, T., Araujo, J., Choi, E., ... & Min, D. (2022). hLSTM-Aging: A Hybrid LSTM Model for Software Aging Forecast. Applied Sciences, 12(13), 6412. https://doi.org/10.3390/app12136412
 
-- Silva, F. A., Fé, I., Brito, C., Araújo, G., Feitosa, L., Choi, E., ... & Nguyen, T. A. (2022). Supporting availability evaluation of a smart building monitoring system aided by fog computing. Electronics Letters, 58(12), 471-473.
+- Silva, F. A., Fé, I., Brito, C., Araújo, G., Feitosa, L., Choi, E., ... & Nguyen, T. A. (2022). Supporting availability evaluation of a smart building monitoring system aided by fog computing. Electronics Letters, 58(12), 471-473.  https://doi.org/10.1049/ell2.12502
 
-- Fé, I., Matos, R., Dantas, J., Melo, C., Nguyen, T. A., Min, D., ... & Maciel, P. R. M. (2022). Performance-Cost Trade-Off in Auto-Scaling Mechanisms for Cloud Computing. Sensors, 22(3), 1221.
+- Fé, I., Matos, R., Dantas, J., Melo, C., Nguyen, T. A., Min, D., ... & Maciel, P. R. M. (2022). Performance-Cost Trade-Off in Auto-Scaling Mechanisms for Cloud Computing. Sensors, 22(3), 1221. https://doi.org/10.3390/s22031221
 
-- Kaliappan, V. K., Nguyen, T. A., Min, D., Lee, J. W., & Sakthi, U. (2022). Steering Behavior-based Multiple RUAV Obstacle Avoidance Control. INTELLIGENT AUTOMATION AND SOFT COMPUTING, 34(1), 575-591.
+- Kaliappan, V. K., Nguyen, T. A., Min, D., Lee, J. W., & Sakthi, U. (2022). Steering Behavior-based Multiple RUAV Obstacle Avoidance Control. INTELLIGENT AUTOMATION AND SOFT COMPUTING, 34(1), 575-591. https://doi.org/10.32604/iasc.2022.024577
 
-- Nguyen, T. A., Kim, M., Lee, J., Min, D., Lee, J. W., & Kim, D. (2022). Performability evaluation of switch-over Moving Target Defence mechanisms in a Software Defined Networking using stochastic reward nets. Journal of Network and Computer Applications, 199, 103267.
+- Nguyen, T. A., Kim, M., Lee, J., Min, D., Lee, J. W., & Kim, D. (2022). Performability evaluation of switch-over Moving Target Defence mechanisms in a Software Defined Networking using stochastic reward nets. Journal of Network and Computer Applications, 199, 103267. https://doi.org/10.1016/j.jnca.2021.103267
 
-- Victor, C., Nguyen, T. A., Silva, L. A., Andrade, E., Santos, G. L., Min, D., ... & Silva, F. A. (2021, September). Performability assessment and sensitivity analysis of a home automation system. In 2021 IEEE/ACM 25th International Symposium on Distributed Simulation and Real Time Applications (DS-RT) (pp. 1-4). IEEE.
+- Victor, C., Nguyen, T. A., Silva, L. A., Andrade, E., Santos, G. L., Min, D., ... & Silva, F. A. (2021, September). Performability assessment and sensitivity analysis of a home automation system. In 2021 IEEE/ACM 25th International Symposium on Distributed Simulation and Real Time Applications (DS-RT) (pp. 1-4). IEEE. https://doi.org/10.1109/DS-RT52167.2021.9576142 (SCIE, JCR.Q2.Engineering, 77/266, IF2022=3.9)
 
-- NGUYEN, Tuan Anh, et al. Performability evaluation of load balancing and fail-over strategies for medical information systems with edge/fog computing using stochastic reward nets. Sensors, 2021, 21.18: 6253.
+- NGUYEN, Tuan Anh, et al. Performability evaluation of load balancing and fail-over strategies for medical information systems with edge/fog computing using stochastic reward nets. Sensors, 2021, 21.18: 6253. https://doi.org/10.3390/s21186253 (SCIE, JCR.Q2.Engineering, 77/266, IF2022=3.9)
 
 - Brito, C., Silva, L., Callou, G., T. A. Nguyen, Min, D., Lee, J.-W., & Silva, F. A. (2021). Offloading Data through Unmanned Aerial Vehicles: A Dependability Evaluation. Electronics, 10(16), 1916. https://doi.org/10.3390/electronics10161916 (SCIE, JCR.Q3.CS.IS, 93/162, IF2020=2.397)
 
