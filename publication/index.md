@@ -6,7 +6,7 @@ title: Publication
 
 # Journal/Conference Papers
 
-- Kaliappan, V. K., Yu, S., Soundararajan, R., Jeon, S., Min, D., & Choi, E. (2022). High-Secured Data Communication for Cloud Enabled Secure Docker Image Sharing Technique Using Blockchain-Based Homomorphic Encryption. Energies, 15(15), 5544.
+- Kaliappan, V. K., Yu, S., Soundararajan, R., Jeon, S., Min, D., & Choi, E. (2022). High-Secured Data Communication for Cloud Enabled Secure Docker Image Sharing Technique Using Blockchain-Based Homomorphic Encryption. Energies, 15(15), 5544. https://doi.org/10.3390/en15155544
 
 - Battisti, F., Silva, A., Pereira, L., Carvalho, T., Araujo, J., Choi, E., ... & Min, D. (2022). hLSTM-Aging: A Hybrid LSTM Model for Software Aging Forecast. Applied Sciences, 12(13), 6412.
 
