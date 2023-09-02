@@ -6,8 +6,8 @@ title: Gallery
 <br/>
 # 2023
 ### 2023년 2학기 개강 Dinner Party
-![alt_text](../assets/img/gallery/230831-DMS-semester opening party_01.jpg)
-![alt_text](../assets/img/gallery/230831-DMS-semester opening party_02.jpg)
+![alt_text](../assets/img/gallery/230831_DMS_Dinner_Party/1.jpg)
+![alt_text](../assets/img/gallery/230831_DMS_Dinner_Party/2.jpg)
 
 # 2022
 ### 2022년 Dr. Vishinu Kumar Good-Bye Dinner Party
