@@ -4,6 +4,7 @@ title: Gallery
 ---
 
 <br/>
+
 # 2023
 ### 2023년 2학기 개강 Dinner Party
 ![alt_text](../assets/img/gallery/230831_DMS_Dinner_Party/1.jpg)
