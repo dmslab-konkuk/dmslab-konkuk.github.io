@@ -7,21 +7,22 @@ cover-img: /assets/img/server.jpeg
 
 <br/>
 
-## Lab Introduction
-
-We are researching and developing distributed system technology and artificial intelligence technology across the entire range from IoT devices to cloud services.
+## Introduction to DMS Research Group
+The DMS research group is currently concentrating on research and development related to Smart Mobility Systems and Bio-Medical/Healthcare intelligent Services based on deep learning-based AI technologies on distributed systems
 
 ### Dstributed System Technology
-By utilizing Cloud Platform Technology, which has been researched and developed for over 10 years, we are currently focusing on the development of “Intelligent Fog Computing (IFC)” technology, which is the core of the 4th Industrial Revolution and 5G technology. In particular, we are researching intelligent IoT gateway development suitable for “Intelligent Assistant for Silver” and “Digital Twin System for Urban Air Mobility” application fields, automatic construction of a safe, stable and scalable fog computing server system, and intelligent operation management technology.
+By utilizing Cloud Platform Technology, we are currently focusing on the development of “Intelligent Cloud Platform (IFC) for Smart Mobility systems and Healthcare Assistant systems, which is the core of the 4th Industrial Revolution. In particular, we are researching automatic AI platform provisiong service for “Intelligent Cooperative Heatlcare Assistant Agents for oldery people” and “Digital Twin Systems for Urban Air Mobility” application fields. We also research and develop stable and scalable system architecture and intelligent system operation management service.
 
 ### Artificial Intelligence Technology 
-AlphaGo's core technologies, Deep Learning and Deep Reinforcement Learning, are being developed in the form of Distributed Multi-Agent System. In particular, we focus on distributed intelligent fields such as Distributed Multi-Agent Cooperative and Competitive Systems, Real-time Multi-Object Tracking Systems,  as well as natural language processing fields such as Question Answering, Question Generation, Auto Knowledge Construction, etc.
+Various studies are in progress in relation to AI technology based on deep learning. 1) Intelligent and efficient path planning and control based on Deep Reinforcement Learning (DRL), 2) Distributed Control technology for Swarm Mobility using Distributed Multiagent DRL technology, 3) Human Pose and Activity recognition technology based on Visual Transformer, 4) Object Detection, Face and Emotion Recognition technology using computer vision and widely used deep learning vision models such as CNN, YoLo, ResNet, MobileNet, etc. 5) NLP Research on Knowledge-based Open-Domain Conversational QA and Dialog based on Transformer-based encoder/decoder languate models, 6) Research on QA dataset creation competing Question Generation and Question Answering language models, 7) Intelligent Chatbot technology supporting long-term conversation using Open Domain Knowledge etc.
 
 ### Core Research Focus
-* Automatic construction and intelligent operation management technology of intelligent fog computing platforms (IaaS, PaaS, SaaS, FaaS)
+* Intelligent Mobility Control Technologies based on Multi-Agent Deep Reinforcement Learning and Attentions between agents
+* Human Pose, Activity, Face, Emotion Recognition models based on deep learning for computer vision
+* Open-Domain Converstational QA and Dialog systems based on Graph Knowledge and Self-Attention models
+* Multi-Modal Situation Detection and Context Regonition Servies for Healthcare Assistant
+* Automatic provisioning and intelligent operation management technologies for intelligent cloud platforms (IaaS, PaaS, SaaS, FaaS)
 * Hierarchical Distributed Intelligent Fog and Cloud Cooperative Service Platform technology based on Offloading/Caching technolog
-* Multi-Agent Deep Reinforcement Learning Technology based on Multiple Attentions
-* Cooperative Natural Language Conversation Technology based on Distributed Knowledge / Deep Learning
 * Distributed system quality evaluation technology based on stochastic reward net and discrete event simulation 
 * Efficient and reusable SW Architecture design technology suitable for domain function and quality requirements
 
@@ -29,5 +30,5 @@ AlphaGo's core technologies, Deep Learning and Deep Reinforcement Learning, are 
 
 ```
 Office: Konkuk University New Engineering Building 1207
-Email: dkmin at konkuk (Prof.Dugki Min, Ph.D) or ndrw5580 at konkuk (Sangwoo Jeon in Master Course)
+Email: dkmin at konkuk.ac.kr (Prof.Dugki Min, Ph.D) 
 ```

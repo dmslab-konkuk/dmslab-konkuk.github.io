@@ -6,11 +6,12 @@ title: GeunYeong Go
 ## GeunYeong Go (고근영)
 ![alt_text](../assets/img/profile_ggy.jpg)
 
+### Research Interests
+* Natural Language Processing
 
-### Research
+### Contact Info
+* Lab : Room 1207, New Engineering Building
+* Email : rhrmsdud0816@gmail.com
 
-- Natural Language Processing
-
-### Contact
-- Lab : Room 1207, New Engineering Building
-- Email : rhrmsdud0816@gmail.com
+### Related Links
+*

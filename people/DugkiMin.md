@@ -27,21 +27,24 @@ title: Prof.Dugki Min
 * Performance and Dependability Analysis
 
 ### Teaching
-* Distributed Computing and Systems (DS Concepts, Hadoop, Blockchain / In Konkuk)
-* Next Generation Distibuted Systems (Cloud, Virtualization, Docker, OpenStack, GPU / in Konkuk)
-* Open Source SW Project 1 (Deep Learning, Tensorflow, PyTorch / in Konkuk)
-* Open Source SW Project 2 (IoC Container, AOP, Spring Framework / in Konkuk)
-* Software Design Methodology (OO Analysis and Design, UML, Unified Process / in Konkuk)
-* Software Architecture (Architecture Design Methodology, Architecture Styles and Tactics / in Konkuk, in Samsung Electronics(2016-2020))
+* Distributed Computing and Systems (Distributed System Concepts, Hadoop, Blockchain)
+* Next Generation Distibuted Systems (Cloud Computing, Virtualization, Docker, OpenStack, Kubernetes, GPU)
+* Open Source SW Project 1 (Deep Learning, Tensorflow, PyTorch)
+* Open Source SW Project 2 (Deep Reinforcement Learning, PyTorch)
+* Software Design Methodology (Object-Oriented Anaysis and Design, UML, Unified Process)
+* Software Architecture (Architecture Design Methodology, Architecture Styles and Tactics, in Samsung Electronics(2016-2020))
+* Deep Reinforcement Learning Basic 
+* Advanced Deep Reinforcement Learning
 
 ### Professional Activities
-* 1995-present Full Professor, Computer Science and Engineering, College of Engineering, KU
-* 2020-2021    Visiting Professor,Lecturer, Pacific States University, LA, USA
+* 1995-present Full Professor, Computer Science and Engineering, College of Engineering, Konkuk University
+* 2021-present Chairman, Department of Artificial Interlligence, Graduate School, Konkuk University
 * 2008~present Steering Committee Member, Korea Software Technology Association 
+* 2020-2021    Visiting Professor,Lecturer, Pacific States University, LA, USA
 * 2016-2020   Lecturer, Associate Architecture Course, Samsung Electronics Co.,Ltd
-* 2018-2020   Chairman, Department of Computer Science and Engineering, College of Engineering, KU
-* 2018-2020   Divisio Head, Division of Information and Computer, Graduate School of Education., KU
-* 2016-2020   Division Head, Division of IT Supervision, Graduate School of Information and Communications, KU
+* 2018-2020   Chairman, Department of Computer Science and Engineering, College of Engineering, Konkuk University
+* 2018-2020   Divisio Head, Division of Information and Computer, Graduate School of Education., Konkuk University
+* 2016-2020   Division Head, Division of IT Supervision, Graduate School of Information and Communications, Konkuk University
 * 2007~2019 Committee Member, Korea Society of IT Services
 * 2005~2019 Committee Member, Korea Society of Simulation
 * 2010-2011   Visiting Professor, Vanderbilt University, TN, USA

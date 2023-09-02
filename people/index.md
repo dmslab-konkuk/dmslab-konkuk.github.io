@@ -4,64 +4,42 @@ title: People
 ---
 
 <br/>
-
-### Directory, Professor
+### Director
 * [Prof. Dugki Min, Ph.D](./DugkiMin)
 
-
 ### Research Professor
-
 * [Prof. K. Vishnu Kumar, Ph.D](./VishnuKumar)
 * [Prof. Tuan Anh Nguyen, Ph.D](./AnhNT)
 
-
 ### Ph.D Course
-
-* Paul Kim
-* Jueying Li
+* [Jueying Li](./JueyingLi)
 * [DamSub Lim](./DamsubLim)
-* Jun Oh
-* Woojun Yoo
-
 
 ### M.S Course
-
-* Nang Lung Auag(A)
-* [Geunyeong Go](./GeunyeongGo)
-* Ina Jang
+* [Minhwan Kim](./MinhwanKim)
 * [Sangwoo Jeon](./SangwooJeon)
-* Hyeon-gyu Jeong 
-* [Hyungeun Jo](./HyunGeunJo)
-* Lu kai
-* Minhwan Kim
-* Chuhong Kim
-* Ikjin Kwon
-* Fengyi Jin
 * [WonJune Seo](./SeoWonJune)
-* Seungjin Yu
+* [LinaZhang](./LinaZhang)
+* [Lu Kai](./Lukai)
+* [Wenchong Zhao](./WenchongZhao)
+* [Qiuhong Jin](./QiuhongJin)
+* [Geunyeong Go](./GeunyeongGo)
+* [Tae-min Jung](./TaeminJung)
 
 ### B.S Course
-
-* WonKyung Choi
-* Hoeun Lee
-* KyungWon Yoo
-
-
+* [Minwhoan Kim](./MinwhoanKim)
+* [JinHang Yu](./JinHangYu)
+* [ChangSeok Woo](./ChangSeokWoo)
+* [SeungHyeop Nam](./SeungHyeopNam)
+* [Hyeonseo Cho](./HyeonseoCho)
+* [Sinkyu Kang](./SinkyuKang)
+* [Hoeun Lee](./HoEunLee)
+* [SeongMin Park](./SeongMinPark)
+* [SangYoon Park](./SangYoonPark)
+* [Soyeong Sohn](./SoyeongSohn)
+* [MinJi Jeong](./MinjiJeong)
+* [YeBin Lee](./YeBinLee)
+* [Sunjae Kwon](./SunjaeKwon)
 <br/>
 
-
-### Alumni, Ph.D
-* Sasi Don
-* Minoh Gu
-* Nayeon Jo 
-* Vishnu Kumar Kaliappan
-* Rustam Rakhimov
-* Xuhua Rui
-
-### Alumni, Master
-* ChaeYoon Lee
-* MinKyu Cho 
-* Seon-yeop Lee 
-* Sang-hyuk Lee  
-* Yashin Oh 
-
+### [Alumni](./Alumni)
