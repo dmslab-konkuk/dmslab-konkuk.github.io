@@ -10,7 +10,7 @@ title: Alumni
 * YongWhan Lee (이용환, 2005)
 * GwyDuk Yeom (염귀덕, 2006)
 * TaeWoong Yun (윤태웅, 2008)
-* Vishnu (비슈누, 2011)
+* Vishnu (비슈누, 2011)(./VishnuKumar)
 * DuckWon Chung (정덕원, 2013)
 * Sasi Don (사시돈, 2013)
 * YunJung Park (박윤정, 2014)
@@ -60,11 +60,11 @@ title: Alumni
 * SeungJin Yu (유승진, 2021)
 * Nang Lung Aung (낭룽아웅, 2022)
 * Ikjin Kwon (권익진, 2022)
-* Lina Zhang (장이나, 2022)
+* Lina Zhang (장이나, 2022) (./LinaZhang)
 * QiuHong Jin (김추홍, 2022)
 * Fengyi Chen (진풍이, 2022)
-* Lu Kai (루카이, 2022)
-* Sangwoo Jeon (전상우, 2023)
+* Lu Kai (루카이, 2022)(./Lukai)
+* Sangwoo Jeon(전상우, 2023)(./SangwooJeon)
 
 
 ### Undergraduate Researcher 
@@ -81,3 +81,6 @@ title: Alumni
 * 이현준
 * 김형규
 * 김민환
+* 이예빈
+* 우창석
+* 강신규
