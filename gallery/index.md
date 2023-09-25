@@ -7,9 +7,23 @@ title: Gallery
 
 
 # 2023
-### 2023년 2학기 개강 Dinner Party
+
+### 2023년 2학기 8월31일 개강 Dinner Party
 ![alt_text](../assets/img/gallery/230831_DMS_Dinner_Party/1.jpg)
 ![alt_text](../assets/img/gallery/230831_DMS_Dinner_Party/2.jpg)
+
+### 2023년 7월 7일 Lab-1st workshop
+![alt_text](../assets/img/gallery/20230707-Lab-1st workshop/1.jpg)
+![alt_text](../assets/img/gallery/20230707-Lab-1st workshop/2.jpg)
+
+### 2023년 7월 5일 인도 VIT 대학과 MOU
+![alt_text](../assets/img/gallery/20230705-인도 VIT 대학과 MOU/1.jpg)
+![alt_text](../assets/img/gallery/20230705-인도 VIT 대학과 MOU/3.jpg)
+![alt_text](../assets/img/gallery/20230705-인도 VIT 대학과 MOU/5.jpg)
+
+
+### 2023년 졸업생 모임 - 4월 19일
+![alt_text](../assets/img/gallery/졸업생 모임/20230419/구민오박사, 조나연박사와 식사.jpg)
 
 # 2022
 ### 2022년 Dr. Vishinu Kumar Good-Bye Dinner Party
