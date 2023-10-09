@@ -9,6 +9,10 @@ title: Gallery
 # 2023
 
 ### 2023년 2학기 8월31일 개강 Dinner Party
+![alt_text](../assets/img/gallery/20231006-DRL모임/1.jpg)
+![alt_text](../assets/img/gallery/20231006-DRL모임/2.jpg)
+
+### 2023년 2학기 8월31일 개강 Dinner Party
 ![alt_text](../assets/img/gallery/230831_DMS_Dinner_Party/1.jpg)
 ![alt_text](../assets/img/gallery/230831_DMS_Dinner_Party/2.jpg)
 
