@@ -41,6 +41,7 @@ title: Research
 	- Activity Recognition(SOTA)
 		- Multi-Label Activity Recognition using Activity-speciﬁc Features and Activity Correlations
 		- Masked Autoencoders Are Scalable Vision Learners
+		- Activity recognition in video or picture files uses the attention mechanism to recognize more efficiently and quickly. At the same time, multiple activity recognition in a single video file, and related papers such as multi-modal recognition methods are also under investigation.
 	- Vision Transformer
 
 <br/>
