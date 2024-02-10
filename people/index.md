@@ -27,7 +27,7 @@ title: People
 * [Uiseok Lee](./LeeUiseok)
 * [Yuweng Chen](./ChenYuweng)
 * [JinHang Yu](./JinHangYu)
-* [Jeonghyeon Park](./ParkJeonghyeon)
+* [JungHyun Park](./ParkJungHyun)
 * [Ojae Won](./WonOjae)
 * [Qihua Wei](./WeiQihua)
 * [SeongMin Park](./SeongMinPark)
