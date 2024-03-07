@@ -2,7 +2,7 @@
 ![ParkJungHyun_Profile](https://github.com/dmslab-konkuk/dmslab-konkuk.github.io/assets/37548919/687990d3-aa17-4247-bd68-442a4345293d)
 
 ### Research Interests
-- Artificial Intelligence / Deep Learning / Computer Vision / Vision Language / Multi-modal
+- Artificial Intelligence / Deep Learning / Computer Vision / 3D Vision / Semantic Map / Vision Language / Multi-modal 
 - Model Lightweight
  
 ### Contact Info
