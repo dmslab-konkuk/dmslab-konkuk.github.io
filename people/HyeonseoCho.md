@@ -8,7 +8,7 @@ title: Hyeonseo Cho
 
 ### Research Interests 
 * Reinforcement Learning
-* Deep Learning
+* Plasticity
 
 ### Contact Info
 * Lab: 1207, New Engineering Building
