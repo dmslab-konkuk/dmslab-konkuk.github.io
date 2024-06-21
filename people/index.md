@@ -19,9 +19,7 @@ title: People
 
 ### M.S Course
 * [Minhwan Kim](./MinhwanKim)
-* [Wenchong Zhao](./WenchongZhao)
 * [Qiuhong Jin](./QiuhongJin)
-* [Geunyeong Go](./GeunyeongGo)
 * [Tae-min Jung](./TaeminJung)
 * [Hayeong Park](./ParkHayeong)
 * [Uiseok Lee](./LeeUiseok)
@@ -34,9 +32,7 @@ title: People
 
 ### B.S Course
 * [SeungHyeop Nam](./SeungHyeopNam)
-* [Hyeonseo Cho](./HyeonseoCho)
 * [Hoeun Lee](./HoEunLee)
-* [SangYoon Park](./SangYoonPark)
 * [Soyeong Sohn](./SoyeongSohn)
 * [MinJi Jeong](./MinjiJeong)
 * [Sunjae Kwon](./SunjaeKwon)
