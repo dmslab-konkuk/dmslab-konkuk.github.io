@@ -44,5 +44,6 @@ title: People
 ### M.S Intern
 * 헨니
 * Qin Ziwei
+* [Jung-geun Bong](./Jung-geunBong)
 
 ### [Alumni](./Alumni)
