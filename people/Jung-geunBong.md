@@ -4,7 +4,7 @@ title: Jung-geun Bong
 ---
 
 ## Jung-geun Bong (봉정근)
-![alt_text](./profile_bong_small.jpg)
+![alt_text](../assets/img/profile/profile_bong_small.jpg)
 
 ### Research Interests
 ```markdown
@@ -18,7 +18,7 @@ title: Jung-geun Bong
 ### Contact Info
 ```markdown
 * Lab : Room 1207, New Engineering Building
-* email: pieroot.02@gmail.com
+* email: pieroot.02 at gmail.com
 ```
 
 ### Stack
@@ -39,5 +39,5 @@ title: Jung-geun Bong
 
 
 ### Related Links
-[![alt_text](https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/jung-geun)
-[![alt_text](https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white)](https://pieroot.notion.site)
+[![github](https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/jung-geun)
+[![notion](https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white)](https://pieroot.notion.site)
