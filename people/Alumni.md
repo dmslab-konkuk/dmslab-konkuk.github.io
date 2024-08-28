@@ -65,6 +65,8 @@ title: Alumni
 * Fengyi Chen (진풍이, 2022)
 * Lu Kai (루카이, 2022)(./Lukai)
 * Sangwoo Jeon(전상우, 2023)(./SangwooJeon)
+* Geunyeong Go(고근영, 2024)
+* Minhwan Kim(김민환, 2024)(./MinwhoanKim)
 
 
 ### Undergraduate Researcher 
@@ -84,3 +86,6 @@ title: Alumni
 * 이예빈
 * 우창석
 * 강신규
+* 박상윤
+* 김지원
+* 조현서

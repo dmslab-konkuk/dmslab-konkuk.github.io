@@ -1,9 +1,9 @@
 ---
 layout: default
-title: MinJi Jeong
+title: MinJi Joung
 ---
 
-## MinJi Jeonge (정민지)
+## MinJi Joung (정민지)
 ![profile](../assets/img/profile_minjijeong.jpeg)
 
 ### Research Interests
