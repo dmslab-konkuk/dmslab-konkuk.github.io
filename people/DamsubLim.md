@@ -14,6 +14,8 @@ title: Damsub Lim
 ```
 
 ### Experience and specification
+- Master's degree
+- Ph.D candidate
 
 ### Contact
 ```markdown
