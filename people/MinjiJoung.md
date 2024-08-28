@@ -4,7 +4,7 @@ title: MinJi Joung
 ---
 
 ## MinJi Joung (정민지)
-![profile](../assets/img/profile_minjijeong.jpeg)
+![profile](../assets/img/profile/profile_minjijeong.jpeg)
 
 ### Research Interests
 * Deep Reinforcement Learning

@@ -4,7 +4,7 @@ title: Sunjae Kwon
 ---
 
 ## Sunjae Kwon ( 권 순재 )
-<img src="/assets/img/profile_SunajeKwon.png" alt="Sunjae" width="200"/>
+<img src="/assets/img/profile/profile_SunajeKwon.png" alt="Sunjae" width="200"/>
 
 
 ### Research Interests

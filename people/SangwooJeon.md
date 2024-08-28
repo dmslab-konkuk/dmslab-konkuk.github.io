@@ -4,7 +4,7 @@ title: Sangwoo Jeon
 ---
 
 ## Sangwoo Jeon (전상우)
-![alt_text](./profile_swjeon_21_small.jpg)
+![alt_text](../assets/img/profile/profile_swjeon_21_small.jpg)
 
 ### Research Interests
 * Deep Learning

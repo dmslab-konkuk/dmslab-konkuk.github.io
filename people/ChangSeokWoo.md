@@ -4,7 +4,7 @@ title: ChangSeok Woo
 ---
 
 ## ChangSeok Woo (우창석)
-![ChangSeokWoo](../assets/img/profile_changseokwoo.png)
+![ChangSeokWoo](../assets/img/profile/profile_changseokwoo.png)
 
 ### Research Interests 
 * Deep Reinforcement Learning
