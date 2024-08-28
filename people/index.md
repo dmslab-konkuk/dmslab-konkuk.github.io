@@ -8,41 +8,48 @@ title: People
 * [Prof. Dugki Min, Ph.D](./DugkiMin)
 
 ### Research Professor
-* [Prof. Sakthivel Velusamy, Ph.D](./Sakthivel)
 * [Prof. Tuan Anh Nguyen, Ph.D](./AnhNT)
 
 ### Ph.D Course
-* [Jueying Li](./JueyingLi)
 * [DamSub Lim](./DamsubLim)
-* [WonJune Seo](./SeoWonJune)
+* [Woojun Yoo](./YooWoojun)
+* [Jueying Li](./JueyingLi)
 * [Honggyu Kim](./KimHonggyu)
+* [WonJune Seo](./SeoWonJune)
 
 ### M.S Course
-* [Minhwan Kim](./MinhwanKim)
 * [Qiuhong Jin](./QiuhongJin)
 * [Tae-min Jung](./TaeminJung)
 * [Hayeong Park](./ParkHayeong)
 * [Uiseok Lee](./LeeUiseok)
-* [Yuweng Chen](./ChenYuweng)
-* [JinHang Yu](./JinHangYu)
+* [Hangyu Jin](./JinHangYu)
 * [JungHyun Park](./ParkJungHyun)
 * [Ojae Won](./WonOjae)
 * [Qihua Wei](./WeiQihua)
 * [SeongMin Park](./SeongMinPark)
+* [Jeongwoo Lee](./LeeJeongwoo)
+* [MinJi Joung](./MinjiJoung)
+* [Jisu Lee](./LeeJisu)
+* [Folaasen Henriette](./FolaasenHenriette)
 
 ### B.S Course
 * [SeungHyeop Nam](./SeungHyeopNam)
 * [Hoeun Lee](./HoEunLee)
 * [Soyeong Sohn](./SoyeongSohn)
-* [MinJi Jeong](./MinjiJeong)
 * [Sunjae Kwon](./SunjaeKwon)
 * [Minhui Kang](./KangMinhui)
 * [Jiwon Kim](./KimJiwon)
-* [Daeun Lee](./LeeDaeun)
-<br/>
+* [Dageun Shin](./ShinDageun)
+* [MinGyu Kim](./KimMingyu)
+* [Seunghyun Kang](./KangSeunghyun)
+* [Yoonhwan Shon](./ShonYoonhwan)
+* [Uhyeok Bang](./BangUhyeok)
+* [Siyoung Kim](./KimSiyoung)
+* [Hyunseok Kang](./KangHyunseok)
+* [Kwangil Kim](./KimKwangil)
 
 ### M.S Intern
-* 헨니
-* Qin Ziwei
+* [Sangwoo Park](./SangwooPark)
+* [Jung-geun Bong](./Jung-geunBong)
 
 ### [Alumni](./Alumni)
