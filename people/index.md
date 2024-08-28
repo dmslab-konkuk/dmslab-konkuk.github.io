@@ -40,7 +40,6 @@ title: People
 * [Jiwon Kim](./KimJiwon)
 * [Dageun Shin](./ShinDageun)
 * [Seokjin Lee ](./LeeSeokjin)
-* [MinGyu Kim](./KimMingyu)
 * [Seunghyun Kang](./KangSeunghyun)
 * [Yoonhwan Shon](./ShonYoonhwan)
 * [Uhyeok Bang](./BangUhyeok)
@@ -49,7 +48,8 @@ title: People
 * [Kwangil Kim](./KimKwangil)
 
 ### M.S Intern
-* [Sangwoo Park](./SangwooPark)
 * [Jung-geun Bong](./Jung-geunBong)
+* [Sangwoo Park](./SangwooPark)
+* [MinGyu Kim](./KimMingyu)
 
 ### [Alumni](./Alumni)
