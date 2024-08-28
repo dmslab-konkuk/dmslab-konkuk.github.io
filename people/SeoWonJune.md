@@ -11,8 +11,12 @@ title: WonJune Seo
 * Smart assistant for Active Silver
 
 ### Contact Info
+```markdown
 * Lab: 1207, New Engineering Building
-* email: suwunjun@naver.com
+* Email: suwunjun@naver.com
+* Phone: 82+10-4946-0295
+```
 
-### Related Links
-* 
+### Publication
+- **Seo, W**., Sakthivel, V., Min, D., Lee, J. W., & Choi, E. (2023, May). Performance Comparison of Passage Retrieval Models according to Korean Language Tokenization Methods. In 2023 15th International Conference on Advanced Computational Intelligence (ICACI) (pp. 1-5). IEEE.
+  
