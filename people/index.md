@@ -35,11 +35,11 @@ title: People
 ### B.S Course
 * [SeungHyeop Nam](./SeungHyeopNam)
 * [Hoeun Lee](./HoEunLee)
-* [Soyeong Sohn](./SoyeongSohn)
 * [Sunjae Kwon](./SunjaeKwon)
 * [Minhui Kang](./KangMinhui)
 * [Jiwon Kim](./KimJiwon)
 * [Dageun Shin](./ShinDageun)
+* [Seokjin Lee ](./LeeSeokjin)
 * [MinGyu Kim](./KimMingyu)
 * [Seunghyun Kang](./KangSeunghyun)
 * [Yoonhwan Shon](./ShonYoonhwan)
