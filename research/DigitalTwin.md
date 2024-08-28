@@ -5,6 +5,7 @@ permalink: /research/DigitalTwin
 author_profile: true
 ---
 
+-------------------------------
 
 # Digital Twin Requirements
 
@@ -13,6 +14,122 @@ It is required to develop a vehicle digital twin (DT) for urban air mobility (UA
 # Introduction
 
 Innovative DT technology has the potential to transform a number of expanding industries. In DT, the idea of incorporating physical-twin-specific calculations into a feedback loop of data-driven analysis and dynamically updated decision-making is introduced. DTs are collections of connected computational models that progressively change state-spaces over time to mimic the underlying structure, behaviours, and environment of their physical counterparts [1,2]. This research presents a study on how the UAM vehicle DT can be developed by proposing fundamental engines for the transformation of dynamics and control of a UAM vehicle from real to digital spaces.
+
+
+--------------------------------------
+
+# <span style="font-family: times, serif; font-size:18pt; font-style:bold; color:blue"> Advanced Air Mobility-Vehicle Digital Twin (AAM-VDT) </span>
+
+The Advanced Air Mobility-Vehicle Digital Twin (AAM-VDT) project integrates cloud computing, artificial intelligence, and simulation to manage heterogeneous vehicles in real-time. Our collaboration within the KADA Research Groups - Design and Analysis, Simulation and Control, and AI Applications - has been instrumental in achieving our goals.
+
+Our key features include cloud server integration, AI-driven operations, digital twin technology, and a strong emphasis on operational safety and management. By utilizing digital twin dynamics, ensuring safety and reliability, and implementing multi-vehicle coordination, we are shaping the future of AAM operations.
+
+## Medias
+
+- [VDT Simulation System](https://youtu.be/ePH-f1H2PH8)
+- [VDT Concept Illustration](https://youtu.be/9effNK__aOU)
+- [VDT Simulation in KU Map (01)](https://youtu.be/X20FuC0C7pM)
+- [VDT Simulation in KU Map (02)](https://youtu.be/huKKna1OFjA)
+- [VDT Simulation in Seoul Map (Fixed Wing)](https://youtu.be/luD0U2uVrgg)
+- [VDT Simulation Scenarios](https://youtu.be/QfZZfo9YNls)
+- [KP2C Real Flight Test](https://youtu.be/qfMXk1IYKFA)
+- [KP2C es-DNLC Flight Test](https://youtu.be/u0xFRdc-97Q)
+- [KP2C LQR Flight Test](https://youtu.be/FqyS67FReXo)
+
+Special thanks to our diligent KADA engineers and researchers! Jeongseok Hyun, Minseok Jang, Taeho Kwag, Nghia Nguyen, Vinh Pham, AYE AYE MAW
+
+Excited about the possibilities that lie ahead as we continue to innovate and drive advancements in the realm of Advanced Air Mobility. #AAM #UAM #DigitalTwin #AI #CloudComputing
+
+<html lang="en">
+<body>
+
+<figure>
+    <img src="../assets/img/AAM-VDT/VDT Techs..jpg" alt="VDT Techs">
+    <figcaption>VDT Technologies of KADA</figcaption>
+</figure>
+<figure>
+    <img src="../assets/img/AAM-VDT/VDT Simulation System.jpg" alt="VDT Simulation System">
+    <figcaption>VDT Simulation System for Demonstration</figcaption>
+</figure>
+<figure>
+    <img src="../assets/img/AAM-VDT/VDT-CILS.jpg" alt="VDT-CILS">
+    <figcaption> VDT Cloud in the loop simulation (CILS) </figcaption>
+</figure>
+<figure>
+    <img src="../assets/img/AAM-VDT/VDT-Single-ODT.jpg" alt="VDT Single ODT">
+    <figcaption>VDT Single Vehicle integrated with operational digital twin (ODT)</figcaption>
+</figure>
+<figure>
+    <img src="../assets/img/AAM-VDT/VDT-SITL.jpg" alt="VDT SITL">
+    <figcaption>VDT software in the loop simulation (SITL)</figcaption>
+</figure>
+<figure>
+    <img src="../assets/img/AAM-VDT/VDT-SITL-Simplified.jpg" alt="VDT SITL Simplified">
+    <figcaption>VDT PX4-KFDS SITL with Bridge</figcaption>
+</figure>
+
+-------------------------
+
+<iframe src="https://www.youtube.com/embed/ePH-f1H2PH8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/9effNK__aOU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/X20FuC0C7pM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/huKKna1OFjA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/luD0U2uVrgg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/QfZZfo9YNls" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/qfMXk1IYKFA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/u0xFRdc-97Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/FqyS67FReXo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</body>
+</html>
+
+<html lang="en">
+<body> <div class="separator"></div> </body>
+</html>
+
+
+---------------------------------------
+
+# Pilot-in-the-loop simulation with virtual reality (PILS-VR) running on top of cloud-in-the-loop simulation (CILS)
+
+## PILS-VR System Overview
+
+[Watch our video on the latest in aviation simulation technology: the Pilot-in-the-Loop Simulation with Virtual Reality (PILS-VR)](https://youtu.be/_kyAtntDHmc)
+
+In this video, we showcase our innovative system developed at the Konkuk Aerospace Design Airworthiness Institute (KADA). We've successfully integrated PILS with our Cloud-in-the-Loop Simulation (CILS) system, built on the KP-2 platform for Future Advanced Air Mobility (AAM).
+
+**Highlights of PILS-VR:**
+
+- **Realistic VR Training:** Experience a highly immersive training environment that simulates real-world flight conditions and emergency scenarios.
+- **Cloud-Based Flexibility:** Seamless integration with CILS enables remote access, real-time data analysis, and collaborative training, enhancing flexibility and efficiency.
+- **Cost-Effective Solutions:** Reduce traditional training costs and increase accessibility with our advanced VR and cloud technologies.
+- **Personalized Feedback:** Benefit from detailed performance tracking and tailored feedback to accelerate learning and improve skills.
+
+Join us to see how PILS-VR is revolutionizing pilot training and setting new standards in aviation safety.
+
+### Data Exchange Method Development
+
+[Watch our video on the method to extract data exchanged between KFDS and PX4 during simulation run-time](https://www.youtube.com/watch?v=1BYQKzVgXeQ)
+
+Using this method, we can input control signal data from pre-existing files into KFDS, which then loads these control data according to the predetermined times specified in the files. Subsequently, the flight state data generated by KFDS are recorded for validation or virtual certification purposes.
+
+### (p/d) Twin Data Center
+
+[Watch our video on Twin Data Center](https://youtu.be/byyYU9jCaTk)
+
+All data from KFDS and PX4 are collected in run-time simulation for further analysis and prediction for future updates of digital twin models in the virtual world.
+
+<!-- <html lang="en">
+<body>
+
+<iframe src="https://www.youtube.com/embed/ePH-f1H2PH8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/watch?v=1BYQKzVgXeQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/watch?v=byyYU9jCaTk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</body>
+</html> -->
+
+-------------------------
 
 # UAM Vehicle Digital Twinization Engines
 
@@ -83,6 +200,11 @@ The above modules are for the DT development of a single UAM vehicle. To develop
 # Remarks
 
 This research proposes and discusses an overall engineering direction for the development of UAM vehicle digital twin system. Preliminary results prove that the approaches can clone the dynamics and control of UAM vehicles for the development of UAM-ODT.
+
+
+-----
+
+
 
 # References
 

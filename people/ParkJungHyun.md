@@ -1,4 +1,9 @@
-## Computer Vision Team / 석사 과정
+---
+layout: default
+title: JungHyun Park
+---
+
+## JungHyun Park (박정현, Team CV / MS)
 ![ParkJungHyun_Profile](https://github.com/dmslab-konkuk/dmslab-konkuk.github.io/assets/37548919/687990d3-aa17-4247-bd68-442a4345293d)
 
 ### Research Interests
