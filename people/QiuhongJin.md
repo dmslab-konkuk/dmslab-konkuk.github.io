@@ -4,7 +4,7 @@ title: Qiuhong Jin
 ---
 
 ## Qiuhong Jin (김추홍)
-![alt_text](../assets/img/QiuhongJin.JPG)
+![alt_text](../assets/img/profile/QiuhongJin.JPG)
 
 
 ### Research Interests

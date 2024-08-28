@@ -4,7 +4,7 @@ title: Tae-min Jung
 ---
 
 ## Tae-min Jung (정태민)
-![alt_text](../assets/img/profile_TaeminJung.png)
+![alt_text](../assets/img/profile/profile_TaeminJung.png)
 
 
 ### Research Interests

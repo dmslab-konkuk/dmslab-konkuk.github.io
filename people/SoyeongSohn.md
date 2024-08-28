@@ -4,7 +4,7 @@ title: Soyeong Sohn
 ---
 
 ## Soyeong Sohn (손소영)
-![profile](../assets/img/profile_soyeongsohn.png)
+![profile](../assets/img/profile/profile_soyeongsohn.png)
 
 ### Research Interests
 * Natural Language Processing

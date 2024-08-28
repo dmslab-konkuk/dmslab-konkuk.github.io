@@ -4,7 +4,7 @@ title: JinHang Yu
 ---
 
 ## JinHang Yu (진항우)
-![alt_text](../assets/img/profile_JinHangYu.jpeg)
+![alt_text](../assets/img/profile/profile_JinHangYu.jpeg)
 
 ### Research Interests
 * Cloud/Fog/Edge Computing

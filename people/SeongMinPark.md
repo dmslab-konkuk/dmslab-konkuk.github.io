@@ -4,10 +4,9 @@ title: SeongMin Park
 ---
 
 # SeongMin Park (박성민, 聖民)
-<img src="/assets/img/SeongMinPark.jpeg" width="110px" height="130px" title="profile">
+<img src="/assets/img/profile/SeongMinPark.jpeg" width="110px" height="130px" title="profile">
 
-* Striving to be helpful to other
-* "WHY_NOT_CHANGE_THE_WORLD"
+<span style="color:red"> "*WHY NOT CHANGE THE WORLD!*"</span>.
 
 ## Research Interests
 * Natural Language Processing

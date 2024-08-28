@@ -4,7 +4,7 @@ title: Damsub Lim
 ---
 
 ## Damsub Lim (임담섭)
-![alt_text](../assets/img/profile_dslim.png)
+![alt_text](../assets/img/profile/profile_dslim.png)
 
 ### Research Interests
 * Fog Computing 

@@ -4,7 +4,7 @@ title: SangYoon Park
 ---
 
 ## SangYoon Park (박상윤)
-![profile](../assets/img/profile_sangyoonpark.png)
+![profile](../assets/img/profile/profile_sangyoonpark.png)
 
 ### Research Interests
 * Deep Learning

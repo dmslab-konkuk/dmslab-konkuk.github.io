@@ -4,7 +4,7 @@ title: WonJune Seo
 ---
 
 ## WonJune Seo (서원준)
-![profile](../assets/img/profile_wonjuneseo.png)
+![profile](../assets/img/profile/profile_wonjuneseo.jpeg)
 
 ### Research Interests
 * Natural Language Processing
