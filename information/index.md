@@ -4,7 +4,7 @@ title: Information
 ---
 # 오시는 길
 
-![캠퍼스 지도](/asset/image/naver_map.png)
+![캠퍼스 지도](/asset/img/naver_map.png)
 
 ## 주소
 
