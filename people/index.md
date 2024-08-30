@@ -34,10 +34,7 @@ title: People
 
 ### B.S Course
 * [SeungHyeop Nam](./SeungHyeopNam)
-* [Hoeun Lee](./HoEunLee)
 * [Sunjae Kwon](./SunjaeKwon)
-* [Minhui Kang](./KangMinhui)
-* [Jiwon Kim](./KimJiwon)
 * [Dageun Shin](./ShinDageun)
 * [Seokjin Lee ](./LeeSeokjin)
 * [Seunghyun Kang](./KangSeunghyun)
@@ -46,10 +43,10 @@ title: People
 * [Siyoung Kim](./KimSiyoung)
 * [Hyunseok Kang](./KangHyunseok)
 * [Kwangil Kim](./KimKwangil)
-
+* [MinGyu Kim](./KimMingyu)
+  
 ### M.S Intern
 * [Jung-geun Bong](./Jung-geunBong)
 * [Sangwoo Park](./SangwooPark)
-* [MinGyu Kim](./KimMingyu)
 
 ### [Alumni](./Alumni)
