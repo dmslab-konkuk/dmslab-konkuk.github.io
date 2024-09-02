@@ -86,8 +86,8 @@ title: Alumni
 * 이예빈
 * 우창석
 * 강신규
-* [박상윤](./SangwooPark.md)
-* [김지원](./KimJiwon.md)
-* [조현서](./HyeonseoCho.md)
-* [손소영](./SoyeongSohn.md)
-* [이호은](./HoEunLee.md)
+* [박상윤](./SangYoonPark)
+* [김지원](./KimJiwon)
+* [조현서](./HyeonseoCho)
+* [손소영](./SoyeongSohn)
+* [이호은](./HoEunLee)
