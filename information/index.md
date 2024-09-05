@@ -2,24 +2,22 @@
 layout: page
 title: Information
 ---
-<div align="center">
 
-# 오시는 길
-
+# Address
 <img src="../assets/img/naver_map.png" alt="캠퍼스 지도" style="width: 600px; border: 1px solid #ddd; border-radius: 8px; height: auto;">
 
-##  주소 
+Konkuk University New Engineering Building 1207
 
-서울시 광진구 능동로 120 신공학관 1207
+## Office
 
-##  연락처 
+```
+DMS Lab: New Engineering Building 1207 (신공학관 1207호)
+Professor's Office: Engineering Building C 385 (공학관 C동 385호)
+```
 
- **교수님 이메일:** <a href="mailto:dkmin@konkuk.ac.kr">dkmin@konkuk.ac.kr</a>
 
-
----
-
-저희 연구실을 방문하실 때 궁금한 점이 있으시면 언제든 연락 주시기 바랍니다.
-
-</div>
-
+## Contact
+```
+Email: dkmin at konkuk.ac.kr
+Phone: 02-450-3490
+```
