@@ -10,7 +10,7 @@ title: Alumni
 * YongWhan Lee (이용환, 2005)
 * GwyDuk Yeom (염귀덕, 2006)
 * TaeWoong Yun (윤태웅, 2008)
-* [Vishnu (비슈누, 2011)](./VishnuKumar)
+* [Vishnu (비슈누, 2011)](/people/VishnuKumar)
 * DuckWon Chung (정덕원, 2013)
 * Sasi Don (사시돈, 2013)
 * YunJung Park (박윤정, 2014)
@@ -60,13 +60,13 @@ title: Alumni
 * SeungJin Yu (유승진, 2021)
 * Nang Lung Aung (낭룽아웅, 2022)
 * Ikjin Kwon (권익진, 2022)
-* [Lina Zhang (장이나, 2022)](./LinaZhang)
+* [Lina Zhang (장이나, 2022)](/people/LinaZhang)
 * QiuHong Jin (김추홍, 2022)
 * Fengyi Chen (진풍이, 2022)
-* [Lu Kai (루카이, 2022)](./Lukai)
-* [Sangwoo Jeon(전상우, 2023)](./SangwooJeon)
+* [Lu Kai (루카이, 2022)](/people/Lukai)
+* [Sangwoo Jeon(전상우, 2023)](/people/SangwooJeon)
 * Geunyeong Go(고근영, 2024)
-* [Minhwan Kim(김민환, 2024)](./MinwhoanKim)
+* [Minhwan Kim(김민환, 2024)](/people/MinwhoanKim)
 
 
 ### Undergraduate Researcher 
@@ -86,8 +86,8 @@ title: Alumni
 * 이예빈
 * 우창석
 * 강신규
-* [박상윤](./SangwooPark.md)
-* [김지원](./KimJiwon.md)
-* [조현서](./HyeonseoCho.md)
-* [손소영](./SoyeongSohn.md)
-* [이호은](./HoEunLee.md)
+* [박상윤](/people/SangYoonPark)
+* [김지원](/people/KimJiwon)
+* [조현서](/people/HyeonseoCho)
+* [손소영](/people/SoyeongSohn)
+* [이호은](/people/HoEunLee)
