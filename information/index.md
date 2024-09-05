@@ -6,7 +6,7 @@ title: Information
 # Address
 <img src="../assets/img/naver_map.png" alt="캠퍼스 지도" style="width: 600px; border: 1px solid #ddd; border-radius: 8px; height: auto;">
 
-Konkuk University New Engineering Building 1207
+Konkuk University New Engineering Building 1207(건국대학교 신공학관 1207호)
 
 ## Office
 
