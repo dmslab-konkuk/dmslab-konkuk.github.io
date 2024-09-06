@@ -5,6 +5,39 @@ title: Publication
 
 
 # Journal/Conference Papers
+- Francisco Airton Silva, Iure Fe, Carlos Brito, Gabriel Araujo, Leonel Feitosa, Tuan Anh Nguyen, Kwonsu Jeon, Jae-Woo Lee, Dugki Min, Eunmi Choi (2024). Aerial computing: Enhancing mobile cloud computing with unmanned aerial vehicles as data bridges―A Markov chain based dependability quantification. ICT Express, https://doi.org/10.1016/j.icte.2023.10.002
+
+- Gabriel Araújo, Vandirleya Barbosa, Luiz Nelson Lima, Arthur Sabino, Carlos Brito, Iure Fé, Paulo Rego, Eunmi Choi, Dugki Min, Tuan Anh Nguyen, Francisco Airton Silva (2024). Energy Consumption in Microservices Architectures: A Systematic Literature Review. IEEE Access, 1-1. 10.1109/ACCESS.2024.3389064
+
+- Lucas Santos, Carlos Brito, Iure Fé, Juliana Carvalho, Matheus Torquato, Eunmi Choi, Dugki Min, Jae-Woo Lee, Tuan Anh Nguyen, Francisco Airton Silva (2024). Event-Based Moving Target Defense in Cloud Computing with VM Migration: A Performance Modeling Approach. IEEE Access, 1-1. 10.1109/ACCESS.2024.3393998
+
+- Kai Lu, Dugki Min (2024). AiPE: A Novel Transformer-Based Pose Estimation Method. Electronics, 13(5), 967. https://doi.org/10.3390/electronics13050967
+
+- Luis Guilherme Silva, Israel Cardoso, Carlos Brito, Vandirleya Barbosa, Bruno Nogueira, Eunmi Choi, Tuan Anh Nguyen, Dugki Min, Jae Woo Lee, Francisco Airton Silva (2023). Urban Advanced Mobility Dependability: A Model-Based Quantification on Vehicular Ad Hoc Networks with Virtual Machine Migration. SENSORS, 23(23), 9485. https://doi.org/10.3390/s23239485
+
+- WonJune Seo, Sakthivel V, Dugki Min, Jae-Woo Lee, Enum Choi (2023). Performance Comparison of Passage Retrieval Models. IEEE, 10.1109/ICACI58115.2023.10146145
+
+- Min-Hwan Kim, Tuan Anh Nguyen, Dugki Min (2023). An Efficient Personal Key Recovery in Self-Sovereign Identity Environments. IEEE, 10.1109/ICACI58115.2023.10146166
+
+- Seunghyeop Nam, Changseok Woo, Sinkyu Kang, Tuan Anh Nguyen, Dugki Min (2023). iNAV-drlSLAM: An Improved Indoor Self-Driving Framework for Mobile Robots using Deep Reinforcement Learning integrated with SLAM. IEEE, 10.1109/ICACI58115.2023.10146173
+
+- Jueying Li, Sakthivel V, Dugki Min, Jae-Woo Lee, Enum Choi (2023). Auto-Provisioning of UAV Industry Cloud Platform for Intelligent Multi UAVs Simulation. IEEE, 10.1109/ICACI58115.2023.10146139
+
+- Sunyeop Lee, Tuan Anh Nguyen, Dugki Min (2023). QR-GAN: Generative Adversarial Networks meet Quantile Regression. IEEE, 10.1109/ICACI58115.2023.10146143
+
+- Sangwoo Jeon, Myat Toe, Sakthivel V, Hyeonseo Cho, Sunjae Kwon, Jae-Woo Lee, Dugki Min (2023). Safe and  Efficient Landing at Vertical Takeoff and Landing Sites Using Image-based AI  Inspection Techniques. KSAS 2023 Spring Conference, 564-565. 
+
+- Vishnu Kumar Kaliappan, Rajasekaran Thangaraj, P. Pandiyan, K. Mohanasundaram, S. Anandamurugan, Dugki Min (2023). Real-time face mask position recognition system using YOLO models for preventing COVID-19 disease spread in public places. INTERNATIONAL JOURNAL OF AD HOC AND UBIQUITOUS COMPUTING, pp 73-82. https://doi.org/10.1504/IJAHUC.2023.128499
+
+- Iure Fé, Tuan Anh Nguyen, Andréc. B. Soares, Seokho Son, Eunmi Choi, Dugki Min, Jae-Woo Lee, Francisco Airton Silva (2023). Model-Driven Dependability and Power Consumption Quantification of Kubernetes-Based Cloud-Fog Continuum. IEEE ACCESS, 10.1109/ACCESS.2023.3340195
+
+- Rubenilson de Sousa, Leonardo Cristian, Leonel Feitosa, Eunmi Choi, Tuan Anh Nguyen, Dugki Min, Francisco Airton Silva (2023). Performability Evaluation and Sensitivity Analysis of a Video Streaming on Demand Architecture. APPLIED SCIENCES-BASEL, 13(2), 998. https://doi.org/10.3390/app13020998
+
+- Jackson Costa, Rubens Matos, Jean Araujo, Jueying Li, Eunmi Choi, Tuan Anh Nguyen, Jae-Woo Lee, Dugki Min (2023). Software Aging Effects on Kubernetes in Container Orchestration Systems for Digital Twin Cloud Infrastructures of Urban Air Mobility. DRONES, 7(1), 35. https://doi.org/10.3390/drones7010035
+
+- Vishnu Kumar Kaliappan, Aravind Babu Lalpet Ranganathan, Selvaraju Periasamy, Padmapriya Thirumalai, Tuan Anh Nguyen, Sangwoo Jeon, Dugki Min, Enumi Choi (2022). Energy-Efficient Offloading Based on Efficient Cognitive Energy Management Scheme in Edge Computing Device with Energy Optimization. ENERGIES, 15(21), 8273. https://doi.org/10.3390/en15218273
+
+- Sangwoo Jeon, Hoeun Lee, Vishnu Kumar Kaliappan, Tuan Anh Nguyen, Hyungeun Jo, Hyeonseo Cho, Dugki Min (2022). Multiagent Reinforcement Learning Based on Fusion-Multiactor-Attention-Critic for Multiple-Unmanned-Aerial-Vehicle Navigation Control. ENERGIES, 15(19), 7426. https://doi.org/10.3390/en15197426
 
 - Kaliappan, V. K., Yu, S., Soundararajan, R., Jeon, S., Min, D., & Choi, E. (2022). High-Secured Data Communication for Cloud Enabled Secure Docker Image Sharing Technique Using Blockchain-Based Homomorphic Encryption. Energies, 15(15), 5544. https://doi.org/10.3390/en15155544
 
