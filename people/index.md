@@ -31,6 +31,7 @@ title: People
 * [Minji Joung(정민지)](./MinjiJoung)
 * [Jisu Lee(이지수)](./LeeJisu)
 * [Folaasen Henriette(핸니)](./FolaasenHenriette)
+* [Shengxin Huang(황성흠)](./ShengxinHuang)
 
 ### B.S Course
 * [SeungHyeop Nam(남승협)](./SeungHyeopNam)
