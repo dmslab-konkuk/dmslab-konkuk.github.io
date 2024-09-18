@@ -38,7 +38,18 @@ title: Research
 	- Pose Estimation to perform the user's exercise assistance role
 <br/>
 
-## Natural Language Processsing AI Area
+## [Natural Language Processing AI Area](./NaturalLanguageProcessingAI.md)
+- Natural Language Processing (NLP) is a field of AI that focuses on the interaction between computers and humans using natural language.
+- The NLP AI team is currently researching about:
+    - LLM Agent prompt optimization techniques
+    - Parameter-Efficient Fine-Tuning (PEFT) methods for large language models
+    - Development of LLM Agent for Silvercare Assistant
+- Our team focuses on:
+    - Developing prompt optimization techniques using Small LMs as prompt generators
+    - Exploring Direct Preference Optimization (DPO) for efficient fine-tuning
+    - Implementing Low-Rank Adaptation (LoRA) for efficient model adaptation
+    - Designing multi-agent systems for complex NLP tasks
+    - Enhancing memory capabilities of LLM Agents for improved performance
 <br/>
 
 ## [Digital Twin Area](./DigitalTwin.md)
