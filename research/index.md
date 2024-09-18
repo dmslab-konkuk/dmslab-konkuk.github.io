@@ -11,7 +11,6 @@ title: Research
 	- Smart Gateway for onboarding IoT devices to Edge Cluster
 <br/>
 
-
 ## [Cloud Computing System Area](./CloudComputingSystemArea.md)
 - Cloud computing is the delivery of computing resources as a service.
 - Cloud computing can be rapidly provisioned and released with minimal management effort or service provider interaction.
@@ -27,7 +26,6 @@ title: Research
 	- Developing an efficient Multi-Agent Deep Reinforcement Learning model for operating multiple UAVs and robots
 	- Distributed Deep Reinforcement Learning
 	- SILS(Software-In-the-Loop Simulation) and HILS(Hardware-In-the-Loop Simulation)of Deep Reinforcement Learning algorithms
-
 <br/>
 
 ## [Computer Vision AI Area](./ComputerVisionAI.md)
@@ -38,9 +36,7 @@ title: Research
 	- Emotion Recognition for monitoring user emotions
 	- Action Recognition to recognize the user's motion
 	- Pose Estimation to perform the user's exercise assistance role
-
 <br/>
-
 
 ## Natural Language Processsing AI Area
 <br/>
@@ -51,7 +47,6 @@ title: Research
 - The concept of DT opens a world of possibilities for fundamentally the infusion of physical-twin specific computational models which are dynamically updated into a feedback loop of data-driven analysis and decision-making. 
 - A digital twin is a set of coupled computational models that gradually transit throughout different states in its featured state-space as time goes on, in which constantly and equivalently represent the real-world structure, behaviors and surrounding context of its physical twin.
 - DMS Group is working on the development of (i) neural digital twin dynamic engines (DTDE), (ii) neural digital twin control engines (DTCE), (iii) digital twin control frame (DTCF) and (iv) digital twin cloud infrastructure (DTCI) for U*V systems.
-
 <br/>
 
 ## [Dependability and Security Quantification Area](./DependabilitySecurity.md)
