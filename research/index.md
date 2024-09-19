@@ -20,12 +20,16 @@ title: Research
 	- Reinforcementt Learning for Cloud Computing
 <br/>
 
-## Deep Reinforcement Learning AI Area
-- Deep reinforcement learning combines two fundamentals of traditional reinforcement learning with deep learning.
-- Our team focus on
-	- Developing an efficient Multi-Agent Deep Reinforcement Learning model for operating multiple UAVs and robots
-	- Distributed Deep Reinforcement Learning
-	- SILS(Software-In-the-Loop Simulation) and HILS(Hardware-In-the-Loop Simulation)of Deep Reinforcement Learning algorithms
+## [Mobile Robot Navigation Area](./MobileRobotNavigationArea)
+- Global Navigation
+    - Global Navigation involves planning a trajectory for an agent to move from its starting point to a destination using a map. It relies on algorithms that compute the optimal path based on global knowledge of the environment.
+    - Research in this area also includes generating maps in real-time. Techniques like **Simultaneous Localization and Mapping (SLAM)** allow agents to navigate in unknown or changing environments by building and updating maps as they move.
+- Local Navigation
+    - Local Navigation guides an agent along the trajectory set by Global Navigation, handling obstacles in real-time. The agent moves toward local goals while avoiding static and moving obstacles.
+    - Our research emphasizes **Deep Reinforcement Learning (DRL)** for obstacle avoidance. DRL enables the agent to learn and adapt to complex environments, making safe and efficient decisions in dynamic situations.
+- Digital Twin
+    - Our research focuses on developing **Digital Twins**, realistic digital replicas of real-world systems, to simulate, test, and train models before real-world deployment.
+    - A key aspect is creating a Digital Twin that closely matches the real environment. We use **Unreal Engine** to build this simulation, providing a highly realistic platform for testing and optimization.
 <br/>
 
 ## [Computer Vision AI Area](./ComputerVisionAI.md)
