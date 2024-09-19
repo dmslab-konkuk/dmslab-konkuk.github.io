@@ -9,6 +9,7 @@ title: Mobile Robot Navigation Area
 - These methods allow the agent to learn through interaction with the environment, continuously improving its ability to avoid both static and moving obstacles in real-time, leading to safe and efficient navigation.
 
 ![simulation.gif](https://github.com/tomasvr/turtlebot3_drlnav/blob/main/media/simulation.gif?raw=truef)
+
 Ref: https://github.com/tomasvr/turtlebot3_drlnav/blob/main/media/simulation.gif
 
 ## Leveraging Vision Technology for Navigation
@@ -17,6 +18,7 @@ Ref: https://github.com/tomasvr/turtlebot3_drlnav/blob/main/media/simulation.gif
 - The segmented data is used to generate **BEV (Bird's Eye View) maps**, which are essential for effective indoor navigation by providing a structured representation of the environment.
 
 ![semexp](https://devendrachaplot.github.io/projects/resources/semexp.gif)
+
 Ref: https://devendrachaplot.github.io/projects/resources/semexp.gif
 
 ## Research on Digital Twin
@@ -24,6 +26,7 @@ Ref: https://devendrachaplot.github.io/projects/resources/semexp.gif
 - Our research on **Digital Twins** leverages **ROS (Robot Operating System)** for simulation, and we are enhancing realism by building a more accurate Digital Twin using **Unreal Engine**. This allows us to create a virtual environment that closely mirrors the real world for advanced navigation research.
 
 ![archvis-interior-rendering](./cvfolder/archvis-interior-rendering.png)
+
 [https://www.unrealengine.com/marketplace/en-US/product/archvis-interior-rendering](https://www.unrealengine.com/marketplace/en-US/product/archvis-interior-rendering)
 
 - Simultaneously, we are working on real-world mobile robot applications by integrating **embedded boards**, such as **Jetson Nano**, with sensors like **Lidar** and **RGB-D cameras**. A key focus is on **sensor fusion**, combining data from multiple sensors to improve the robot’s perception and navigation capabilities in complex environments.
