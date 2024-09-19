@@ -15,7 +15,7 @@ title: Project
 - Ministry of Education, 2021.9.1.~2026.8.31
 <br/>
 
-### [Professional Education Project (전문인력양성사업)]
+### [Professional Education Project (전문인력양성사업)](./Future_Automobile_R&D_Experts.md)
 - Training experts in future automobile R&D experts
 - Ministry of Trade, Industry and Energy, 2022.3.1.~2027.2.28.
 
