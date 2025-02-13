@@ -19,6 +19,7 @@ title: Alumni
 * Rustam (루스탐, 2016)
 * Xuhua Rui (예쉬화, 2018)
 * MinGi Kyung (경민기, 2018)
+* [Jueying Li(이각영, 2025)](./JueyingLi)
 
 
 ### Master
@@ -67,8 +68,10 @@ title: Alumni
 * [Sangwoo Jeon(전상우, 2023)](/people/SangwooJeon)
 * Geunyeong Go(고근영, 2024)
 * [Minhwan Kim(김민환, 2024)](/people/MinwhoanKim)
-
-
+* [Yumi Kim(김유미, 2025)](./QiuhongJin)
+* [Taemin Jung(정태민, 2025)](./TaeminJung)
+* [Uiseok Lee(이의석, 2025)](./LeeUiseok)
+  
 ### Undergraduate Researcher 
 * Wongyeong Choi(최원경)
 * Gyeongwon Yoo(유경원)
@@ -91,3 +94,6 @@ title: Alumni
 * [Hyeonseo Cho(조현서)](/people/HyeonseoCho)
 * [Soyeong Sohn(손소영)](/people/SoyeongSohn)
 * [HoEun Lee(이호은)](/people/HoEunLee)
+* [Sunjae Kwon(권순재)](./SunjaeKwon)
+* [Yoonhwan Shon(손윤환)](./ShonYoonhwan)
+* [Seokjin Lee(이석진)](./LeeSeokjin)
