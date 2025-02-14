@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HyunSeok Kang
+title: ChanHongg Hwan
 ---
 
 ## ChanHongg Hwang (황찬홍)
