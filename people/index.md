@@ -34,7 +34,7 @@ title: People
 * [Hyunseok Kang(강현석)](./KangHyunseok)
 * [Jung-geun Bong(봉정근)](./Jung-geunBong)
 * [Sangwoo Park(박상우)](./SangwooPark)
-* [YeChan Park(박예찬)](./YeChanPark)
+* [YeChan Park(박예찬)](./ParkYeChan)
 * [MinGyu Kim(김민규)](./KimMingyu)
 * [ChanYong Park(박찬용)](./ChanYongPark)
 
@@ -47,7 +47,7 @@ title: People
 * [KyoJin Park(박교진)](./KyoJin)
 * [YuJin Kim(김유진)](./YuJin)
 * [DongHyun Jo(조동현)](./DongHyun)
-* [ChanHongg Hwang(황찬홍)](./ChanHongg)
-* [JungHun Kim(김정훈)](./JungHun)
+* [ChanHongg Hwang(황찬홍)](./HwangChanhongg)
+* [JungHun Kim(김정훈)](./KimJungHun)
   
 ### [Alumni](./Alumni)
