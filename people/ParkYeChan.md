@@ -4,7 +4,7 @@ title: YeChan Park
 ---
 
 ## YeChan Park (박예찬)
-![alt_text](../assets/img/profile/profile_PakrYechan.jpg)
+<img src="/assets/img/profile/profile_PakrYechan.jpg" width="110px" height="130px" title="profile">
 
 ### Research Interests
 ```markdown
