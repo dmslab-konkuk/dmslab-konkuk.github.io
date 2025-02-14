@@ -4,7 +4,8 @@ title: JungHun Kim
 ---
 
 ## JungHun Kim (김정훈)
-![alt_text](../assets/img/profile/profile_KimJungHun.jpg)
+<img src="/assets/img/profile/profile_KimJungHun.jpg" width="110px" height="130px" title="profile">
+
 ### Research Interests
 ```markdown
 * Deep Reinforcement Learning

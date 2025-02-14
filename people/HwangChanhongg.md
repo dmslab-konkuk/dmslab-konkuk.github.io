@@ -4,7 +4,7 @@ title: ChanHongg Hwan
 ---
 
 ## ChanHongg Hwang (황찬홍)
-![alt_text](../assets/img/profile/profile_hwangchanhongg.png)
+<img src="/assets/img/profile/profile_hwangchanhongg.png" width="110px" height="130px" title="profile">
 
 ### Research Interests
 ```markdown
