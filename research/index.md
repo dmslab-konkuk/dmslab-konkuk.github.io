@@ -22,14 +22,20 @@ title: Research
 
 ## [Mobile Robot Navigation Area](./MobileRobotNavigationArea)
 - Global Navigation
-    - Global Navigation involves planning a trajectory for an agent to move from its starting point to a destination using a map. It relies on algorithms that compute the optimal path based on global knowledge of the environment.
-    - Research in this area also includes generating maps in real-time. Techniques like **Simultaneous Localization and Mapping (SLAM)** allow agents to navigate in unknown or changing environments by building and updating maps as they move.
+    - **Global Navigation** involves planning the optimal trajectory for mobile robots (both ground and aerial) to move from a starting point to a destination based on a given map.
+    - In known environments, algorithms such as A*, Dijkstra, and RRT are used for path planning, while in unknown environments, **Simultaneous Localization and Mapping (SLAM)** enables real-time map generation and updates.
+    - Our research extends beyond **wheeled robots (e.g., TurtleBot)** to include **aerial robots (e.g., drones)**, incorporating **3D SLAM and path optimization techniques** for aerial navigation.
 - Local Navigation
-    - Local Navigation guides an agent along the trajectory set by Global Navigation, handling obstacles in real-time. The agent moves toward local goals while avoiding static and moving obstacles.
-    - Our research emphasizes **Deep Reinforcement Learning (DRL)** for obstacle avoidance. DRL enables the agent to learn and adapt to complex environments, making safe and efficient decisions in dynamic situations.
+    - **Local Navigation** ensures that an agent follows the planned trajectory while dynamically avoiding obstacles and adapting to real-time environmental changes.
+    - Avoiding not only static obstacles but also **dynamic obstacles such as humans, vehicles, and drones** is a key challenge.
+    - We leverage **Deep Reinforcement Learning (DRL) and Multi-Agent Reinforcement Learning (MARL)** to enable robots to learn and make optimal navigation decisions in complex, dynamic environments.
+    - MARL-based approaches allow multiple agents (both ground and aerial robots) to cooperate in real time, minimizing interference and optimizing collective movement strategies.
+    - Our research focuses on both **wheeled mobile robots (TurtleBot, etc.)** and **aerial mobile robots (UAVs etc.)**, ensuring efficient and safe navigation in **3D environments with dynamic obstacles.**
 - Digital Twin
-    - Our research focuses on developing **Digital Twins**, realistic digital replicas of real-world systems, to simulate, test, and train models before real-world deployment.
-    - A key aspect is creating a Digital Twin that closely matches the real environment. We use **Unreal Engine** to build this simulation, providing a highly realistic platform for testing and optimization.
+    - **Digital Twin technology** creates realistic digital replicas of real-world robotic systems, providing a **high-fidelity simulation platform** for testing and optimizing algorithms before real-world deployment.
+    - Using **Unreal Engine**, we develop high-resolution simulation environments, allowing us to train and validate reinforcement learning-based navigation models efficiently.
+    - Our research includes building **Digital Twins for both UAVs and ground robots**, enabling predeployment training and validation of reinforcement learning models in diverse scenarios.
+    - We specifically focus on **Multi-Agent Digital Twin Simulations**, where multiple mobile robots operate in a shared virtual space, enabling collaborative navigation, obstacle avoidance, and optimal coordination strategies.
 <br/>
 
 ## [Computer Vision AI Area](./ComputerVisionAI.md)
