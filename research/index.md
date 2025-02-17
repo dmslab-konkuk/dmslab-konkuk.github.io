@@ -24,7 +24,7 @@ title: Research
 - Global Navigation
     - **Global Navigation** involves planning the optimal trajectory for mobile robots (both ground and aerial) to move from a starting point to a destination based on a given map.
     - In known environments, algorithms such as A*, Dijkstra, and RRT are used for path planning, while in unknown environments, **Simultaneous Localization and Mapping (SLAM)** enables real-time map generation and updates.
-    - Our research extends beyond **wheeled robots (e.g., TurtleBot)** to include **aerial robots (e.g., drones)**, incorporating **3D SLAM and path optimization techniques** for aerial navigation.
+    - Our research extends beyond **wheeled robots (e.g., TurtleBot)** to include **Aerial robots (e.g., drones)**, incorporating **3D SLAM and path optimization techniques** for aerial navigation.
 - Local Navigation
     - **Local Navigation** ensures that an agent follows the planned trajectory while dynamically avoiding obstacles and adapting to real-time environmental changes.
     - Avoiding not only static obstacles but also **dynamic obstacles such as humans, vehicles, and drones** is a key challenge.
