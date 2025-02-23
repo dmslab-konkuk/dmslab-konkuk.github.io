@@ -7,8 +7,8 @@ title: JungHyun Park
 ![ParkJungHyun_Profile](../assets/img/profile/profile_JunghyunPark.jpeg)
 
 ### Research Interests
-- Artificial Intelligence / Deep Learning / Computer Vision / 3D Vision / Vision Language / Multi-modal 
-- Model Lightweight / Elderly Care
+- Artificial Intelligence / Deep Learning / Computer Vision / Object Detection / Vision Large Language Model / Multi-modal 
+- Autonomous Driving / Generative AI / Parameter Efficient Fine-Tuning
  
 ### Contact Info
 Lab: Room 1207, New Engineering Building
