@@ -8,7 +8,7 @@ title: JungHyun Park
 
 ### Research Interests
 - Artificial Intelligence / Deep Learning / Computer Vision / Object Detection / Vision Large Language Model / Multi-modal 
-- Autonomous Driving / Generative AI / Parameter Efficient Fine-Tuning
+- Autonomous Driving / Generative AI / Parameter Efficient Fine-Tuning / Data Science
  
 ### Contact Info
 Lab: Room 1207, New Engineering Building
