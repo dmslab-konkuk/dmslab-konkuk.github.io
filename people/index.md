@@ -42,7 +42,6 @@ title: People
 * [SeungHyeop Nam(남승협)](./SeungHyeopNam)
 * [Dageun Shin(신대근)](./ShinDageun)
 * [Seunghyun Kang(강승현)](./KangSeunghyun)
-* [Uhyeok Bang(방우혁)](./BangUhyeok)
 * [MinHyeok Kwon(권민혁)](./MinHyeok)
 * [KyoJin Park(박교진)](./KyoJin)
 * [YuJin Kim(김유진)](./YuJin)
