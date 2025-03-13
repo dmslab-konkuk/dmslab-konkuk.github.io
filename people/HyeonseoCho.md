@@ -4,7 +4,7 @@ title: Hyeonseo Cho
 ---
 
 ## Hyeonseo Cho (조현서)
-![HyeonseoCho](../assets/img/profile_hyeonseocho.jpg)
+![HyeonseoCho](../assets/img/profile/profile_hyeonseocho.jpg)
 
 ### Research Interests 
 * Reinforcement Learning

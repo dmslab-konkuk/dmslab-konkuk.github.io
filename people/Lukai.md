@@ -4,7 +4,7 @@ title: Lu Kai
 ---
 
 ## Lu Kai (루카이)
-![alt_text](../assets/img/profile_LuKai.png)
+![alt_text](../assets/img/profile/profile_LuKai.png)
 
 ### Research Interests
 * Computer Vision

@@ -15,7 +15,7 @@ title: Project
 - Ministry of Education, 2021.9.1.~2026.8.31
 <br/>
 
-### [Professional Education Project (전문인력양성사업)]
+### [Professional Education Project (전문인력양성사업)](./Future_Automobile_R&D_Experts.md)
 - Training experts in future automobile R&D experts
 - Ministry of Trade, Industry and Energy, 2022.3.1.~2027.2.28.
 
@@ -23,6 +23,9 @@ title: Project
 - Development of objective diagnosis and the clinical pathway of Traditional Korean Medicines for Damjeok Syndrome
 - Ministry of Science and ICT, 2022.7.1.~2026.12.31.
 
+### [Generative AI Based Real Time Face Swap Service for Personal Video Contents (퍼스널 영상 콘텐츠를 위한 실시간 얼굴 교체 서비스)]
+- establish a GPU virtualization-based environment to support multiple users and develop a real-time face swap service for personal video content
+- Ministry of Science and ICT, 2024.8.1.~2025.7.31.
 
 # Completed
 - Training experts in future automobile R&D experts(IITP), Ministry of Trade, Industry and Energy, 2017.3.1.~2022.2.28.

@@ -3,13 +3,11 @@ layout: default
 title: K. Vishnu Kumar, Ph.D
 ---
 
-K. Vishnu Kumar(비쉬누쿠마) Ph.D
+## K. Vishnu Kumar(비쉬누쿠마) Ph.D
 
-![alt_text](./VishnuKumar.png)
+![alt_text](../assets/img/profile/profile-VishnuKumar.png)
 
 *	Email: vishnudms@gmail.com
-
-
 
 ### Biography 
 Dr. Vishnu Kumar Kaliappan is working as Research Professor at DMS Laboratory, Computer Science and Engineering, College of Engineering, Konkuk University, Seoul, South Korea. 

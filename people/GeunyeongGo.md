@@ -4,7 +4,7 @@ title: GeunYeong Go
 ---
 
 ## GeunYeong Go (고근영)
-![alt_text](../assets/img/profile_ggy.jpg)
+![alt_text](../assets/img/profile/profile_ggy.jpg)
 
 ### Research Interests
 * Natural Language Processing

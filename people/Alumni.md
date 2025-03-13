@@ -10,7 +10,7 @@ title: Alumni
 * YongWhan Lee (이용환, 2005)
 * GwyDuk Yeom (염귀덕, 2006)
 * TaeWoong Yun (윤태웅, 2008)
-* [Vishnu (비슈누, 2011)](./VishnuKumar)
+* [Vishnu (비슈누, 2011)](/people/VishnuKumar)
 * DuckWon Chung (정덕원, 2013)
 * Sasi Don (사시돈, 2013)
 * YunJung Park (박윤정, 2014)
@@ -19,6 +19,7 @@ title: Alumni
 * Rustam (루스탐, 2016)
 * Xuhua Rui (예쉬화, 2018)
 * MinGi Kyung (경민기, 2018)
+* [Jueying Li(이각영, 2025)](/people/JueyingLi)
 
 
 ### Master
@@ -60,32 +61,39 @@ title: Alumni
 * SeungJin Yu (유승진, 2021)
 * Nang Lung Aung (낭룽아웅, 2022)
 * Ikjin Kwon (권익진, 2022)
-* [Lina Zhang (장이나, 2022)](./LinaZhang)
+* [Lina Zhang (장이나, 2022)](/people/LinaZhang)
 * QiuHong Jin (김추홍, 2022)
 * Fengyi Chen (진풍이, 2022)
-* [Lu Kai (루카이, 2022)](./Lukai)
-* [Sangwoo Jeon(전상우, 2023)](./SangwooJeon)
+* [Lu Kai (루카이, 2022)](/people/Lukai)
+* [Sangwoo Jeon(전상우, 2023)](/people/SangwooJeon)
 * Geunyeong Go(고근영, 2024)
-* [Minhwan Kim(김민환, 2024)](./MinwhoanKim)
-
-
+* [Minhwan Kim(김민환, 2024)](/people/MinwhoanKim)
+* [Yumi Kim(김유미, 2025)](/people/QiuhongJin)
+* [Taemin Jung(정태민, 2025)](/people/TaeminJung)
+* [Uiseok Lee(이의석, 2025)](/people/LeeUiseok)
+  
 ### Undergraduate Researcher 
-* 최원경
-* 유경원
-* 주재빈
-* 이성윤
-* 서형상
-* 장준서
-* 류창현
-* 권신우
-* 김승환
-* 이현규
-* 이현준
-* 김형규
-* 김민환
-* 이예빈
-* 우창석
-* 강신규
-* 박상윤
-* 김지원
-* 조현서
+* Wongyeong Choi(최원경)
+* Gyeongwon Yoo(유경원)
+* Jaebin Ju(주재빈)
+* Seongyun Lee(이성윤)
+* Hyeongsang Seo(서형상)
+* Junseom Jang(장준서)
+* Changhyeon Ryu(류창현)
+* Shinu Kwon(권신우)
+* Seunghwan Kim(김승환)
+* Hyeongyu Lee(이현규)
+* Hyeonjun Lee(이현준)
+* Hyeonggyu Kim(김형규)
+* Minhwan Kim(김민환)
+* Yebin Lee(이예빈)
+* Changseok Woo(우창석)
+* Singyu Kang(강신규)
+* [Sangyun Park(박상윤)](/people/SangYoonPark)
+* [Jiwon Kim(김지원)](/people/KimJiwon)
+* [Hyeonseo Cho(조현서)](/people/HyeonseoCho)
+* [Soyeong Sohn(손소영)](/people/SoyeongSohn)
+* [HoEun Lee(이호은)](/people/HoEunLee)
+* [Sunjae Kwon(권순재)](/people/SunjaeKwon)
+* [Yoonhwan Shon(손윤환)](/people/ShonYoonhwan)
+* [Seokjin Lee(이석진)](/people/LeeSeokjin)

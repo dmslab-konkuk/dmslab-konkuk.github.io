@@ -4,7 +4,7 @@ title: YeBeen Lee
 ---
 
 ## YeBeen Lee (이예빈)
-![profile](../assets/img/profile_yebeenlee.png)
+![profile](../assets/img/profile/profile_yebeenlee.png)
 
 ### Research Interests
 * Deep Learning

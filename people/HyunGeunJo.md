@@ -4,7 +4,7 @@ title: Hyungeun Jo
 ---
 
 ### HyunGeun Jo
-![alt_text](../assets/img/profile_jhg.jpg)
+![alt_text](../assets/img/profile/profile_jhg.jpg)
 
 ## Research
 Reinforcement Learning

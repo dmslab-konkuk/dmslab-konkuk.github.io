@@ -4,7 +4,7 @@ title: Minwhoan Kim
 ---
 
 ## Minwhoan Kim (김민환)
-![MinwhoanKim](../assets/img/profile_mwhkim.png)
+![MinwhoanKim](../assets/img/profile/profile_mwhkim.png)
 
 ### Research Interests 
 * Cloud/Fog Computing

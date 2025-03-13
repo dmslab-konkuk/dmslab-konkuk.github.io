@@ -4,7 +4,7 @@ title: WenchongZhao
 ---
 
 ## Wenchong Zhao (조문충)
-![alt_text](./profile-zhaowc_small.jpg)
+![alt_text](../assets/img/profile/profile-zhaowc_small.jpg)
 
 ### Research Interests 
 * Computer Vision
