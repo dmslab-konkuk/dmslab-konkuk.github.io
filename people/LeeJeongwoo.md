@@ -6,9 +6,6 @@ title: JeongWoo Lee
 ## JeongWoo Lee (이정우)
 <img src="/assets/img/profile/profile_LeeJeongWoo.jpg" width="110px" height="130px" title="profile">
 
-<span style="color:red"> "*WHY NOT CHANGE THE WORLD!*"</span>.
-
-
 ## Research Interests
 * Computer Vision
 * Fine-Grained Visual Classification
