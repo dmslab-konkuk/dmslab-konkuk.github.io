@@ -19,6 +19,7 @@ title: Alumni
 * Rustam (루스탐, 2016)
 * Xuhua Rui (예쉬화, 2018)
 * MinGi Kyung (경민기, 2018)
+* [Jueying Li(이각영, 2025)](/people/JueyingLi)
 
 
 ### Master
@@ -67,27 +68,32 @@ title: Alumni
 * [Sangwoo Jeon(전상우, 2023)](/people/SangwooJeon)
 * Geunyeong Go(고근영, 2024)
 * [Minhwan Kim(김민환, 2024)](/people/MinwhoanKim)
-
-
+* [Yumi Kim(김유미, 2025)](/people/QiuhongJin)
+* [Taemin Jung(정태민, 2025)](/people/TaeminJung)
+* [Uiseok Lee(이의석, 2025)](/people/LeeUiseok)
+  
 ### Undergraduate Researcher 
-* 최원경
-* 유경원
-* 주재빈
-* 이성윤
-* 서형상
-* 장준서
-* 류창현
-* 권신우
-* 김승환
-* 이현규
-* 이현준
-* 김형규
-* 김민환
-* 이예빈
-* 우창석
-* 강신규
-* [박상윤](/people/SangYoonPark)
-* [김지원](/people/KimJiwon)
-* [조현서](/people/HyeonseoCho)
-* [손소영](/people/SoyeongSohn)
-* [이호은](/people/HoEunLee)
+* Wongyeong Choi(최원경)
+* Gyeongwon Yoo(유경원)
+* Jaebin Ju(주재빈)
+* Seongyun Lee(이성윤)
+* Hyeongsang Seo(서형상)
+* Junseom Jang(장준서)
+* Changhyeon Ryu(류창현)
+* Shinu Kwon(권신우)
+* Seunghwan Kim(김승환)
+* Hyeongyu Lee(이현규)
+* Hyeonjun Lee(이현준)
+* Hyeonggyu Kim(김형규)
+* Minhwan Kim(김민환)
+* Yebin Lee(이예빈)
+* Changseok Woo(우창석)
+* Singyu Kang(강신규)
+* [Sangyun Park(박상윤)](/people/SangYoonPark)
+* [Jiwon Kim(김지원)](/people/KimJiwon)
+* [Hyeonseo Cho(조현서)](/people/HyeonseoCho)
+* [Soyeong Sohn(손소영)](/people/SoyeongSohn)
+* [HoEun Lee(이호은)](/people/HoEunLee)
+* [Sunjae Kwon(권순재)](/people/SunjaeKwon)
+* [Yoonhwan Shon(손윤환)](/people/ShonYoonhwan)
+* [Seokjin Lee(이석진)](/people/LeeSeokjin)

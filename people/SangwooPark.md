@@ -8,11 +8,12 @@ title: Sangwoo Park
 
 ### Research Interests
 ```markdown
-* Cloud computing
-* Edge Computing
+* Cloud/Edge computing
+* OPENSTACK
 ```
 
 ### Contact Info
 ```markdown
+* Lab: Room1207, New Engineering Building
 * email: psw8554 at gmail.com
 ```

@@ -4,6 +4,7 @@ title: HaYeong Park
 ---
 
 ## HaYeong Park (박하영)
+<img src="/assets/img/profile/HaYeongPark.jpg" width="140px" title="profile">
 
 ### Research Interests
 ```markdown

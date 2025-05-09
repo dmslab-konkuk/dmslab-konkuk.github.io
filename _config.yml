@@ -15,6 +15,7 @@ navbar-links:
   Research: "research"
   People: "people"
   Publication: "publication"
+  Patent: "Patent"
   Project: "project"
   #Jouranl and Conferences: "jouranl_and_conferences" 추후에 다시 추가 요망
   Information: "information"
@@ -40,7 +41,7 @@ round-avatar: false
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "holyjirung@konkuk.ac.kr"
+  email: "dkmin@konkuk.ac.kr"
 #  facebook: seokho.son.korea
 #  github: seokho-son
 #  linkedin: seokho-son
