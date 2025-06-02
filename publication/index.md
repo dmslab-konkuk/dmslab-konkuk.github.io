@@ -5,6 +5,8 @@ title: Publication
 
 
 # Journal/Conference Papers
+- **[SCI]** Airton Silva, Tuan Anh Nguyen, Eunmi Choi, Dugki Min, Jae-Woo Lee (2025). "Enhancing data harvesting systems: Performance quantification of Cloud-Edge-sensor networks using queueing theory". ICT Express, https://doi.org/10.1016/j.icte.2025.04.017 
+
 - Seunghyeop Nam, Tuan Anh Nguyen, Eunmi Choi, Dugki Min (2025). “Multi-head Fusion-based Actor-Critic Deep Reinforcement Learning with Memory Contextualisation for End-to-End Autonomous Navigation”. TechRxiv, https://doi.org/10.36227/techrxiv.173747402.29145488/v1
 
 - Seunghyeop Nam, Tuan Anh Nguyen, Eunmi Choi, Dugki Min(2025). “FH-DRL Exponential-Hyperbolic Frontier Heuristics with DRL for accelerated Exploration in Unknown Environments”. Robotics, https://doi.org/10.1109/TCYB.2025.12345678
