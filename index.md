@@ -10,7 +10,7 @@ cover-img: /assets/img/server.jpeg
 ## Introduction to DMS Research Group
 The DMS research group is currently concentrating on research and development related to Smart Mobility Systems and Bio-Medical/Healthcare intelligent Services based on deep learning-based AI technologies on distributed systems
 
-### Dstributed System Technology
+### Distributed System Technology
 By utilizing Cloud Platform Technology, we are currently focusing on the development of “Intelligent Cloud Platform (IFC) for Smart Mobility systems and Healthcare Assistant systems, which is the core of the 4th Industrial Revolution. In particular, we are researching automatic AI platform provisiong service for “Intelligent Cooperative Heatlcare Assistant Agents for oldery people” and “Digital Twin Systems for Urban Air Mobility” application fields. We also research and develop stable and scalable system architecture and intelligent system operation management service.
 
 ### Artificial Intelligence Technology 
