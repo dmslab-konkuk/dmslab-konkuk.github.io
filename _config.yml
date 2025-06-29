@@ -19,6 +19,7 @@ navbar-links:
   Project: "project"
   #Jouranl and Conferences: "jouranl_and_conferences" 추후에 다시 추가 요망
   Information: "information"
+  Recruit: "recruit"
   # Board: "blog"
   Gallery: "gallery"
   GitHub: "https://github.com/dmslab-konkuk"
