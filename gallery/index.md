@@ -30,7 +30,7 @@ title: Gallery
 </details>
 
 <details style="margin-bottom: 5px;">
-<summary>2025년 3월 6일 OpenInfr 한국사용자모임</summary>
+<summary>2025년 3월 6일 OpenInfra 한국사용자모임</summary>
 <div style="text-align: center;">
     <img src="../assets/img/homepage_gallery/20250306_OpenInfra/1.jpg" width="100%"/>
     <img src="../assets/img/homepage_gallery/20250306_OpenInfra/2.jpg" width="100%"/>
