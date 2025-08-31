@@ -4,9 +4,10 @@ title: Jonghyun Lee
 ---
 
 ## Jonghyun Lee (이종현)
-<img src="{{ site.baseurl }}/assets/img/profile/profile_placeholder.jpg" alt="placeholder image" style="width: 250px; height: 250px;" >
+<img src="{{ site.baseurl }}/assets/img/profile/profile_leejonghyun.jpeg" alt="placeholder image" style="width: 200px; height: 250px;" >
 
 ### Research Interests
+* Computer vision
 
 
 ### Contact Info
