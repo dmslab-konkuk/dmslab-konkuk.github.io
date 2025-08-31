@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Jonghyun Lee
+title: DongHyun Jo
 ---
 
-## Jonghyun Lee (이종현)
+## DongHyun Jo (조동현)
 <img src="{{ site.baseurl }}/assets/img/profile/profile_placeholder.jpg" alt="placeholder image" style="width: 250px; height: 250px;" >
 
 ### Research Interests
@@ -11,4 +11,4 @@ title: Jonghyun Lee
 
 ### Contact Info
 * Lab : Room 1207, New Engineering Building
-* Email: jonghyun832539 at konkuk.ac.kr
+* Email: mr8356 at konkuk.ac.kr

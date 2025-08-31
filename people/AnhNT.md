@@ -4,9 +4,7 @@ title: Tuan Anh Nguyen
 ---
 
 ## Tuan Anh Nguyen (투안안) (Ph.D.,)
-
-
-![alt_text](../assets/img/profile/profile_AnhNT.png)
+![alt_text]({{ site.baseurl }}/assets/img/profile/profile_AnhNT.png)
 
 <span style="color:red"> "*Think Different!*"</span>.
 

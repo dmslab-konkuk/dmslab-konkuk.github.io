@@ -30,7 +30,6 @@ title: People
 * [Shengxin Huang(황성흠)](./ShengxinHuang)
 * [Hyunseok Kang(강현석)](./KangHyunseok)
 * [Jung-geun Bong(봉정근)](./Jung-geunBong)
-* [Sangwoo Park(박상우)](./SangwooPark)
 * [YeChan Park(박예찬)](./ParkYeChan)
 * [MinGyu Kim(김민규)](./KimMingyu)
 * [ChanYong Park(박찬용)](./ChanYongPark)
@@ -42,7 +41,7 @@ title: People
 ### B.S Course
 * [Seunghyun Kang(강승현)](./KangSeunghyun)
 * [MinHyeok Kwon(권민혁)](./MinHyeok)
-* [KyoJin Park(박교진)](./KyoJin)
+* [KyoJin Park(박교진)](./KyoJinPark)
 * [YuJin Kim(김유진)](./YuJin)
 * [DongHyun Jo(조동현)](./DongHyun)
 * [ChanHongg Hwang(황찬홍)](./HwangChanhongg)

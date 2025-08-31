@@ -4,7 +4,7 @@ title: Prof.Dugki Min
 ---
 
 ## Dugki Min (민덕기, 閔悳基) Ph.D
-![alt_text](../assets/img/profile/profile-dkmin-small.jpg)
+![alt_text]({{ site.baseurl }}/assets/img/profile/profile-dkmin-small.jpg)
 * Professor
 * Computer Science and Engineering, College of Engineering
 
