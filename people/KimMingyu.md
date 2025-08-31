@@ -4,9 +4,11 @@ title: Mingyu Kim
 ---
 
 ## Mingyu Kim (김민규)
-<img src="{{ site.baseurl }}/assets/img/profile/profile_placeholder.jpg" alt="placeholder image" style="width: 250px; height: 250px;  object-fit: cover;">
+<img src="{{ site.baseurl }}/assets/img/profile/profile_minkyu.jpeg" alt="placeholder image" style="width: 200px; height: 250px; ">
 
 ### Research Interests
+* Natural Language Processing
+* Retrieval Augmented Generation
 
 
 ### Contact Info
