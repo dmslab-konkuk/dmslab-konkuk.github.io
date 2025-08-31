@@ -38,8 +38,8 @@ title: Junghyun Park
 - Others: Data Science, Image Processing, Image Classification
 
 ### Contact Info
-email: knlight@konkuk.ac.kr / mmkndark@daum.net
-Phone: 010-4517-9307
+- Email: knlight@konkuk.ac.kr / mmkndark@daum.net
+- Phone: 010-4517-9307
  
 ### Related Links
 - [Github](https://github.com/PJH33)
