@@ -71,6 +71,10 @@ title: Alumni
 * [Yumi Kim(김유미, 2025)](/people/QiuhongJin)
 * [Taemin Jung(정태민, 2025)](/people/TaeminJung)
 * [Uiseok Lee(이의석, 2025)](/people/LeeUiseok)
+* [Hangyu Jin(진항우, 2025)](/people/JinHangYu)
+* [Junghyun Park(박정현, 2025)](/people//ParkJungHyun)
+* [Hayeong Park(박하영, 2025)](/people/ParkHayeong)
+* [Qihua Wei(위기화, 2025)](/people/WeiQihua)
   
 ### Undergraduate Researcher 
 * Wongyeong Choi(최원경)
@@ -97,3 +101,4 @@ title: Alumni
 * [Sunjae Kwon(권순재)](/people/SunjaeKwon)
 * [Yoonhwan Shon(손윤환)](/people/ShonYoonhwan)
 * [Seokjin Lee(이석진)](/people/LeeSeokjin)
+* SeungHyeop Nam(남승협)
