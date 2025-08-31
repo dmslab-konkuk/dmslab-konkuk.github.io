@@ -24,7 +24,7 @@ title: Junghyun Park
 - Artificial Intelligence Researcher, Konkuk University, 2025-Present
 
 ### Publications
-- [Konkuk University DCollection] (https://konkuk.dcollection.net/srch/srchDetail/200000894820)
+- [Konkuk University DCollection](https://konkuk.dcollection.net/srch/srchDetail/200000894820)
 
 ### Projects
 - Research on Artificial Intelligence Digital Twin Technology for Smart Urban Air Mobility
@@ -38,8 +38,8 @@ title: Junghyun Park
 - Others: Data Science, Image Processing, Image Classification
  
 ### Contact Info
-email: knlight@konkuk.ac.kr / mmkndark@daum.net
-Phone: 010-4517-9307
+* Email: knlight@konkuk.ac.kr / mmkndark@daum.net
+* Phone: 010-4517-9307
  
 ### Related Links
 - [Github](https://github.com/PJH33)
