@@ -12,24 +12,21 @@ title: People
 
 ### Post Doctor Course
 * [Jueying Li(이각영)](./JueyingLi)
+* [DamSub Lim(임담섭)](./DamsubLim)
 
 ### Ph.D Course
-* [DamSub Lim(임담섭)](./DamsubLim)
 * [Woojun Yoo(유우준)](./YooWoojun)
 * [Honggyu Kim(김홍규)](./KimHonggyu)
 * [WonJune Seo(서원준)](./SeoWonJune)
+* [SeungJung Woo(우승정)](./SeungJungWoo)
 
 ### M.S Course
-* [Hayeong Park(박하영)](./ParkHayeong)
-* [Hangyu Jin(진항우)](./JinHangYu)
-* [JungHyun Park(박정현)](./ParkJungHyun)
 * [Ojae Won(원오재)](./WonOjae)
-* [Qihua Wei(위기화)](./WeiQihua)
 * [Seongmin Park(박성민)](./SeongMinPark)
 * [Jeongwoo Lee(이정우)](./LeeJeongwoo)
 * [Minji Joung(정민지)](./MinjiJoung)
 * [Jisu Lee(이지수)](./LeeJisu)
-* [Folaasen Henriette(핸니)](./FolaasenHenriette)
+* [Henriette Folåsen(헨니](./FolaasenHenriette)
 * [Shengxin Huang(황성흠)](./ShengxinHuang)
 * [Hyunseok Kang(강현석)](./KangHyunseok)
 * [Jung-geun Bong(봉정근)](./Jung-geunBong)
@@ -37,10 +34,12 @@ title: People
 * [YeChan Park(박예찬)](./ParkYeChan)
 * [MinGyu Kim(김민규)](./KimMingyu)
 * [ChanYong Park(박찬용)](./ChanYongPark)
+* [YeonWoo Sung(성연우)](./YeonWooSung)
+* [Choin Choi(최초인)](./ChoinChoi)
+* [Seki Sakura(세키사쿠라)](./SekiSakura)
+* [Ritu Ananya](./RituAnanya)
 
 ### B.S Course
-* [SeungHyeop Nam(남승협)](./SeungHyeopNam)
-* [Dageun Shin(신대근)](./ShinDageun)
 * [Seunghyun Kang(강승현)](./KangSeunghyun)
 * [MinHyeok Kwon(권민혁)](./MinHyeok)
 * [KyoJin Park(박교진)](./KyoJin)
@@ -48,5 +47,8 @@ title: People
 * [DongHyun Jo(조동현)](./DongHyun)
 * [ChanHongg Hwang(황찬홍)](./HwangChanhongg)
 * [JungHun Kim(김정훈)](./KimJungHun)
+* [SunMin Jung(정선민)](./SunMinJung)
+* [Youbin Jeon(전유빈)](./YouBinJeon)
+* [Jonghyun Lee(이종현)](./JonghyunLee)
   
 ### [Alumni](./Alumni)
