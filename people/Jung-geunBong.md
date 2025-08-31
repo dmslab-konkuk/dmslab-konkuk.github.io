@@ -4,22 +4,21 @@ title: Jung-geun Bong
 ---
 
 ## Jung-geun Bong (봉정근)
-![alt_text](../assets/img/profile/profile_bong_small.jpg)
+![alt_text]({{ site.baseurl }}/assets/img/profile/profile_bong_small.jpg)
+
 
 ### Research Interests
-```markdown
 * Machine Learning
 * Deep Learning
 * Computer Vision
 * System Optimization
 * Zero-shot TTS
-```
+
 
 ### Contact Info
-```markdown
 * Lab : Room 1207, New Engineering Building
-* email: pieroot.02 at gmail.com
-```
+* Email: pieroot.02 at gmail.com
+
 
 ### Stack
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)

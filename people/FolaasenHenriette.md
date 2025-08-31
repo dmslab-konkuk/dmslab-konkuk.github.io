@@ -4,30 +4,26 @@ title: FOLAASEN HENRIETTE
 ---
 
 ## Henriette Folåsen  (헨니)
-<img src="{{ site.baseurl }}/assets/img/profile/profile_Henriette.jpg" alt="HENRIETTE" style="width: 250px; height: 250px; border-radius: 50%; object-fit: cover; border: 3px solid #ddd;">
+<img src="{{ site.baseurl }}/assets/img/profile/profile_Henriette.jpg" alt="HENRIETTE" style="width: 200px; height: 250px;object-fit: cover; ">
 
 
 ### Research Interests
-```markdown
 * Deep Learning
 * Computer Vision & Image Processing
 * AI Security & Ethical AI
 * DeepFake Detection
-```
 
 ### Previous Experience 
-```markdown
 * AI Security Solutions Developer Intern @ PotatoNet 2025.03-2025.08
 * Software Developer and Consultant @ Capgemini 2021-2023
 * Software Developer Intern @ Kongsberg Defence & Aerospace 2021
-* Teaching Assistant @ University of Agder 2019-2021
 * Bachelors of Computer Engineering @ University of Agder, Norway 2018-2021
-```
+
 ### Contact Info
-```markdown
+
 * Lab : Room 1207, New Engineering Building
-* email: Henrifola at konkuk.ac.kr
-```
+* Email: Henrifola at konkuk.ac.kr
+
 
 ### Related Links
 [![github](https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/henrifola)
