@@ -26,7 +26,7 @@ title: People
 * [Jeongwoo Lee(이정우)](./LeeJeongwoo)
 * [Minji Joung(정민지)](./MinjiJoung)
 * [Jisu Lee(이지수)](./LeeJisu)
-* [Henriette Folåsen(헨니](./FolaasenHenriette)
+* [Henriette Folåsen(헨니)](./FolaasenHenriette)
 * [Shengxin Huang(황성흠)](./ShengxinHuang)
 * [Hyunseok Kang(강현석)](./KangHyunseok)
 * [Jung-geun Bong(봉정근)](./Jung-geunBong)
