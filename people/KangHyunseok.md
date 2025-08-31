@@ -4,8 +4,13 @@ title: HyunSeok Kang
 ---
 
 ## HyunSeok Kang (강현석)
+![alt_text]({{ site.baseurl }}/assets/img/profile/profile_kanghyunseok.png)
+
+### Research Interests
+* Deep Reinforcement Learning
+
 
 ### Contact Info
-```markdown
-* email: kanghs0222 at konkuk.ac.kr
-```
+* Lab : Room 1207, New Engineering Building
+* Email: kanghs0222@konkuk.ac.kr
+

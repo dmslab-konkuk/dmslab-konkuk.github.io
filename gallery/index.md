@@ -5,6 +5,77 @@ title: Gallery
 
 <br/>
 
+# 2025
+<details style="margin-bottom: 5px;">
+<summary>2025년 7월 26일 Summer Play Day</summary>
+<div style="text-align: center;">
+    <img src="../assets/img/homepage_gallery/20250726_SummerPlayDay/1.png" width="100%"/>
+    <img src="../assets/img/homepage_gallery/20250726_SummerPlayDay/2.png" width="100%"/>
+</div>
+</details>
+
+<details style="margin-bottom: 5px;">
+<summary>2025년 7월 5일 Summer DMSLAB WorkShop</summary>
+<div style="text-align: center;">
+    <img src="../assets/img/homepage_gallery/20250705_SummerWorkShop/1.jpg" width="100%"/>
+    <img src="../assets/img/homepage_gallery/20250705_SummerWorkShop/2.jpg" width="100%"/>
+</div>
+</details>
+
+<details style="margin-bottom: 5px;">
+<summary>2025년 5월 15일 스승의 날</summary>
+<div style="text-align: center;">
+    <img src="../assets/img/homepage_gallery/20250515_T'sday/1.png" width="100%"/>
+</div>
+</details>
+
+<details style="margin-bottom: 5px;">
+<summary>2025년 3월 6일 OpenInfra 한국사용자모임</summary>
+<div style="text-align: center;">
+    <img src="../assets/img/homepage_gallery/20250306_OpenInfra/1.jpg" width="100%"/>
+    <img src="../assets/img/homepage_gallery/20250306_OpenInfra/2.jpg" width="100%"/>
+</div>
+</details>
+
+<details style="margin-bottom: 5px;">
+<summary>2025년 2월 21일 제 137회 학위수여식</summary>
+<div style="text-align: center;">
+    <img src="../assets/img/homepage_gallery/20250221_Grad/1.jpg" width="100%"/>
+    <img src="../assets/img/homepage_gallery/20250221_Grad/2.jpg" width="100%"/>
+</div>
+</details>
+
+<details style="margin-bottom: 5px;">
+<summary>2025년 1월 18일 Winter DMSLAB Workshop</summary>
+<div style="text-align: center;">
+    <img src="../assets/img/homepage_gallery/20250118_WinterWorkshop/1.jpg" width="100%"/>
+    <img src="../assets/img/homepage_gallery/20250118_WinterWorkshop/2.jpg" width="100%"/>
+    <img src="../assets/img/homepage_gallery/20250118_WinterWorkshop/3.jpg" width="100%"/>
+</div>
+</details>
+
+<details style="margin-bottom: 5px;">
+<summary>2025년 1월 8일 미래형자동차 수도권대학 공동세미나</summary>
+<div style="text-align: center;">
+    <img src="../assets/img/homepage_gallery/20250108_FutureCarSeminar/1.jpg" width="100%"/>
+    <img src="../assets/img/homepage_gallery/20250108_FutureCarSeminar/2.jpg" width="100%"/>
+    <img src="../assets/img/homepage_gallery/20250108_FutureCarSeminar/3.jpg" width="100%"/>
+    <img src="../assets/img/homepage_gallery/20250108_FutureCarSeminar/4.jpg" width="100%"/>
+</div>
+</details>
+
+<details style="margin-bottom: 5px;">
+<summary>2025년 1월 4일 Newyears Play Day</summary>
+<div style="text-align: center;">
+    <img src="../assets/img/homepage_gallery/20250104_NewYearsPlayDay/1.png" width="100%"/>
+    <img src="../assets/img/homepage_gallery/20250104_NewYearsPlayDay/2.jpg" width="100%"/>
+    <img src="../assets/img/homepage_gallery/20250104_NewYearsPlayDay/3.jpg" width="100%"/>
+    <img src="../assets/img/homepage_gallery/20250104_NewYearsPlayDay/4.jpg" width="100%"/>
+    <img src="../assets/img/homepage_gallery/20250104_NewYearsPlayDay/5.jpg" width="100%"/>
+</div>
+</details>
+<br>
+
 # 2024
 <details style="margin-bottom: 5px;">
 <summary>2024년 8월 10일 TNSLAB 미팅</summary>

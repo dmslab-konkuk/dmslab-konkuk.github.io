@@ -15,6 +15,15 @@ title: Computer Vision AI Area
  
 <br/>
  
+# Fine-Grained Recognition
+
+### Detailed Recognition in Elderly Daily Monitoring Using Fine-Grained Classification Techniques
+- The system leverages advanced image analysis techniques that extract fine details, such as texture, color, and shape, from visual inputs to distinguish between similar items. Additionally, a fine-tuned, lightweight neural network is utilized, ensuring the system operates efficiently in real-world environments, with quick processing and high accuracy. This approach enables real-time monitoring, providing caregivers with precise and timely information about the elderly's food and medication intake. We propose a fine-grained recognition framework that focuses on distinguishing these subtle differences, such as the slight visual differences between foods and medications and the variability in how they are consumed. This framework is composed of multiple models that extract features such as food characteristics, medication characteristics, and contextual factors like the dining environment, which are then integrated into a classification model to achieve accurate recognition. This fine-grained classification typically focuses on detecting minor visual differences. These differences often involve subtle variations in color, texture, shape, and patterns, which can be difficult to discern even with the human eye. Fine-Grained Visual Classification is an advanced image recognition technology that identifies subtle differences among similar categories of items. While general classification tasks distinguish clearly different categories, such as cats and dogs, fine-grained visual classification distinguishes more specific categories, such as various species of birds, different brands of cars, or similar-looking medications and foods. Fine-grained recognition is an important factor in elderly care, particularly for accurately identifying food and medication during daily monitoring. Distinguishing whether an elderly person is taking medication, drinking water, eating rice, or having soup, and further identifying the specific type of medication being consumed, has a significant impact on managing the health of the elderly.
+
+![alt_text](../research/cvfolder/fine-grained.png)
+
+<br/>
+
 # Face and Emotion Recognition
 
 ### Multi-task Emotion Recognition Based on Context-aware and Attention Module
@@ -45,6 +54,8 @@ title: Computer Vision AI Area
 - Activity Recognition
 	- [Multi-Label Activity Recognition using Activity-speciﬁc Features and Activity Correlations](https://arxiv.org/pdf/2009.07420)
 	- [Masked Autoencoders Are Scalable Vision Learners](https://arxiv.org/pdf/2111.06377)
+- Fine-Grained Recognition
+	- [Fine-grained Visual Classification with High-temperature Refinement and Background Suppression](https://arxiv.org/abs/2303.06442)
 - [Spatial Transformer Networks](https://arxiv.org/pdf/1506.02025)
 - [Vision Transformer](https://arxiv.org/pdf/2010.11929)
 

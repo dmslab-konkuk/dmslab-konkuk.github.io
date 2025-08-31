@@ -36,7 +36,7 @@ title: Junghyun Park
 - Frameworks/Libraries: PyTorch, TensorFlow, Keras, OpenCV, Scikit-learn, Pandas, NumPy, Matplotlib, PIL, Hugging Face Transformers, OpenAI API
 - Tools: Jupyter Notebook, Git, Docker, VS Code, Anaconda
 - Others: Data Science, Image Processing, Image Classification
-
+ 
 ### Contact Info
 email: knlight@konkuk.ac.kr / mmkndark@daum.net
 Phone: 010-4517-9307

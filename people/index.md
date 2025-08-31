@@ -5,48 +5,49 @@ title: People
 
 <br/>
 ### Director
-* [Prof. Dugki Min, Ph.D](./DugkiMin)
+* [Prof. Dugki Min(민덕기), Ph.D](./DugkiMin)
 
 ### Research Professor
-* [Prof. Tuan Anh Nguyen, Ph.D](./AnhNT)
+* [Prof. Tuan Anh Nguyen(투안), Ph.D](./AnhNT)
+
+### Post Doctor Course
+* [Jueying Li(이각영)](./JueyingLi)
+* [DamSub Lim(임담섭)](./DamsubLim)
 
 ### Ph.D Course
-* [DamSub Lim](./DamsubLim)
-* [Woojun Yoo](./YooWoojun)
-* [Jueying Li](./JueyingLi)
-* [Honggyu Kim](./KimHonggyu)
-* [WonJune Seo](./SeoWonJune)
+* [Woojun Yoo(유우준)](./YooWoojun)
+* [Honggyu Kim(김홍규)](./KimHonggyu)
+* [WonJune Seo(서원준)](./SeoWonJune)
+* [SeungJung Woo(우승정)](./SeungJungWoo)
 
 ### M.S Course
-* [Qiuhong Jin](./QiuhongJin)
-* [Tae-min Jung](./TaeminJung)
-* [Hayeong Park](./ParkHayeong)
-* [Uiseok Lee](./LeeUiseok)
-* [Hangyu Jin](./JinHangYu)
-* [JungHyun Park](./ParkJungHyun)
-* [Ojae Won](./WonOjae)
-* [Qihua Wei](./WeiQihua)
-* [SeongMin Park](./SeongMinPark)
-* [Jeongwoo Lee](./LeeJeongwoo)
-* [MinJi Joung](./MinjiJoung)
-* [Jisu Lee](./LeeJisu)
-* [Folaasen Henriette](./FolaasenHenriette)
+* [Ojae Won(원오재)](./WonOjae)
+* [Seongmin Park(박성민)](./SeongMinPark)
+* [Jeongwoo Lee(이정우)](./LeeJeongwoo)
+* [Minji Joung(정민지)](./MinjiJoung)
+* [Jisu Lee(이지수)](./LeeJisu)
+* [Henriette Folåsen(헨니)](./FolaasenHenriette)
+* [Shengxin Huang(황성흠)](./ShengxinHuang)
+* [Hyunseok Kang(강현석)](./KangHyunseok)
+* [Jung-geun Bong(봉정근)](./Jung-geunBong)
+* [YeChan Park(박예찬)](./ParkYeChan)
+* [MinGyu Kim(김민규)](./KimMingyu)
+* [ChanYong Park(박찬용)](./ChanYongPark)
+* [YeonWoo Sung(성연우)](./YeonWooSung)
+* [Choin Choi(최초인)](./ChoinChoi)
+* [Seki Sakura(세키사쿠라)](./SekiSakura)
+* [Ritu Ananya](./RituAnanya)
 
 ### B.S Course
-* [SeungHyeop Nam](./SeungHyeopNam)
-* [Sunjae Kwon](./SunjaeKwon)
-* [Dageun Shin](./ShinDageun)
-* [Seokjin Lee ](./LeeSeokjin)
-* [Seunghyun Kang](./KangSeunghyun)
-* [Yoonhwan Shon](./ShonYoonhwan)
-* [Uhyeok Bang](./BangUhyeok)
-* [Siyoung Kim](./KimSiyoung)
-* [Hyunseok Kang](./KangHyunseok)
-* [Kwangil Kim](./KimKwangil)
-* [MinGyu Kim](./KimMingyu)
+* [Seunghyun Kang(강승현)](./KangSeunghyun)
+* [MinHyeok Kwon(권민혁)](./MinHyeok)
+* [KyoJin Park(박교진)](./KyoJinPark)
+* [YuJin Kim(김유진)](./YuJin)
+* [DongHyun Jo(조동현)](./DongHyun)
+* [ChanHongg Hwang(황찬홍)](./HwangChanhongg)
+* [JungHun Kim(김정훈)](./KimJungHun)
+* [SunMin Jung(정선민)](./SunMinJung)
+* [Youbin Jeon(전유빈)](./YouBinJeon)
+* [Jonghyun Lee(이종현)](./JonghyunLee)
   
-### M.S Intern
-* [Jung-geun Bong](./Jung-geunBong)
-* [Sangwoo Park](./SangwooPark)
-
 ### [Alumni](./Alumni)

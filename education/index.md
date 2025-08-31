@@ -36,7 +36,7 @@ title: Education
 
 # Artificial Intelligent Classes
 
-### Open Source Software Project 1 (3-1)
+### Machine Learning (3-1)
 - Deep Learning from the basic
 - Artificial Neural Network
 - Neural Network Learning
@@ -45,10 +45,6 @@ title: Education
 - Generative Adversarial Network
 - Recurrent Neural Network
 - Transformer
-- Tensorflow 2.0 Framework
-<br/>
-
-### Open Source Software Project 2 (3-2)
 - Deep Reinforcement Learning from the basic
 - Dynamic Planning
 - Monte Calro Control
@@ -56,7 +52,5 @@ title: Education
 - Q-Learning
 - Deep Q Network (DQN)
 - REINFORCE algorithm
-- Actor-Critic: A2C, A3C
-- Monte Calro Tree Search
-- Pytorch 2.0 Framework
+- Actor-Critic
 <br/>- 

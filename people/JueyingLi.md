@@ -4,7 +4,7 @@ title: Jueying Li
 ---
 
 ## Jueying Li (이각영)
-![alt_text](../assets/img/profile/profile_JueyingLi.jpg)
+<img src="{{ site.baseurl }}/assets/img/profile/profile_JueyingLi.jpg" alt="alt_text" style="width: 150px; height: 250px; ">
 
 ### Research Interests
 - Cloud/Fog/Edge Computing
@@ -15,7 +15,7 @@ title: Jueying Li
 
 ### Contact Info
 - Lab : Room 1207, New Engineering Building
-- email: lijueying1108@konkuk.ac.kr
+- Email: lijueying1108@konkuk.ac.kr
 
 ### Papers
 1. Meng, Xiao, and **Jueying Li**. "Optimization of Character Animation Design and Motion Synthesis in Film and TV Media Based on Data Mining." (2024).
