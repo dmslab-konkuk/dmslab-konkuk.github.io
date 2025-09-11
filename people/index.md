@@ -7,8 +7,14 @@ title: People
 ### Director
 * [Prof. Dugki Min(민덕기), Ph.D](./DugkiMin)
 
-### Research Professor
+
+### Fellow International Professor
 * [Prof. Tuan Anh Nguyen(투안), Ph.D](./AnhNT)
+* [Prof. Vishnu Kumar Kaliappan (비쉬누쿠마), Ph.D](./VishnuKumar)
+* [Prof. Sakthivel Velusamy, Ph.D](./Sakthivel)
+* [Prof. Don, Sasikumar, Ph.D](./Sasikumar)
+
+
 
 ### Post Doctor Course
 * [Jueying Li(이각영)](./JueyingLi)

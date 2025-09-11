@@ -5,9 +5,7 @@ title: K. Vishnu Kumar, Ph.D
 
 ## K. Vishnu Kumar(비쉬누쿠마) Ph.D
 
-![alt_text](../assets/img/profile/profile-VishnuKumar.png)
-
-*	Email: vishnudms@gmail.com
+<img src="{{ site.baseurl }}/assets/img/profile/profile-VishnuKumar.png" alt="placeholder image" style="width: 250px; height: 250px;  object-fit: cover;">
 
 ### Biography 
 Dr. Vishnu Kumar Kaliappan is working as Research Professor at DMS Laboratory, Computer Science and Engineering, College of Engineering, Konkuk University, Seoul, South Korea. 
@@ -39,3 +37,11 @@ He has been acted as reviewer and editorial member for more 50 international con
 *	Deep Learning models for UAV high level Control system 
 *	Internet of Things
 
+### Contact Info
+* University : KPR Institute of Engineering and Technology
+* Email: vishnudms at gmail.com
+
+### Related Links
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-%2320beff?color=1f1f18&logo=google-scholar&style=flat-square)](https://scholar.google.com/citations?user=P2zl8lAAAAAJ&hl=en)
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dr-vishnu-kumar-kaliappan-a0109019/?originalSubdomain=in)
