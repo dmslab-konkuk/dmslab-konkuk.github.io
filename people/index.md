@@ -30,7 +30,6 @@ title: People
 * [Ojae Won(원오재)](./WonOjae)
 * [Seongmin Park(박성민)](./SeongMinPark)
 * [Jeongwoo Lee(이정우)](./LeeJeongwoo)
-* [Minji Joung(정민지)](./MinjiJoung)
 * [Jisu Lee(이지수)](./LeeJisu)
 * [Henriette Folåsen(헨니)](./FolaasenHenriette)
 * [Shengxin Huang(황성흠)](./ShengxinHuang)
@@ -45,15 +44,8 @@ title: People
 * [Ritu Ananya](./RituAnanya)
 
 ### B.S Course
-* [Seunghyun Kang(강승현)](./KangSeunghyun)
-* [MinHyeok Kwon(권민혁)](./MinHyeok)
-* [KyoJin Park(박교진)](./KyoJinPark)
 * [YuJin Kim(김유진)](./YuJin)
-* [DongHyun Jo(조동현)](./DongHyun)
 * [ChanHongg Hwang(황찬홍)](./HwangChanhongg)
-* [JungHun Kim(김정훈)](./KimJungHun)
 * [SunMin Jung(정선민)](./SunMinJung)
-* [Youbin Jeon(전유빈)](./YouBinJeon)
-* [Jonghyun Lee(이종현)](./JonghyunLee)
   
 ### [Alumni](./Alumni)
