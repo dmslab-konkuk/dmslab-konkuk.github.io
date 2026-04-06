@@ -4,7 +4,7 @@ title: ChanYong Park
 ---
 
 ## ChanYong Park (박찬용)
-![alt_text]({{ site.baseurl }}/assets/img/profile/profile_chanyongpark.jpeg)
+![alt_text]({{ site.baseurl }}/assets/img/profile/profile_chanyongpark_small.jpeg)
 
 ### Research Interests
 * Biomedical engineering
