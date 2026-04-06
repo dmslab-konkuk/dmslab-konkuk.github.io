@@ -45,12 +45,4 @@ title: Education
 - Generative Adversarial Network
 - Recurrent Neural Network
 - Transformer
-- Deep Reinforcement Learning from the basic
-- Dynamic Planning
-- Monte Calro Control
-- Temporal Difference Control
-- Q-Learning
-- Deep Q Network (DQN)
-- REINFORCE algorithm
-- Actor-Critic
-<br/>- 
+<br/>
