@@ -75,6 +75,7 @@ title: Alumni
 * [Junghyun Park(박정현, 2025)](/people//ParkJungHyun)
 * [Hayeong Park(박하영, 2025)](/people/ParkHayeong)
 * [Qihua Wei(위기화, 2025)](/people/WeiQihua)
+* [Minji Joung(정민지)](./MinjiJoung)
   
 ### Undergraduate Researcher 
 * Wongyeong Choi(최원경)
