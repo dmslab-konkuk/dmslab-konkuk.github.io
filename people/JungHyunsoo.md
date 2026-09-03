@@ -10,3 +10,4 @@ title: Hyunsoo Jung
 
 ### Contact Info
 * Lab : Room 1207, New Engineering Building
+* Email: jojo0305 at syuin.ac.kr

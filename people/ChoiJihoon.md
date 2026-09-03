@@ -10,3 +10,4 @@ title: Jihoon Choi
 
 ### Contact Info
 * Lab : Room 1207, New Engineering Building
+* Email: cjh1016 at konkuk.ac.kr

@@ -10,3 +10,4 @@ title: Suhyun Kim
 
 ### Contact Info
 * Lab : Room 1207, New Engineering Building
+* Email: shlab at konkuk.ac.kr

@@ -10,3 +10,4 @@ title: Hyunseop Kim
 
 ### Contact Info
 * Lab : Room 1207, New Engineering Building
+* Email: albert4323 at naver.com

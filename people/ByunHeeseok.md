@@ -10,3 +10,4 @@ title: Heeseok Byun
 
 ### Contact Info
 * Lab : Room 1207, New Engineering Building
+* Email: hayden.devwork at gmail.com

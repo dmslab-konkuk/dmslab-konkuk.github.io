@@ -10,3 +10,4 @@ title: Yejin Ho
 
 ### Contact Info
 * Lab : Room 1207, New Engineering Building
+* Email: hoyejin11 at konkuk.ac.kr

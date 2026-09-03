@@ -48,6 +48,7 @@ title: People
 * [Hyunsoo Jung(정현수)](./JungHyunsoo)
 * [Jihoon Choi(최지훈)](./ChoiJihoon)
 * [Suhyun Kim(김수현)](./KimSuhyun)
+* [Limo Johnson Samuel(리모 존슨 사무엘)](./LimoJohnsonSamuel)
 
 ### B.S Course
 * [YuJin Kim(김유진)](./YuJin)

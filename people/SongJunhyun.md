@@ -10,3 +10,4 @@ title: Junhyun Song
 
 ### Contact Info
 * Lab : Room 1207, New Engineering Building
+* Email: kello8257 at gmail.com

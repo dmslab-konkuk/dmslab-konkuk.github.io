@@ -10,3 +10,4 @@ title: Byungkwon Yoo
 
 ### Contact Info
 * Lab : Room 1207, New Engineering Building
+* Email: groove2u at gmail.com

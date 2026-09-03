@@ -10,3 +10,4 @@ title: Kyunghan Kim
 
 ### Contact Info
 * Lab : Room 1207, New Engineering Building
+* Email: kimkhan at konkuk.ac.kr
