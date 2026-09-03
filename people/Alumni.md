@@ -20,6 +20,7 @@ title: Alumni
 * Xuhua Rui (예쉬화, 2018)
 * MinGi Kyung (경민기, 2018)
 * [Jueying Li(이각영, 2025)](/people/JueyingLi)
+* [SeungJung Woo(우승정, 2026)](/people/SeungJungWoo)
 
 
 ### Master
@@ -76,6 +77,8 @@ title: Alumni
 * [Hayeong Park(박하영, 2025)](/people/ParkHayeong)
 * [Qihua Wei(위기화, 2025)](/people/WeiQihua)
 * [Minji Joung(정민지, 2026)](/people/MinjiJoung)
+* [Henriette Folåsen(헨니, 2026)](/people/FolaasenHenriette)
+* [Shengxin Huang(황성흠, 2026)](/people/ShengxinHuang)
   
 ### Undergraduate Researcher 
 * Wongyeong Choi(최원경)
